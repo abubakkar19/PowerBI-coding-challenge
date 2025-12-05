@@ -1,0 +1,1572 @@
+Customer_ID,Customer_Name,Gender,City,State,Quantity,Unit_Price,Discount_%,Total_Amount,Product_Category,Product_Name,Brand
+CUST1000,Karthik,Male,Lucknow,Uttar Pradesh,7,543,12,3344.88,Footwear,Sandals,Adidas
+CUST1001,Neha,Female,Kolkata,West Bengal,15,518,21,6138.3,Beauty,Face Cream,Lakme
+CUST1002,Arun,Male,Jaipur,Rajasthan,11,526,0,5786,Beauty,Face Cream,Mamaearth
+CUST1003,Amit,Male,Lucknow,Uttar Pradesh,8,578,1,4577.76,Beauty,Face Cream,Mamaearth
+CUST1004,Lakshmi,Female,Lucknow,Uttar Pradesh,7,574,28,2892.96,Accessories,Watch,Fossil
+CUST1005,Ravi,Male,Bengaluru,Karnataka,19,225,15,3633.75,Clothing,T-Shirt,Snitch
+CUST1006,Pooja,Female,Jaipur,Rajasthan,11,494,14,4673.24,Electronics,Earbuds,OnePlus
+CUST1007,Amit,Male,Mumbai,Maharashtra,11,916,12,8866.88,Electronics,Earbuds,Realme
+CUST1008,Neha,Female,Mumbai,Maharashtra,4,980,15,3332,Accessories,Watch,RayBan
+CUST1009,Deepak,Male,Pune,Maharashtra,8,905,16,6081.6,Clothing,Kurti,Zara
+CUST1010,Anita,Female,Chennai,Tamil Nadu,3,675,20,1620,Beauty,Hair Oil,Lakme
+CUST1011,Deepak,Male,Kolkata,West Bengal,2,424,28,610.56,Clothing,Hoodie,H&M
+CUST1012,Anita,Female,Chennai,Tamil Nadu,12,491,28,4242.24,Footwear,Sandals,Bata
+CUST1013,Anita,Female,Delhi,Delhi,6,787,6,4438.68,Beauty,Shampoo,Mamaearth
+CUST1014,Divya,Female,Pune,Maharashtra,2,727,23,1119.58,Accessories,Belt,Titan
+CUST1015,Amit,Male,Mumbai,Maharashtra,1,539,25,404.25,Clothing,Jeans,Zara
+CUST1016,Anita,Female,Jaipur,Rajasthan,12,303,16,3054.24,Accessories,Sunglasses,Titan
+CUST1017,Meera,Female,Delhi,Delhi,12,585,6,6598.8,Footwear,Loafers,Adidas
+CUST1018,Pooja,Female,Ahmedabad,Gujarat,17,932,12,13942.72,Accessories,Cap,Boat
+CUST1019,Manoj,Male,Jaipur,Rajasthan,10,130,4,1248,Footwear,Loafers,Bata
+CUST1020,Priya,Female,Kolkata,West Bengal,16,487,25,5844,Clothing,Jeans,Snitch
+CUST1021,Anita,Female,Jaipur,Rajasthan,15,724,16,9122.4,Accessories,Sunglasses,Fossil
+CUST1022,Arun,Male,Jaipur,Rajasthan,15,976,2,14347.2,Footwear,Loafers,Bata
+CUST1023,Naveen,Male,Lucknow,Uttar Pradesh,19,533,6,9519.38,Accessories,Cap,Boat
+CUST1024,Arun,Male,Pune,Maharashtra,12,936,25,8424,Footwear,Sneakers,Nike
+CUST1025,Deepak,Male,Ahmedabad,Gujarat,3,475,16,1197,Electronics,Bluetooth Speaker,Boat
+CUST1026,Naveen,Male,Bengaluru,Karnataka,5,443,6,2082.1,Accessories,Belt,Fossil
+CUST1027,Amit,Male,Hyderabad,Telangana,19,542,20,8238.4,Clothing,Jeans,Zara
+CUST1028,Meera,Female,Jaipur,Rajasthan,7,678,0,4746,Accessories,Belt,Boat
+CUST1029,Arun,Male,Hyderabad,Telangana,9,174,16,1315.44,Accessories,Cap,RayBan
+CUST1030,Manoj,Male,Delhi,Delhi,7,656,29,3260.32,Electronics,Bluetooth Speaker,Realme
+CUST1031,Rahul,Male,Jaipur,Rajasthan,18,871,16,13169.52,Footwear,Loafers,Bata
+CUST1032,Arun,Male,Jaipur,Rajasthan,4,765,10,2754,Footwear,Sneakers,Nike
+CUST1033,Lakshmi,Female,Bengaluru,Karnataka,14,254,24,2702.56,Accessories,Watch,Titan
+CUST1034,Naveen,Male,Lucknow,Uttar Pradesh,18,529,26,7046.28,Footwear,Sneakers,Adidas
+CUST1035,Vijay,Male,Pune,Maharashtra,9,462,28,2993.76,Accessories,Cap,Fossil
+CUST1036,Divya,Female,Jaipur,Rajasthan,2,547,2,1072.12,Accessories,Belt,Boat
+CUST1037,Vijay,Male,Ahmedabad,Gujarat,15,333,14,4295.7,Clothing,Hoodie,Snitch
+CUST1038,Amit,Male,Jaipur,Rajasthan,7,662,28,3336.48,Accessories,Belt,Titan
+CUST1039,Naveen,Male,Jaipur,Rajasthan,12,917,20,8803.2,Clothing,Shirt,Levis
+CUST1040,Neha,Female,Bengaluru,Karnataka,8,361,10,2599.2,Accessories,Belt,Fossil
+CUST1041,Priya,Female,Kolkata,West Bengal,15,926,25,10417.5,Footwear,Sneakers,Puma
+CUST1042,Rahul,Male,Ahmedabad,Gujarat,3,224,27,490.56,Electronics,Earbuds,Realme
+CUST1043,Neha,Female,Pune,Maharashtra,14,344,15,4093.6,Electronics,Earbuds,Boat
+CUST1044,Rahul,Male,Ahmedabad,Gujarat,17,641,24,8281.72,Accessories,Belt,Boat
+CUST1045,Lakshmi,Female,Kolkata,West Bengal,4,584,21,1845.44,Beauty,Perfume,Loreal
+CUST1046,Priya,Female,Delhi,Delhi,18,221,27,2903.94,Clothing,Jeans,Snitch
+CUST1047,Divya,Female,Lucknow,Uttar Pradesh,8,224,8,1648.64,Electronics,Bluetooth Speaker,OnePlus
+CUST1048,Divya,Female,Ahmedabad,Gujarat,4,648,23,1995.84,Accessories,Belt,Fossil
+CUST1049,Priya,Female,Lucknow,Uttar Pradesh,2,269,23,414.26,Accessories,Sunglasses,Boat
+CUST1050,Anita,Female,Hyderabad,Telangana,6,223,0,1338,Electronics,Bluetooth Speaker,OnePlus
+CUST1051,Ravi,Male,Bengaluru,Karnataka,10,968,28,6969.6,Electronics,Smartwatch,Boat
+CUST1052,Ravi,Male,Hyderabad,Telangana,4,134,24,407.36,Electronics,Earbuds,Boat
+CUST1053,Lakshmi,Female,Mumbai,Maharashtra,18,186,21,2644.92,Electronics,Earbuds,Noise
+CUST1054,Sangeeta,Female,Pune,Maharashtra,12,745,15,7599,Footwear,Sneakers,Nike
+CUST1055,Amit,Male,Ahmedabad,Gujarat,2,807,8,1484.88,Beauty,Face Cream,Loreal
+CUST1056,Lakshmi,Female,Hyderabad,Telangana,10,885,18,7257,Accessories,Belt,Fossil
+CUST1057,Radhika,Female,Lucknow,Uttar Pradesh,4,300,11,1068,Footwear,Sneakers,Adidas
+CUST1058,Karthik,Male,Kolkata,West Bengal,14,468,18,5372.64,Footwear,Loafers,Bata
+CUST1059,Pooja,Female,Lucknow,Uttar Pradesh,16,896,21,11325.44,Electronics,Earbuds,Realme
+CUST1060,Neha,Female,Delhi,Delhi,15,176,8,2428.8,Electronics,Bluetooth Speaker,Realme
+CUST1061,Karthik,Male,Bengaluru,Karnataka,8,158,6,1188.16,Footwear,Loafers,Adidas
+CUST1062,Sanjay,Male,Lucknow,Uttar Pradesh,14,530,13,6455.4,Accessories,Sunglasses,Boat
+CUST1063,Rahul,Male,Hyderabad,Telangana,8,737,28,4245.12,Electronics,Earbuds,OnePlus
+CUST1064,Sanjay,Male,Ahmedabad,Gujarat,16,599,18,7858.88,Footwear,Sneakers,Puma
+CUST1065,Naveen,Male,Hyderabad,Telangana,13,208,18,2217.28,Beauty,Hair Oil,Nivea
+CUST1066,Amit,Male,Lucknow,Uttar Pradesh,18,835,1,14879.7,Accessories,Sunglasses,Titan
+CUST1067,Sangeeta,Female,Kolkata,West Bengal,15,377,8,5202.6,Accessories,Cap,RayBan
+CUST1068,Sangeeta,Female,Pune,Maharashtra,13,167,12,1910.48,Footwear,Running Shoes,Puma
+CUST1069,Kavya,Female,Delhi,Delhi,9,168,14,1300.32,Accessories,Sunglasses,Fossil
+CUST1070,Anita,Female,Kolkata,West Bengal,15,264,2,3880.8,Accessories,Sunglasses,Titan
+CUST1071,Neha,Female,Hyderabad,Telangana,13,588,10,6879.6,Accessories,Cap,Titan
+CUST1072,Kavya,Female,Jaipur,Rajasthan,1,404,20,323.2,Electronics,Power Bank,Boat
+CUST1073,Priya,Female,Pune,Maharashtra,7,773,13,4707.57,Accessories,Sunglasses,Titan
+CUST1074,Meera,Female,Mumbai,Maharashtra,9,464,29,2964.96,Electronics,Bluetooth Speaker,OnePlus
+CUST1075,Sanjay,Male,Ahmedabad,Gujarat,1,953,24,724.28,Accessories,Watch,RayBan
+CUST1076,Pooja,Female,Delhi,Delhi,12,920,7,10267.2,Beauty,Shampoo,Mamaearth
+CUST1077,Divya,Female,Lucknow,Uttar Pradesh,8,478,17,3173.92,Electronics,Smartwatch,Realme
+CUST1078,Deepak,Male,Mumbai,Maharashtra,11,442,18,3986.84,Clothing,Kurti,Snitch
+CUST1079,Priya,Female,Bengaluru,Karnataka,19,998,15,16117.7,Clothing,Jeans,Levis
+CUST1080,Sanjay,Male,Ahmedabad,Gujarat,17,653,1,10989.99,Clothing,Hoodie,H&M
+CUST1081,Pooja,Female,Bengaluru,Karnataka,8,453,7,3370.32,Electronics,Bluetooth Speaker,OnePlus
+CUST1082,Anita,Female,Pune,Maharashtra,3,515,21,1220.55,Accessories,Belt,Fossil
+CUST1083,Radhika,Female,Kolkata,West Bengal,3,208,5,592.8,Clothing,Kurti,Zara
+CUST1084,Priya,Female,Kolkata,West Bengal,1,662,11,589.18,Electronics,Power Bank,OnePlus
+CUST1085,Ravi,Male,Lucknow,Uttar Pradesh,5,861,14,3702.3,Beauty,Perfume,Nivea
+CUST1086,Meera,Female,Hyderabad,Telangana,10,596,24,4529.6,Beauty,Face Cream,Mamaearth
+CUST1087,Deepak,Male,Jaipur,Rajasthan,7,440,7,2864.4,Beauty,Shampoo,Mamaearth
+CUST1088,Arun,Male,Ahmedabad,Gujarat,9,482,3,4207.86,Clothing,Kurti,H&M
+CUST1089,Rahul,Male,Hyderabad,Telangana,7,632,14,3804.64,Footwear,Running Shoes,Bata
+CUST1090,Anita,Female,Chennai,Tamil Nadu,9,399,27,2621.43,Footwear,Sneakers,Puma
+CUST1091,Manoj,Male,Mumbai,Maharashtra,8,238,19,1542.24,Accessories,Belt,Titan
+CUST1092,Ravi,Male,Chennai,Tamil Nadu,12,458,24,4176.96,Beauty,Shampoo,Lakme
+CUST1093,Anita,Female,Hyderabad,Telangana,2,935,16,1570.8,Electronics,Smartwatch,OnePlus
+CUST1094,Sangeeta,Female,Chennai,Tamil Nadu,1,598,12,526.24,Accessories,Sunglasses,Boat
+CUST1095,Vijay,Male,Pune,Maharashtra,16,484,17,6427.52,Beauty,Hair Oil,Nivea
+CUST1096,Radhika,Female,Hyderabad,Telangana,5,703,1,3479.85,Footwear,Sneakers,Puma
+CUST1097,Lakshmi,Female,Ahmedabad,Gujarat,3,379,12,1000.56,Footwear,Sandals,Nike
+CUST1098,Ravi,Male,Ahmedabad,Gujarat,12,736,12,7772.16,Footwear,Sneakers,Bata
+CUST1099,Karthik,Male,Pune,Maharashtra,8,582,21,3678.24,Clothing,Shirt,Levis
+CUST1100,Kavya,Female,Kolkata,West Bengal,3,210,14,541.8,Electronics,Power Bank,Realme
+CUST1101,Manoj,Male,Jaipur,Rajasthan,1,965,19,781.65,Accessories,Belt,Boat
+CUST1102,Sanjay,Male,Bengaluru,Karnataka,3,238,28,514.08,Beauty,Perfume,Loreal
+CUST1103,Vijay,Male,Jaipur,Rajasthan,5,534,26,1975.8,Footwear,Sandals,Nike
+CUST1104,Sanjay,Male,Jaipur,Rajasthan,15,608,9,8299.2,Clothing,Kurti,Snitch
+CUST1105,Sanjay,Male,Pune,Maharashtra,14,372,28,3749.76,Accessories,Belt,Fossil
+CUST1106,Vijay,Male,Bengaluru,Karnataka,3,198,2,582.12,Accessories,Cap,RayBan
+CUST1107,Priya,Female,Kolkata,West Bengal,1,863,18,707.66,Electronics,Bluetooth Speaker,Noise
+CUST1108,Pooja,Female,Jaipur,Rajasthan,5,949,2,4650.1,Clothing,Shirt,Snitch
+CUST1109,Karthik,Male,Lucknow,Uttar Pradesh,14,203,21,2245.18,Footwear,Running Shoes,Nike
+CUST1110,Anita,Female,Chennai,Tamil Nadu,7,313,13,1906.17,Beauty,Face Cream,Lakme
+CUST1111,Manoj,Male,Ahmedabad,Gujarat,9,860,7,7198.2,Accessories,Sunglasses,Boat
+CUST1112,Arun,Male,Lucknow,Uttar Pradesh,15,763,26,8469.3,Beauty,Shampoo,Lakme
+CUST1113,Deepak,Male,Lucknow,Uttar Pradesh,15,861,22,10073.7,Beauty,Face Cream,Nivea
+CUST1114,Vijay,Male,Lucknow,Uttar Pradesh,10,886,29,6290.6,Electronics,Power Bank,OnePlus
+CUST1115,Neha,Female,Pune,Maharashtra,13,264,3,3329.04,Accessories,Cap,RayBan
+CUST1116,Kavya,Female,Delhi,Delhi,19,952,26,13385.12,Clothing,Jeans,H&M
+CUST1117,Lakshmi,Female,Delhi,Delhi,7,619,27,3163.09,Clothing,Jeans,H&M
+CUST1118,Meera,Female,Kolkata,West Bengal,17,383,19,5273.91,Electronics,Bluetooth Speaker,Noise
+CUST1119,Radhika,Female,Kolkata,West Bengal,4,616,10,2217.6,Footwear,Loafers,Adidas
+CUST1120,Ravi,Male,Hyderabad,Telangana,5,756,25,2835,Clothing,Jeans,Levis
+CUST1121,Rahul,Male,Hyderabad,Telangana,7,712,10,4485.6,Beauty,Hair Oil,Loreal
+CUST1122,Kavya,Female,Jaipur,Rajasthan,13,263,26,2530.06,Footwear,Sandals,Nike
+CUST1123,Deepak,Male,Jaipur,Rajasthan,15,985,29,10490.25,Clothing,T-Shirt,Snitch
+CUST1124,Naveen,Male,Mumbai,Maharashtra,11,758,10,7504.2,Clothing,Hoodie,H&M
+CUST1125,Arun,Male,Ahmedabad,Gujarat,4,163,1,645.48,Beauty,Perfume,Lakme
+CUST1126,Anita,Female,Jaipur,Rajasthan,13,190,29,1753.7,Clothing,Hoodie,Snitch
+CUST1127,Sangeeta,Female,Lucknow,Uttar Pradesh,7,216,16,1270.08,Accessories,Watch,Boat
+CUST1128,Vijay,Male,Hyderabad,Telangana,19,965,8,16868.2,Accessories,Belt,Boat
+CUST1129,Meera,Female,Pune,Maharashtra,2,366,27,534.36,Electronics,Bluetooth Speaker,Boat
+CUST1130,Vijay,Male,Ahmedabad,Gujarat,10,921,27,6723.3,Footwear,Sandals,Puma
+CUST1131,Sanjay,Male,Pune,Maharashtra,13,784,1,10090.08,Footwear,Loafers,Puma
+CUST1132,Vijay,Male,Hyderabad,Telangana,6,658,28,2842.56,Electronics,Bluetooth Speaker,OnePlus
+CUST1133,Sangeeta,Female,Chennai,Tamil Nadu,12,239,23,2208.36,Electronics,Power Bank,Boat
+CUST1134,Divya,Female,Kolkata,West Bengal,12,345,14,3560.4,Beauty,Hair Oil,Loreal
+CUST1135,Arun,Male,Bengaluru,Karnataka,11,760,15,7106,Electronics,Smartwatch,Realme
+CUST1136,Manoj,Male,Kolkata,West Bengal,7,857,24,4559.24,Electronics,Bluetooth Speaker,Boat
+CUST1137,Karthik,Male,Ahmedabad,Gujarat,1,494,3,479.18,Electronics,Bluetooth Speaker,OnePlus
+CUST1138,Meera,Female,Ahmedabad,Gujarat,1,586,7,544.98,Accessories,Sunglasses,Fossil
+CUST1139,Priya,Female,Delhi,Delhi,13,575,8,6877,Clothing,Jeans,Snitch
+CUST1140,Sangeeta,Female,Lucknow,Uttar Pradesh,9,616,25,4158,Beauty,Face Cream,Loreal
+CUST1141,Anita,Female,Chennai,Tamil Nadu,3,283,25,636.75,Beauty,Perfume,Lakme
+CUST1142,Priya,Female,Bengaluru,Karnataka,7,119,4,799.68,Clothing,Shirt,Snitch
+CUST1143,Amit,Male,Delhi,Delhi,6,657,15,3350.7,Beauty,Hair Oil,Lakme
+CUST1144,Rahul,Male,Delhi,Delhi,8,623,12,4385.92,Accessories,Sunglasses,RayBan
+CUST1145,Manoj,Male,Mumbai,Maharashtra,9,681,29,4351.59,Accessories,Cap,Fossil
+CUST1146,Deepak,Male,Bengaluru,Karnataka,5,628,6,2951.6,Electronics,Smartwatch,Noise
+CUST1147,Sangeeta,Female,Kolkata,West Bengal,1,982,25,736.5,Electronics,Power Bank,OnePlus
+CUST1148,Radhika,Female,Pune,Maharashtra,19,246,19,3785.94,Electronics,Earbuds,Boat
+CUST1149,Karthik,Male,Mumbai,Maharashtra,10,765,16,6426,Clothing,Hoodie,H&M
+CUST1150,Naveen,Male,Kolkata,West Bengal,12,403,2,4739.28,Footwear,Loafers,Puma
+CUST1151,Naveen,Male,Ahmedabad,Gujarat,15,719,4,10353.6,Footwear,Sneakers,Adidas
+CUST1152,Priya,Female,Bengaluru,Karnataka,9,847,18,6250.86,Electronics,Earbuds,OnePlus
+CUST1153,Priya,Female,Jaipur,Rajasthan,17,919,11,13904.47,Footwear,Loafers,Bata
+CUST1154,Deepak,Male,Pune,Maharashtra,17,963,28,11787.12,Electronics,Bluetooth Speaker,OnePlus
+CUST1155,Kavya,Female,Lucknow,Uttar Pradesh,12,681,26,6047.28,Footwear,Loafers,Adidas
+CUST1156,Sanjay,Male,Mumbai,Maharashtra,7,794,6,5224.52,Beauty,Face Cream,Mamaearth
+CUST1157,Naveen,Male,Ahmedabad,Gujarat,2,861,27,1257.06,Clothing,Shirt,Zara
+CUST1158,Divya,Female,Chennai,Tamil Nadu,3,327,8,902.52,Footwear,Loafers,Bata
+CUST1159,Karthik,Male,Mumbai,Maharashtra,17,201,27,2494.41,Electronics,Bluetooth Speaker,Boat
+CUST1160,Manoj,Male,Chennai,Tamil Nadu,5,686,5,3258.5,Clothing,Kurti,Levis
+CUST1161,Deepak,Male,Kolkata,West Bengal,17,516,28,6315.84,Footwear,Loafers,Adidas
+CUST1162,Meera,Female,Chennai,Tamil Nadu,17,315,25,4016.25,Clothing,T-Shirt,H&M
+CUST1163,Arun,Male,Mumbai,Maharashtra,17,506,16,7225.68,Footwear,Loafers,Puma
+CUST1164,Sangeeta,Female,Lucknow,Uttar Pradesh,2,498,15,846.6,Accessories,Cap,Titan
+CUST1165,Amit,Male,Hyderabad,Telangana,2,814,22,1269.84,Accessories,Belt,Fossil
+CUST1166,Sangeeta,Female,Lucknow,Uttar Pradesh,5,803,2,3934.7,Clothing,Kurti,H&M
+CUST1167,Sangeeta,Female,Jaipur,Rajasthan,1,860,20,688,Footwear,Sneakers,Puma
+CUST1168,Manoj,Male,Jaipur,Rajasthan,1,598,25,448.5,Accessories,Cap,Fossil
+CUST1169,Amit,Male,Pune,Maharashtra,19,853,3,15720.79,Footwear,Loafers,Bata
+CUST1170,Sangeeta,Female,Ahmedabad,Gujarat,2,564,9,1026.48,Clothing,Jeans,Levis
+CUST1171,Rahul,Male,Kolkata,West Bengal,12,790,4,9100.8,Electronics,Bluetooth Speaker,Noise
+CUST1172,Radhika,Female,Mumbai,Maharashtra,6,830,20,3984,Clothing,T-Shirt,Levis
+CUST1173,Amit,Male,Bengaluru,Karnataka,4,181,21,571.96,Footwear,Running Shoes,Puma
+CUST1174,Amit,Male,Bengaluru,Karnataka,11,703,29,5490.43,Electronics,Power Bank,Realme
+CUST1175,Sanjay,Male,Pune,Maharashtra,17,786,9,12159.42,Clothing,Kurti,H&M
+CUST1176,Divya,Female,Jaipur,Rajasthan,6,850,11,4539,Clothing,Jeans,Levis
+CUST1177,Sangeeta,Female,Delhi,Delhi,5,871,9,3963.05,Footwear,Sneakers,Nike
+CUST1178,Ravi,Male,Pune,Maharashtra,2,464,28,668.16,Accessories,Belt,Boat
+CUST1179,Amit,Male,Chennai,Tamil Nadu,6,262,12,1383.36,Footwear,Loafers,Puma
+CUST1180,Kavya,Female,Mumbai,Maharashtra,11,147,10,1455.3,Accessories,Watch,RayBan
+CUST1181,Deepak,Male,Bengaluru,Karnataka,16,610,21,7710.4,Electronics,Bluetooth Speaker,Noise
+CUST1182,Pooja,Female,Pune,Maharashtra,16,428,15,5820.8,Beauty,Perfume,Loreal
+CUST1183,Karthik,Male,Ahmedabad,Gujarat,1,939,7,873.27,Footwear,Loafers,Puma
+CUST1184,Rahul,Male,Bengaluru,Karnataka,9,215,7,1799.55,Accessories,Sunglasses,RayBan
+CUST1185,Sanjay,Male,Jaipur,Rajasthan,6,948,26,4209.12,Electronics,Power Bank,Realme
+CUST1186,Anita,Female,Pune,Maharashtra,16,436,24,5301.76,Clothing,T-Shirt,H&M
+CUST1187,Sanjay,Male,Chennai,Tamil Nadu,3,980,7,2734.2,Clothing,Shirt,H&M
+CUST1188,Naveen,Male,Delhi,Delhi,4,836,12,2942.72,Electronics,Earbuds,Realme
+CUST1189,Karthik,Male,Bengaluru,Karnataka,19,963,26,13539.78,Accessories,Belt,RayBan
+CUST1190,Divya,Female,Lucknow,Uttar Pradesh,3,939,1,2788.83,Accessories,Sunglasses,RayBan
+CUST1191,Manoj,Male,Jaipur,Rajasthan,19,246,29,3318.54,Electronics,Earbuds,Boat
+CUST1192,Amit,Male,Chennai,Tamil Nadu,7,674,29,3349.78,Clothing,T-Shirt,Levis
+CUST1193,Manoj,Male,Delhi,Delhi,null,905,11,null,Accessories,Cap,Fossil
+CUST1194,Anita,Female,Mumbai,Maharashtra,1,422,9,384.02,Footwear,Loafers,Adidas
+CUST1195,Vijay,Male,Kolkata,West Bengal,8,542,11,3859.04,Footwear,Sneakers,Puma
+CUST1196,Vijay,Male,Lucknow,Uttar Pradesh,7,936,10,5896.8,Accessories,Watch,RayBan
+CUST1197,Arun,Male,Pune,Maharashtra,18,112,14,1733.76,Electronics,Smartwatch,Boat
+CUST1198,Neha,Female,Delhi,Delhi,8,593,15,4032.4,Beauty,Shampoo,Nivea
+CUST1199,Neha,Female,Kolkata,West Bengal,1,800,16,672,Electronics,Power Bank,Noise
+CUST1200,Rahul,Male,Delhi,Delhi,11,386,25,3184.5,Electronics,Earbuds,Realme
+CUST1201,Amit,Male,Lucknow,Uttar Pradesh,18,819,1,14594.58,Footwear,Sandals,Adidas
+CUST1202,Sanjay,Male,Jaipur,Rajasthan,10,213,17,1767.9,Footwear,Sneakers,Nike
+CUST1203,Rahul,Male,Ahmedabad,Gujarat,3,579,11,1545.93,Beauty,Shampoo,Lakme
+CUST1204,Sangeeta,Female,Ahmedabad,Gujarat,7,121,18,694.54,Electronics,Power Bank,Noise
+CUST1205,Kavya,Female,Mumbai,Maharashtra,16,448,25,5376,Footwear,Sneakers,Puma
+CUST1206,Pooja,Female,Jaipur,Rajasthan,16,825,22,10296,Accessories,Belt,Fossil
+CUST1207,Neha,Female,Delhi,Delhi,17,782,17,11034.02,Clothing,Kurti,Levis
+CUST1208,Ravi,Male,Hyderabad,Telangana,2,934,29,1326.28,Clothing,T-Shirt,H&M
+CUST1209,Rahul,Male,Lucknow,Uttar Pradesh,1,665,16,558.6,Electronics,Smartwatch,Realme
+CUST1210,Priya,Female,Pune,Maharashtra,16,909,29,10326.24,Beauty,Face Cream,Mamaearth
+CUST1211,Pooja,Female,Pune,Maharashtra,12,419,5,4776.6,Beauty,Hair Oil,Mamaearth
+CUST1212,Naveen,Male,Delhi,Delhi,5,225,24,855,Beauty,Face Cream,Mamaearth
+CUST1213,Neha,Female,Pune,Maharashtra,5,376,14,1616.8,Beauty,Shampoo,Nivea
+CUST1214,Kavya,Female,Kolkata,West Bengal,9,303,2,2672.46,Accessories,Sunglasses,Fossil
+CUST1215,Rahul,Male,Chennai,Tamil Nadu,9,293,5,2505.15,Accessories,Watch,RayBan
+CUST1216,Divya,Female,Chennai,Tamil Nadu,3,780,2,2293.2,Electronics,Earbuds,Realme
+CUST1217,Ravi,Male,Kolkata,West Bengal,19,763,29,10292.87,Clothing,Shirt,H&M
+CUST1218,Amit,Male,Delhi,Delhi,16,646,28,7441.92,Footwear,Sandals,Puma
+CUST1219,Rahul,Male,Lucknow,Uttar Pradesh,16,795,0,12720,Beauty,Hair Oil,Loreal
+CUST1220,Naveen,Male,Pune,Maharashtra,3,385,29,820.05,Electronics,Smartwatch,Boat
+CUST1221,Deepak,Male,Hyderabad,Telangana,1,156,12,137.28,Accessories,Belt,Boat
+CUST1222,Divya,Female,Delhi,Delhi,11,833,27,6688.99,Beauty,Face Cream,Mamaearth
+CUST1223,Anita,Female,Bengaluru,Karnataka,17,402,20,5467.2,Beauty,Perfume,Nivea
+CUST1224,Pooja,Female,Bengaluru,Karnataka,8,262,25,1572,Beauty,Shampoo,Mamaearth
+CUST1225,Manoj,Male,Lucknow,Uttar Pradesh,4,118,13,410.64,Electronics,Earbuds,Boat
+CUST1226,Divya,Female,Bengaluru,Karnataka,6,469,12,2476.32,Footwear,Loafers,Bata
+CUST1227,Lakshmi,Female,Hyderabad,Telangana,8,363,26,2148.96,Beauty,Shampoo,Lakme
+CUST1228,Anita,Female,Ahmedabad,Gujarat,3,893,3,2598.63,Accessories,Belt,Titan
+CUST1229,Lakshmi,Female,Jaipur,Rajasthan,16,212,6,3188.48,Electronics,Bluetooth Speaker,Noise
+CUST1230,Manoj,Male,Bengaluru,Karnataka,3,587,21,1391.19,Clothing,Shirt,Levis
+CUST1231,Sanjay,Male,Chennai,Tamil Nadu,18,426,9,6977.88,Electronics,Power Bank,Noise
+CUST1232,Manoj,Male,Pune,Maharashtra,14,641,6,8435.56,Electronics,Earbuds,OnePlus
+CUST1233,Manoj,Male,Delhi,Delhi,18,746,20,10742.4,Electronics,Power Bank,OnePlus
+CUST1234,Anita,Female,Chennai,Tamil Nadu,2,678,14,1166.16,Clothing,Jeans,H&M
+CUST1235,Sangeeta,Female,Bengaluru,Karnataka,3,164,14,423.12,Clothing,Hoodie,Levis
+CUST1236,Amit,Male,Mumbai,Maharashtra,16,391,3,6068.32,Clothing,Jeans,Zara
+CUST1237,Radhika,Female,Hyderabad,Telangana,9,124,22,870.48,Electronics,Earbuds,Realme
+CUST1238,Neha,Female,Bengaluru,Karnataka,4,648,22,2021.76,Clothing,T-Shirt,H&M
+CUST1239,Deepak,Male,Mumbai,Maharashtra,1,100,null,null,Electronics,Power Bank,Realme
+CUST1240,Vijay,Male,Kolkata,West Bengal,4,648,23,1995.84,Footwear,Sneakers,Puma
+CUST1241,Kavya,Female,Mumbai,Maharashtra,1,240,19,194.4,Footwear,Loafers,Adidas
+CUST1242,Anita,Female,Chennai,Tamil Nadu,14,843,25,8851.5,Footwear,Running Shoes,Puma
+CUST1243,Divya,Female,Bengaluru,Karnataka,16,747,4,11473.92,Electronics,Earbuds,Noise
+CUST1244,Kavya,Female,Lucknow,Uttar Pradesh,8,287,19,1859.76,Footwear,Sneakers,Nike
+CUST1245,Priya,Female,Chennai,Tamil Nadu,7,227,11,1414.21,Footwear,Loafers,Adidas
+CUST1246,Arun,Male,Ahmedabad,Gujarat,3,300,0,900,Electronics,Earbuds,Realme
+CUST1247,Sangeeta,Female,Hyderabad,Telangana,17,226,27,2804.66,Footwear,Sneakers,Puma
+CUST1248,Naveen,Male,Ahmedabad,Gujarat,1,356,7,331.08,Electronics,Power Bank,Boat
+CUST1249,Lakshmi,Female,Chennai,Tamil Nadu,16,775,0,12400,Accessories,Belt,Titan
+CUST1250,Ravi,Male,Chennai,Tamil Nadu,12,646,4,7441.92,Clothing,Kurti,Zara
+CUST1251,Kavya,Female,Lucknow,Uttar Pradesh,19,293,21,4397.93,Footwear,Running Shoes,Puma
+CUST1252,Lakshmi,Female,Kolkata,West Bengal,14,802,5,10666.6,Beauty,Shampoo,Nivea
+CUST1253,Deepak,Male,Pune,Maharashtra,6,203,28,876.96,Beauty,Perfume,Loreal
+CUST1254,Arun,Male,Mumbai,Maharashtra,6,634,20,3043.2,Footwear,Loafers,Bata
+CUST1255,Karthik,Male,Lucknow,Uttar Pradesh,13,364,2,4637.36,Accessories,Belt,Boat
+CUST1256,Sangeeta,Female,Pune,Maharashtra,19,901,14,14722.34,Electronics,Power Bank,Realme
+CUST1257,Deepak,Male,Mumbai,Maharashtra,8,483,4,3709.44,Clothing,Kurti,Snitch
+CUST1258,Lakshmi,Female,Bengaluru,Karnataka,2,359,27,524.14,Footwear,Sneakers,Puma
+CUST1259,Lakshmi,Female,Kolkata,West Bengal,1,513,23,395.01,Beauty,Perfume,Lakme
+CUST1260,Sangeeta,Female,Delhi,Delhi,15,457,13,5963.85,Electronics,Earbuds,Realme
+CUST1261,Radhika,Female,Delhi,Delhi,1,174,17,144.42,Clothing,Hoodie,H&M
+CUST1262,Amit,Male,Ahmedabad,Gujarat,5,454,15,1929.5,Clothing,Shirt,Snitch
+CUST1263,Pooja,Female,Chennai,Tamil Nadu,16,683,5,10381.6,Accessories,Watch,Fossil
+CUST1264,Sanjay,Male,Bengaluru,Karnataka,19,870,24,12562.8,Clothing,Kurti,H&M
+CUST1265,Priya,Female,Mumbai,Maharashtra,4,287,23,883.96,Accessories,Cap,Titan
+CUST1266,Neha,Female,Pune,Maharashtra,3,784,13,2046.24,Electronics,Bluetooth Speaker,Noise
+CUST1267,Divya,Female,Jaipur,Rajasthan,17,389,26,4893.62,Clothing,Kurti,Zara
+CUST1268,Manoj,Male,Ahmedabad,Gujarat,17,144,23,1884.96,Accessories,Sunglasses,Titan
+CUST1269,Rahul,Male,Kolkata,West Bengal,12,672,7,7499.52,Footwear,Loafers,Adidas
+CUST1270,Pooja,Female,Pune,Maharashtra,14,182,28,1834.56,Electronics,Power Bank,Realme
+CUST1271,Vijay,Male,Jaipur,Rajasthan,6,222,6,1252.08,Electronics,Bluetooth Speaker,Noise
+CUST1272,Meera,Female,Bengaluru,Karnataka,3,457,7,1275.03,Clothing,Jeans,Levis
+CUST1273,Karthik,Male,Jaipur,Rajasthan,9,627,12,4965.84,Electronics,Smartwatch,Boat
+CUST1274,Rahul,Male,Pune,Maharashtra,5,165,5,783.75,Beauty,Shampoo,Nivea
+CUST1275,Lakshmi,Female,Mumbai,Maharashtra,17,756,17,10667.16,Clothing,Shirt,Snitch
+CUST1276,Arun,Male,Kolkata,West Bengal,14,474,1,6569.64,Clothing,Kurti,H&M
+CUST1277,Arun,Male,Pune,Maharashtra,3,261,7,728.19,Footwear,Sneakers,Adidas
+CUST1278,Neha,Female,Kolkata,West Bengal,1,845,10,760.5,Electronics,Earbuds,Realme
+CUST1279,Priya,Female,Jaipur,Rajasthan,1,479,0,479,Electronics,Earbuds,Realme
+CUST1280,Divya,Female,Ahmedabad,Gujarat,3,755,21,1789.35,Electronics,Smartwatch,OnePlus
+CUST1281,Deepak,Male,Bengaluru,Karnataka,18,457,28,5922.72,Beauty,Face Cream,Nivea
+CUST1282,Priya,Female,Mumbai,Maharashtra,10,287,5,2726.5,Accessories,Cap,Boat
+CUST1283,Lakshmi,Female,Chennai,Tamil Nadu,3,421,15,1073.55,Footwear,Sneakers,Puma
+CUST1284,Radhika,Female,Kolkata,West Bengal,8,549,26,3250.08,Accessories,Sunglasses,RayBan
+CUST1285,Lakshmi,Female,Mumbai,Maharashtra,14,573,19,6497.82,Accessories,Belt,RayBan
+CUST1286,Naveen,Male,Chennai,Tamil Nadu,18,112,11,1794.24,Accessories,Cap,Boat
+CUST1287,Priya,Female,Bengaluru,Karnataka,15,283,10,3820.5,Electronics,Earbuds,Realme
+CUST1288,Manoj,Male,Ahmedabad,Gujarat,2,210,28,302.4,Footwear,Sandals,Adidas
+CUST1289,Manoj,Male,Lucknow,Uttar Pradesh,10,607,26,4491.8,Beauty,Face Cream,Loreal
+CUST1290,Vijay,Male,Mumbai,Maharashtra,2,389,28,560.16,Accessories,Sunglasses,Boat
+CUST1291,Karthik,Male,Pune,Maharashtra,null,394,9,null,Footwear,Loafers,Bata
+CUST1292,Rahul,Male,Ahmedabad,Gujarat,8,550,2,4312,Accessories,Watch,Fossil
+CUST1293,Vijay,Male,Mumbai,Maharashtra,1,314,12,276.32,Electronics,Smartwatch,Boat
+CUST1294,Manoj,Male,Pune,Maharashtra,9,731,26,4868.46,Electronics,Bluetooth Speaker,Realme
+CUST1295,Lakshmi,Female,Bengaluru,Karnataka,11,993,2,10704.54,Clothing,Hoodie,Snitch
+CUST1296,Sanjay,Male,Kolkata,West Bengal,16,666,14,9164.16,Clothing,Jeans,H&M
+CUST1297,Priya,Female,Bengaluru,Karnataka,7,126,15,749.7,Beauty,Face Cream,Lakme
+CUST1298,Naveen,Male,Lucknow,Uttar Pradesh,10,729,28,5248.8,Beauty,Perfume,Nivea
+CUST1299,Meera,Female,Jaipur,Rajasthan,3,832,12,2196.48,Beauty,Face Cream,Lakme
+CUST1300,Anita,Female,Delhi,Delhi,18,330,16,4989.6,Accessories,Belt,Fossil
+CUST1301,Deepak,Male,Pune,Maharashtra,13,664,2,8459.36,Footwear,Sandals,Bata
+CUST1302,Naveen,Male,Ahmedabad,Gujarat,7,906,19,5137.02,Electronics,Smartwatch,Boat
+CUST1303,Ravi,Male,Kolkata,West Bengal,4,420,10,1512,Footwear,Running Shoes,Puma
+CUST1304,Sangeeta,Female,Delhi,Delhi,13,332,26,3193.84,Accessories,Cap,Fossil
+CUST1305,Neha,Female,Mumbai,Maharashtra,1,769,20,615.2,Beauty,Perfume,Mamaearth
+CUST1306,Arun,Male,Chennai,Tamil Nadu,8,536,18,3516.16,Beauty,Face Cream,Loreal
+CUST1307,Neha,Female,Hyderabad,Telangana,14,880,21,9732.8,Footwear,Loafers,Bata
+CUST1308,Pooja,Female,Hyderabad,Telangana,16,632,10,9100.8,Clothing,Jeans,Snitch
+CUST1309,Pooja,Female,Bengaluru,Karnataka,14,502,29,4989.88,Electronics,Earbuds,Realme
+CUST1310,Karthik,Male,Bengaluru,Karnataka,12,152,27,1331.52,Electronics,Power Bank,OnePlus
+CUST1311,Divya,Female,Ahmedabad,Gujarat,19,886,15,14308.9,Accessories,Watch,Boat
+CUST1312,Neha,Female,Bengaluru,Karnataka,15,412,20,4944,Footwear,Sandals,Nike
+CUST1313,Vijay,Male,Chennai,Tamil Nadu,2,380,2,744.8,Clothing,Jeans,Levis
+CUST1314,Pooja,Female,Jaipur,Rajasthan,2,825,21,1303.5,Electronics,Bluetooth Speaker,Realme
+CUST1315,Amit,Male,Kolkata,West Bengal,19,130,5,2346.5,Electronics,Smartwatch,Noise
+CUST1316,Sanjay,Male,Lucknow,Uttar Pradesh,17,436,13,6448.44,Accessories,Watch,Fossil
+CUST1317,Radhika,Female,Ahmedabad,Gujarat,10,282,23,2171.4,Accessories,Sunglasses,Titan
+CUST1318,Rahul,Male,Hyderabad,Telangana,6,122,17,607.56,Electronics,Power Bank,Realme
+CUST1319,Meera,Female,Mumbai,Maharashtra,15,643,16,8101.8,Footwear,Loafers,Puma
+CUST1320,Priya,Female,Chennai,Tamil Nadu,11,545,3,5815.15,Clothing,Kurti,Zara
+CUST1321,Sanjay,Male,Mumbai,Maharashtra,5,173,22,674.7,Accessories,Belt,Boat
+CUST1322,Pooja,Female,Ahmedabad,Gujarat,1,109,14,93.74,Beauty,Shampoo,Nivea
+CUST1323,Priya,Female,Ahmedabad,Gujarat,8,583,10,4197.6,Accessories,Cap,Boat
+CUST1324,Arun,Male,Bengaluru,Karnataka,12,555,25,4995,Clothing,T-Shirt,Levis
+CUST1325,Lakshmi,Female,Jaipur,Rajasthan,12,665,2,7820.4,Footwear,Loafers,Adidas
+CUST1326,Radhika,Female,Chennai,Tamil Nadu,5,663,2,3248.7,Accessories,Cap,Boat
+CUST1327,Anita,Female,Lucknow,Uttar Pradesh,7,759,15,4516.05,Accessories,Belt,Fossil
+CUST1328,Ravi,Male,Pune,Maharashtra,4,259,4,994.56,Beauty,Face Cream,Loreal
+CUST1329,Kavya,Female,Kolkata,West Bengal,6,981,20,4708.8,Accessories,Cap,Boat
+CUST1330,Sangeeta,Female,Ahmedabad,Gujarat,13,113,28,1057.68,Accessories,Cap,Boat
+CUST1331,Priya,Female,Jaipur,Rajasthan,15,277,9,3781.05,Beauty,Face Cream,Mamaearth
+CUST1332,Priya,Female,Mumbai,Maharashtra,3,511,18,1257.06,Footwear,Running Shoes,Bata
+CUST1333,Arun,Male,Delhi,Delhi,8,977,24,5940.16,Beauty,Shampoo,Lakme
+CUST1334,Radhika,Female,Chennai,Tamil Nadu,16,152,3,2359.04,Clothing,Kurti,Snitch
+CUST1335,Kavya,Female,Mumbai,Maharashtra,13,507,28,4745.52,Clothing,T-Shirt,Snitch
+CUST1336,Divya,Female,Kolkata,West Bengal,18,946,28,12260.16,Beauty,Shampoo,Loreal
+CUST1337,Priya,Female,Mumbai,Maharashtra,10,121,18,992.2,Footwear,Sneakers,Nike
+CUST1338,Lakshmi,Female,Kolkata,West Bengal,19,129,10,2205.9,Electronics,Bluetooth Speaker,Realme
+CUST1339,Karthik,Male,Mumbai,Maharashtra,17,802,1,13497.66,Footwear,Sneakers,Puma
+CUST1340,Vijay,Male,Chennai,Tamil Nadu,19,359,9,6207.11,Beauty,Face Cream,Nivea
+CUST1341,Sangeeta,Female,Mumbai,Maharashtra,5,304,28,1094.4,Footwear,Running Shoes,Bata
+CUST1342,Kavya,Female,Pune,Maharashtra,9,158,10,1279.8,Beauty,Shampoo,Lakme
+CUST1343,Arun,Male,Delhi,Delhi,12,570,24,5198.4,Electronics,Earbuds,Boat
+CUST1344,Vijay,Male,Chennai,Tamil Nadu,1,875,19,708.75,Accessories,Watch,Boat
+CUST1345,Neha,Female,Pune,Maharashtra,1,565,15,480.25,Electronics,Earbuds,Noise
+CUST1346,Kavya,Female,Mumbai,Maharashtra,15,111,18,1365.3,Accessories,Belt,RayBan
+CUST1347,Priya,Female,Ahmedabad,Gujarat,2,730,22,1138.8,Clothing,Jeans,Zara
+CUST1348,Anita,Female,Chennai,Tamil Nadu,16,389,23,4792.48,Electronics,Power Bank,Noise
+CUST1349,Meera,Female,Mumbai,Maharashtra,8,949,10,6832.8,Clothing,Jeans,Zara
+CUST1350,Radhika,Female,Delhi,Delhi,13,859,13,9715.29,Accessories,Sunglasses,Fossil
+CUST1351,Karthik,Male,Lucknow,Uttar Pradesh,1,453,1,448.47,Electronics,Bluetooth Speaker,Realme
+CUST1352,Vijay,Male,Jaipur,Rajasthan,16,738,22,9210.24,Clothing,T-Shirt,H&M
+CUST1353,Priya,Female,Jaipur,Rajasthan,7,174,27,889.14,Clothing,Shirt,H&M
+CUST1354,Rahul,Male,Lucknow,Uttar Pradesh,5,972,4,4665.6,Clothing,Jeans,Levis
+CUST1355,Radhika,Female,Kolkata,West Bengal,3,815,26,1809.3,Beauty,Hair Oil,Loreal
+CUST1356,Sanjay,Male,Lucknow,Uttar Pradesh,12,660,4,7603.2,Electronics,Bluetooth Speaker,Noise
+CUST1357,Meera,Female,Jaipur,Rajasthan,16,690,18,9052.8,Accessories,Cap,Fossil
+CUST1358,Amit,Male,Bengaluru,Karnataka,19,540,20,8208,Clothing,Hoodie,Snitch
+CUST1359,Meera,Female,Pune,Maharashtra,5,340,11,1513,Clothing,Kurti,Levis
+CUST1360,Sangeeta,Female,Ahmedabad,Gujarat,14,960,17,11155.2,Clothing,Shirt,H&M
+CUST1361,Divya,Female,Lucknow,Uttar Pradesh,5,253,3,1227.05,Accessories,Belt,Fossil
+CUST1362,Sanjay,Male,Lucknow,Uttar Pradesh,15,885,21,10487.25,Clothing,Jeans,Snitch
+CUST1363,Deepak,Male,Chennai,Tamil Nadu,17,195,16,2784.6,Accessories,Sunglasses,Boat
+CUST1364,Priya,Female,Delhi,Delhi,14,825,9,10510.5,Accessories,Belt,Fossil
+CUST1365,Arun,Male,Delhi,Delhi,5,393,19,1591.65,Electronics,Earbuds,Realme
+CUST1366,Anita,Female,Ahmedabad,Gujarat,12,308,5,3511.2,Beauty,Perfume,Nivea
+CUST1367,Sangeeta,Female,Lucknow,Uttar Pradesh,16,442,24,5374.72,Footwear,Loafers,Nike
+CUST1368,Divya,Female,Kolkata,West Bengal,16,187,13,2603.04,Beauty,Face Cream,Loreal
+CUST1369,Neha,Female,Bengaluru,Karnataka,7,917,10,5777.1,Electronics,Bluetooth Speaker,Realme
+CUST1370,Naveen,Male,Lucknow,Uttar Pradesh,4,875,10,3150,Accessories,Belt,RayBan
+CUST1371,Meera,Female,Ahmedabad,Gujarat,1,489,28,352.08,Accessories,Watch,Fossil
+CUST1372,Rahul,Male,Delhi,Delhi,5,424,17,1759.6,Beauty,Perfume,Loreal
+CUST1373,Neha,Female,Delhi,Delhi,10,988,26,7311.2,Accessories,Belt,Boat
+CUST1374,Vijay,Male,Bengaluru,Karnataka,5,931,22,3630.9,Footwear,Sandals,Puma
+CUST1375,Sanjay,Male,Jaipur,Rajasthan,4,256,21,808.96,Footwear,Sneakers,Adidas
+CUST1376,Karthik,Male,Bengaluru,Karnataka,2,767,17,1273.22,Beauty,Perfume,Mamaearth
+CUST1377,Priya,Female,Lucknow,Uttar Pradesh,10,750,23,5775,Accessories,Cap,Titan
+CUST1378,Ravi,Male,Jaipur,Rajasthan,19,732,22,10848.24,Accessories,Watch,Fossil
+CUST1379,Vijay,Male,Jaipur,Rajasthan,1,676,10,608.4,Beauty,Perfume,Loreal
+CUST1380,Vijay,Male,Bengaluru,Karnataka,5,718,20,2872,Clothing,Shirt,Zara
+CUST1381,Meera,Female,Jaipur,Rajasthan,13,758,11,8770.06,Accessories,Watch,Fossil
+CUST1382,Naveen,Male,Pune,Maharashtra,4,236,4,906.24,Footwear,Running Shoes,Nike
+CUST1383,Neha,Female,Chennai,Tamil Nadu,16,773,22,9647.04,Electronics,Smartwatch,OnePlus
+CUST1384,Priya,Female,Kolkata,West Bengal,16,527,8,7757.44,Accessories,Watch,Boat
+CUST1385,Rahul,Male,Ahmedabad,Gujarat,2,551,26,815.48,Electronics,Bluetooth Speaker,Realme
+CUST1386,Rahul,Male,Chennai,Tamil Nadu,17,711,24,9186.12,Electronics,Power Bank,Realme
+CUST1387,Vijay,Male,Pune,Maharashtra,12,949,8,10476.96,Footwear,Sandals,Puma
+CUST1388,Sangeeta,Female,Mumbai,Maharashtra,18,918,21,13053.96,Footwear,Sneakers,Puma
+CUST1389,Manoj,Male,Chennai,Tamil Nadu,3,240,9,655.2,Footwear,Running Shoes,Nike
+CUST1390,Karthik,Male,Bengaluru,Karnataka,1,182,21,143.78,Accessories,Cap,Boat
+CUST1391,Karthik,Male,Kolkata,West Bengal,1,276,18,226.32,Accessories,Watch,Titan
+CUST1392,Sanjay,Male,Ahmedabad,Gujarat,19,297,0,5643,Accessories,Belt,RayBan
+CUST1393,Divya,Female,Delhi,Delhi,11,723,6,7475.82,Clothing,T-Shirt,H&M
+CUST1394,Deepak,Male,Pune,Maharashtra,5,667,3,3234.95,Electronics,Smartwatch,OnePlus
+CUST1395,Manoj,Male,Ahmedabad,Gujarat,12,790,0,9480,Accessories,Watch,Boat
+CUST1396,Kavya,Female,Bengaluru,Karnataka,3,520,14,1341.6,Footwear,Sandals,Adidas
+CUST1397,Pooja,Female,Delhi,Delhi,1,500,7,465,Clothing,Hoodie,Zara
+CUST1398,Karthik,Male,Mumbai,Maharashtra,1,797,11,709.33,Electronics,Bluetooth Speaker,Noise
+CUST1399,Priya,Female,Jaipur,Rajasthan,8,570,21,3602.4,Accessories,Cap,Fossil
+CUST1400,Anita,Female,Mumbai,Maharashtra,10,317,21,2504.3,Accessories,Watch,RayBan
+CUST1401,Naveen,Male,Kolkata,West Bengal,11,927,17,8463.51,Accessories,Belt,Boat
+CUST1402,Karthik,Male,Jaipur,Rajasthan,12,828,14,8544.96,Electronics,Smartwatch,OnePlus
+CUST1403,Divya,Female,Mumbai,Maharashtra,13,731,16,7982.52,Accessories,Belt,Boat
+CUST1404,Divya,Female,Hyderabad,Telangana,12,274,28,2367.36,Accessories,Sunglasses,Titan
+CUST1405,Sangeeta,Female,Chennai,Tamil Nadu,14,122,13,1485.96,Clothing,Kurti,Levis
+CUST1406,Kavya,Female,Delhi,Delhi,2,824,13,1433.76,Clothing,Hoodie,H&M
+CUST1407,Rahul,Male,Mumbai,Maharashtra,19,334,17,5267.18,Accessories,Sunglasses,Titan
+CUST1408,Ravi,Male,Chennai,Tamil Nadu,18,112,19,1632.96,Electronics,Bluetooth Speaker,OnePlus
+CUST1409,Deepak,Male,Ahmedabad,Gujarat,3,200,17,498,Accessories,Watch,Boat
+CUST1410,Naveen,Male,Mumbai,Maharashtra,17,635,15,9175.75,Beauty,Perfume,Lakme
+CUST1411,Vijay,Male,Kolkata,West Bengal,8,975,0,7800,Accessories,Cap,Boat
+CUST1412,Sangeeta,Female,Jaipur,Rajasthan,10,622,22,4851.6,Accessories,Watch,Titan
+CUST1413,Divya,Female,Bengaluru,Karnataka,2,884,26,1308.32,Beauty,Shampoo,Mamaearth
+CUST1414,Divya,Female,Lucknow,Uttar Pradesh,19,551,10,9422.1,Accessories,Belt,Titan
+CUST1415,Arun,Male,Bengaluru,Karnataka,9,530,14,4102.2,Clothing,T-Shirt,Levis
+CUST1416,Ravi,Male,Pune,Maharashtra,7,892,11,5557.16,Footwear,Loafers,Adidas
+CUST1417,Priya,Female,Kolkata,West Bengal,4,705,7,2622.6,Beauty,Hair Oil,Nivea
+CUST1418,Sanjay,Male,Hyderabad,Telangana,18,812,21,11546.64,Footwear,Running Shoes,Adidas
+CUST1419,Sanjay,Male,Hyderabad,Telangana,13,632,19,6654.96,Accessories,Sunglasses,Fossil
+CUST1420,Vijay,Male,Delhi,Delhi,11,951,29,7427.31,Clothing,Kurti,Zara
+CUST1421,Sanjay,Male,Pune,Maharashtra,4,822,5,3123.6,Accessories,Sunglasses,Fossil
+CUST1422,Naveen,Male,Mumbai,Maharashtra,4,751,2,2943.92,Clothing,Shirt,H&M
+CUST1423,Pooja,Female,Bengaluru,Karnataka,10,392,27,2861.6,Beauty,Hair Oil,Nivea
+CUST1424,Sanjay,Male,Delhi,Delhi,5,909,23,3499.65,Accessories,Watch,RayBan
+CUST1425,Rahul,Male,Jaipur,Rajasthan,9,200,25,1350,Electronics,Bluetooth Speaker,Noise
+CUST1426,Sanjay,Male,Kolkata,West Bengal,3,601,29,1280.13,Electronics,Bluetooth Speaker,Noise
+CUST1427,Amit,Male,Delhi,Delhi,17,403,12,6028.88,Clothing,Kurti,Levis
+CUST1428,Arun,Male,Bengaluru,Karnataka,3,970,12,2560.8,Accessories,Belt,Fossil
+CUST1429,Manoj,Male,Jaipur,Rajasthan,16,639,1,10121.76,Footwear,Running Shoes,Puma
+CUST1430,Sangeeta,Female,Mumbai,Maharashtra,4,652,4,2503.68,Accessories,Cap,Boat
+CUST1431,Radhika,Female,Mumbai,Maharashtra,18,454,16,6864.48,Beauty,Shampoo,Mamaearth
+CUST1432,Pooja,Female,Delhi,Delhi,17,402,5,6492.3,Beauty,Hair Oil,Nivea
+CUST1433,Sangeeta,Female,Delhi,Delhi,7,595,1,4123.35,Footwear,Running Shoes,Puma
+CUST1434,Karthik,Male,Ahmedabad,Gujarat,5,757,3,3671.45,Electronics,Earbuds,Boat
+CUST1435,Vijay,Male,Bengaluru,Karnataka,12,867,21,8219.16,Accessories,Cap,Boat
+CUST1436,Radhika,Female,Pune,Maharashtra,17,326,25,4156.5,Accessories,Belt,RayBan
+CUST1437,Vijay,Male,Pune,Maharashtra,13,335,10,3919.5,Clothing,Hoodie,Levis
+CUST1438,Lakshmi,Female,Pune,Maharashtra,3,972,7,2711.88,Electronics,Bluetooth Speaker,Realme
+CUST1439,Ravi,Male,Ahmedabad,Gujarat,9,991,11,7937.91,Footwear,Sandals,Adidas
+CUST1440,Meera,Female,Bengaluru,Karnataka,17,554,7,8758.74,Electronics,Smartwatch,Boat
+CUST1441,Lakshmi,Female,Ahmedabad,Gujarat,17,112,10,1713.6,Footwear,Loafers,Bata
+CUST1442,Pooja,Female,Mumbai,Maharashtra,16,309,21,3905.76,Electronics,Bluetooth Speaker,Realme
+CUST1443,Neha,Female,Mumbai,Maharashtra,13,840,19,8845.2,Accessories,Belt,Boat
+CUST1444,Anita,Female,Hyderabad,Telangana,19,496,7,8764.32,Footwear,Sneakers,Puma
+CUST1445,Sanjay,Male,Lucknow,Uttar Pradesh,17,199,28,2435.76,Footwear,Running Shoes,Adidas
+CUST1446,Ravi,Male,Ahmedabad,Gujarat,4,130,7,483.6,Beauty,Hair Oil,Mamaearth
+CUST1447,Pooja,Female,Pune,Maharashtra,12,997,25,8973,Electronics,Bluetooth Speaker,Noise
+CUST1448,Pooja,Female,Chennai,Tamil Nadu,9,627,29,4006.53,Accessories,Sunglasses,Titan
+CUST1449,Meera,Female,Jaipur,Rajasthan,19,748,16,11938.08,Electronics,Smartwatch,OnePlus
+CUST1450,Rahul,Male,Bengaluru,Karnataka,12,428,19,4160.16,Electronics,Smartwatch,Noise
+CUST1451,Manoj,Male,Kolkata,West Bengal,9,265,19,1931.85,Footwear,Sneakers,Adidas
+CUST1452,Divya,Female,Delhi,Delhi,7,558,22,3046.68,Electronics,Smartwatch,Noise
+CUST1453,Rahul,Male,Delhi,Delhi,14,921,15,10959.9,Footwear,Sneakers,Puma
+CUST1454,Divya,Female,Lucknow,Uttar Pradesh,19,199,13,3289.47,Accessories,Cap,RayBan
+CUST1455,Deepak,Male,Pune,Maharashtra,15,720,29,7668,Electronics,Power Bank,Noise
+CUST1456,Rahul,Male,Mumbai,Maharashtra,16,954,10,13737.6,Accessories,Watch,Boat
+CUST1457,Arun,Male,Mumbai,Maharashtra,5,272,6,1278.4,Footwear,Sandals,Bata
+CUST1458,Meera,Female,Pune,Maharashtra,3,848,15,2162.4,Electronics,Smartwatch,Realme
+CUST1459,Rahul,Male,Mumbai,Maharashtra,12,261,12,2756.16,Clothing,T-Shirt,H&M
+CUST1460,Neha,Female,Hyderabad,Telangana,4,827,26,2447.92,Beauty,Shampoo,Mamaearth
+CUST1461,Ravi,Male,Jaipur,Rajasthan,16,875,14,12040,Clothing,Kurti,Levis
+CUST1462,Deepak,Male,Chennai,Tamil Nadu,7,362,23,1951.18,Beauty,Hair Oil,Lakme
+CUST1463,Neha,Female,Bengaluru,Karnataka,13,903,15,9978.15,Accessories,Watch,Titan
+CUST1464,Sanjay,Male,Kolkata,West Bengal,10,373,26,2760.2,Electronics,Smartwatch,OnePlus
+CUST1465,Radhika,Female,Kolkata,West Bengal,7,102,20,571.2,Clothing,Shirt,Snitch
+CUST1466,Rahul,Male,Jaipur,Rajasthan,14,127,22,1386.84,Electronics,Smartwatch,Realme
+CUST1467,Sanjay,Male,Kolkata,West Bengal,5,425,23,1636.25,Electronics,Smartwatch,Noise
+CUST1468,Deepak,Male,Jaipur,Rajasthan,3,248,8,684.48,Beauty,Hair Oil,Nivea
+CUST1469,Manoj,Male,Ahmedabad,Gujarat,11,639,2,6888.42,Accessories,Belt,RayBan
+CUST1470,Neha,Female,Bengaluru,Karnataka,11,587,18,5294.74,Clothing,T-Shirt,H&M
+CUST1471,Rahul,Male,Jaipur,Rajasthan,18,921,19,13428.18,Beauty,Shampoo,Lakme
+CUST1472,Vijay,Male,Bengaluru,Karnataka,15,537,4,7732.8,Footwear,Sandals,Puma
+CUST1473,Rahul,Male,Kolkata,West Bengal,12,164,9,1790.88,Electronics,Bluetooth Speaker,Boat
+CUST1474,Anita,Female,Ahmedabad,Gujarat,9,455,16,3439.8,Accessories,Cap,Fossil
+CUST1475,Meera,Female,Mumbai,Maharashtra,10,632,14,5435.2,Beauty,Perfume,Loreal
+CUST1476,Arun,Male,Hyderabad,Telangana,12,351,22,3285.36,Electronics,Earbuds,Boat
+CUST1477,Arun,Male,Bengaluru,Karnataka,17,334,24,4315.28,Accessories,Belt,Boat
+CUST1478,Rahul,Male,Ahmedabad,Gujarat,6,326,7,1819.08,Beauty,Shampoo,Nivea
+CUST1479,Anita,Female,Ahmedabad,Gujarat,7,624,14,3756.48,Beauty,Shampoo,Nivea
+CUST1480,Deepak,Male,Jaipur,Rajasthan,14,412,20,4614.4,Footwear,Loafers,Adidas
+CUST1481,Divya,Female,Hyderabad,Telangana,13,148,29,1366.04,Clothing,Kurti,Snitch
+CUST1482,Neha,Female,Pune,Maharashtra,8,217,13,1510.32,Electronics,Power Bank,OnePlus
+CUST1483,Lakshmi,Female,Ahmedabad,Gujarat,10,153,19,1239.3,Accessories,Belt,RayBan
+CUST1484,Meera,Female,Jaipur,Rajasthan,9,749,27,4920.93,Accessories,Cap,Fossil
+CUST1485,Pooja,Female,Bengaluru,Karnataka,null,664,6,null,Clothing,Hoodie,Snitch
+CUST1486,Manoj,Male,Pune,Maharashtra,2,143,20,228.8,Accessories,Belt,RayBan
+CUST1487,Pooja,Female,Ahmedabad,Gujarat,5,914,22,3564.6,Electronics,Smartwatch,Boat
+CUST1488,Lakshmi,Female,Delhi,Delhi,5,152,11,676.4,Electronics,Bluetooth Speaker,OnePlus
+CUST1489,Lakshmi,Female,Lucknow,Uttar Pradesh,6,685,16,3452.4,Accessories,Sunglasses,RayBan
+CUST1490,Sanjay,Male,Ahmedabad,Gujarat,19,657,16,10485.72,Electronics,Earbuds,OnePlus
+CUST1491,Sanjay,Male,Pune,Maharashtra,8,624,9,4542.72,Accessories,Watch,Boat
+CUST1492,Pooja,Female,Bengaluru,Karnataka,16,776,29,8815.36,Footwear,Loafers,Puma
+CUST1493,Amit,Male,Pune,Maharashtra,13,201,28,1881.36,Beauty,Perfume,Mamaearth
+CUST1494,Divya,Female,Ahmedabad,Gujarat,1,891,18,730.62,Beauty,Shampoo,Nivea
+CUST1495,Ravi,Male,Lucknow,Uttar Pradesh,17,869,13,12852.51,Accessories,Belt,RayBan
+CUST1496,Arun,Male,Jaipur,Rajasthan,7,948,10,5972.4,Clothing,Kurti,Zara
+CUST1497,Anita,Female,Hyderabad,Telangana,13,967,1,12445.29,Electronics,Smartwatch,Noise
+CUST1498,Naveen,Male,Jaipur,Rajasthan,4,497,17,1650.04,Clothing,Hoodie,Zara
+CUST1499,Manoj,Male,Mumbai,Maharashtra,4,237,6,891.12,Beauty,Face Cream,Loreal
+CUST1500,Arun,Male,Chennai,Tamil Nadu,6,774,11,4133.16,Electronics,Bluetooth Speaker,Boat
+CUST1501,Divya,Female,Mumbai,Maharashtra,19,486,25,6925.5,Electronics,Smartwatch,Noise
+CUST1502,Radhika,Female,Hyderabad,Telangana,12,210,1,2494.8,Footwear,Loafers,Puma
+CUST1503,Kavya,Female,Jaipur,Rajasthan,7,713,26,3693.34,Footwear,Running Shoes,Puma
+CUST1504,Karthik,Male,Bengaluru,Karnataka,10,116,19,939.6,Footwear,Loafers,Puma
+CUST1505,Sanjay,Male,Hyderabad,Telangana,19,879,17,13861.83,Clothing,T-Shirt,Snitch
+CUST1506,Sanjay,Male,Kolkata,West Bengal,7,281,5,1868.65,Electronics,Earbuds,Realme
+CUST1507,Amit,Male,Hyderabad,Telangana,3,983,23,2270.73,Footwear,Sandals,Puma
+CUST1508,Anita,Female,Delhi,Delhi,13,635,9,7512.05,Beauty,Face Cream,Lakme
+CUST1509,Amit,Male,Kolkata,West Bengal,13,640,19,6739.2,Accessories,Sunglasses,Titan
+CUST1510,Arun,Male,Hyderabad,Telangana,18,270,14,4179.6,Electronics,Smartwatch,Boat
+CUST1511,Ravi,Male,Ahmedabad,Gujarat,8,508,4,3901.44,Clothing,Kurti,H&M
+CUST1512,Deepak,Male,Delhi,Delhi,9,839,19,6116.31,Accessories,Sunglasses,Titan
+CUST1513,Sangeeta,Female,Hyderabad,Telangana,7,477,2,3272.22,Footwear,Sandals,Nike
+CUST1514,Arun,Male,Jaipur,Rajasthan,1,287,4,275.52,Electronics,Bluetooth Speaker,OnePlus
+CUST1515,Priya,Female,Pune,Maharashtra,3,957,29,2038.41,Electronics,Bluetooth Speaker,Boat
+CUST1516,Priya,Female,Lucknow,Uttar Pradesh,13,329,24,3250.52,Electronics,Bluetooth Speaker,Noise
+CUST1517,Kavya,Female,Hyderabad,Telangana,17,932,7,14734.92,Accessories,Watch,Fossil
+CUST1518,Naveen,Male,Chennai,Tamil Nadu,1,951,7,884.43,Beauty,Hair Oil,Lakme
+CUST1519,Meera,Female,Jaipur,Rajasthan,6,218,7,1216.44,Clothing,Shirt,Snitch
+CUST1520,Manoj,Male,Delhi,Delhi,6,255,11,1361.7,Footwear,Sandals,Adidas
+CUST1521,Arun,Male,Lucknow,Uttar Pradesh,12,883,23,8158.92,Accessories,Sunglasses,Fossil
+CUST1522,Meera,Female,Ahmedabad,Gujarat,13,786,22,7970.04,Clothing,Hoodie,Levis
+CUST1523,Lakshmi,Female,Ahmedabad,Gujarat,13,564,7,6818.76,Footwear,Sneakers,Bata
+CUST1524,Manoj,Male,Jaipur,Rajasthan,15,203,10,2740.5,Beauty,Hair Oil,Loreal
+CUST1525,Vijay,Male,Kolkata,West Bengal,16,703,13,9785.76,Beauty,Perfume,Nivea
+CUST1526,Kavya,Female,Lucknow,Uttar Pradesh,11,797,7,8153.31,Electronics,Earbuds,Noise
+CUST1527,Amit,Male,Mumbai,Maharashtra,5,894,28,3218.4,Footwear,Sneakers,Nike
+CUST1528,Vijay,Male,Jaipur,Rajasthan,4,601,29,1706.84,Footwear,Loafers,Adidas
+CUST1529,Divya,Female,Pune,Maharashtra,3,792,23,1829.52,Footwear,Loafers,Puma
+CUST1530,Radhika,Female,Mumbai,Maharashtra,19,781,27,10832.47,Beauty,Hair Oil,Nivea
+CUST1531,Deepak,Male,Hyderabad,Telangana,18,798,9,13071.24,Electronics,Power Bank,Noise
+CUST1532,Sanjay,Male,Chennai,Tamil Nadu,15,274,6,3863.4,Clothing,Shirt,Levis
+CUST1533,Sanjay,Male,Mumbai,Maharashtra,9,833,27,5472.81,Footwear,Sneakers,Puma
+CUST1534,Kavya,Female,Lucknow,Uttar Pradesh,17,844,16,12052.32,Accessories,Sunglasses,Fossil
+CUST1535,Manoj,Male,Bengaluru,Karnataka,14,773,3,10497.34,Clothing,Shirt,Zara
+CUST1536,Sanjay,Male,Jaipur,Rajasthan,15,520,28,5616,Clothing,T-Shirt,Zara
+CUST1537,Ravi,Male,Lucknow,Uttar Pradesh,1,233,12,205.04,Footwear,Sneakers,Adidas
+CUST1538,Ravi,Male,Pune,Maharashtra,3,490,3,1425.9,Accessories,Sunglasses,Fossil
+CUST1539,Anita,Female,Ahmedabad,Gujarat,16,835,4,12825.6,Beauty,Face Cream,Mamaearth
+CUST1540,Sangeeta,Female,Mumbai,Maharashtra,11,600,25,4950,Beauty,Shampoo,Nivea
+CUST1541,Arun,Male,Kolkata,West Bengal,12,764,21,7242.72,Accessories,Watch,RayBan
+CUST1542,Karthik,Male,Chennai,Tamil Nadu,10,132,3,1280.4,Clothing,Kurti,Snitch
+CUST1543,Ravi,Male,Lucknow,Uttar Pradesh,16,154,17,2045.12,Footwear,Sneakers,Bata
+CUST1544,Divya,Female,Jaipur,Rajasthan,8,618,5,4696.8,Beauty,Face Cream,Mamaearth
+CUST1545,Meera,Female,Ahmedabad,Gujarat,6,855,23,3950.1,Electronics,Power Bank,Realme
+CUST1546,Sangeeta,Female,Delhi,Delhi,12,924,23,8537.76,Electronics,Smartwatch,Realme
+CUST1547,Pooja,Female,Lucknow,Uttar Pradesh,8,737,22,4598.88,Electronics,Bluetooth Speaker,OnePlus
+CUST1548,Meera,Female,Mumbai,Maharashtra,4,111,21,350.76,Footwear,Sandals,Adidas
+CUST1549,Anita,Female,Hyderabad,Telangana,8,627,1,4965.84,Beauty,Hair Oil,Mamaearth
+CUST1550,Rahul,Male,Chennai,Tamil Nadu,18,819,22,11498.76,Beauty,Face Cream,Mamaearth
+CUST1551,Ravi,Male,Mumbai,Maharashtra,5,654,10,2943,Clothing,T-Shirt,Levis
+CUST1552,Pooja,Female,Mumbai,Maharashtra,9,472,27,3101.04,Electronics,Power Bank,Boat
+CUST1553,Priya,Female,Lucknow,Uttar Pradesh,4,583,13,2028.84,Footwear,Sneakers,Bata
+CUST1554,Lakshmi,Female,Chennai,Tamil Nadu,17,746,29,9004.22,Clothing,Jeans,Zara
+CUST1555,Ravi,Male,Delhi,Delhi,9,327,4,2825.28,Clothing,Shirt,Zara
+CUST1556,Deepak,Male,Hyderabad,Telangana,1,722,5,685.9,Electronics,Smartwatch,Boat
+CUST1557,Anita,Female,Delhi,Delhi,13,406,9,4802.98,Clothing,Jeans,Zara
+CUST1558,Lakshmi,Female,Jaipur,Rajasthan,16,556,7,8273.28,Beauty,Hair Oil,Loreal
+CUST1559,Amit,Male,Lucknow,Uttar Pradesh,13,259,13,2929.29,Beauty,Hair Oil,Lakme
+CUST1560,Amit,Male,Chennai,Tamil Nadu,14,430,23,4635.4,Beauty,Hair Oil,Nivea
+CUST1561,Vijay,Male,Jaipur,Rajasthan,3,875,2,2572.5,Accessories,Sunglasses,Boat
+CUST1562,Anita,Female,Ahmedabad,Gujarat,6,324,11,1730.16,Beauty,Perfume,Mamaearth
+CUST1563,Arun,Male,Bengaluru,Karnataka,18,828,15,12668.4,Footwear,Running Shoes,Nike
+CUST1564,Meera,Female,Hyderabad,Telangana,19,603,27,8363.61,Clothing,T-Shirt,Levis
+CUST1565,Rahul,Male,Chennai,Tamil Nadu,5,555,29,1970.25,Footwear,Loafers,Bata
+CUST1566,Radhika,Female,Pune,Maharashtra,15,144,22,1684.8,Beauty,Shampoo,Loreal
+CUST1567,Ravi,Male,Pune,Maharashtra,2,313,16,525.84,Footwear,Sandals,Puma
+CUST1568,Manoj,Male,Chennai,Tamil Nadu,10,158,0,1580,Accessories,Watch,Titan
+CUST1569,Sanjay,Male,Bengaluru,Karnataka,18,743,22,10431.72,Footwear,Running Shoes,Bata
+CUST1570,Ravi,Male,Chennai,Tamil Nadu,13,715,9,8458.45,Footwear,Sandals,Puma
+CUST1571,Arun,Male,Pune,Maharashtra,5,294,24,1117.2,Footwear,Sneakers,Puma
+CUST1572,Sanjay,Male,Mumbai,Maharashtra,1,588,22,458.64,Electronics,Bluetooth Speaker,OnePlus
+CUST1573,Lakshmi,Female,Jaipur,Rajasthan,1,256,9,232.96,Clothing,T-Shirt,Levis
+CUST1574,Divya,Female,Hyderabad,Telangana,18,709,20,10209.6,Clothing,Kurti,Levis
+CUST1575,Rahul,Male,Chennai,Tamil Nadu,15,325,23,3753.75,Electronics,Power Bank,Boat
+CUST1576,Amit,Male,Jaipur,Rajasthan,17,511,1,8600.13,Clothing,Kurti,Levis
+CUST1577,Meera,Female,Pune,Maharashtra,11,304,8,3076.48,Beauty,Hair Oil,Loreal
+CUST1578,Lakshmi,Female,Bengaluru,Karnataka,17,178,21,2390.54,Electronics,Earbuds,Boat
+CUST1579,Anita,Female,Kolkata,West Bengal,13,223,12,2551.12,Clothing,Hoodie,Levis
+CUST1580,Arun,Male,Lucknow,Uttar Pradesh,1,570,24,433.2,Footwear,Loafers,Bata
+CUST1581,Meera,Female,Kolkata,West Bengal,2,317,15,538.9,Clothing,Kurti,Levis
+CUST1582,Amit,Male,Kolkata,West Bengal,9,615,17,4594.05,Clothing,Kurti,Snitch
+CUST1583,Lakshmi,Female,Pune,Maharashtra,3,701,18,1724.46,Clothing,Kurti,H&M
+CUST1584,Kavya,Female,Bengaluru,Karnataka,1,203,11,180.67,Electronics,Bluetooth Speaker,Realme
+CUST1585,Sanjay,Male,Kolkata,West Bengal,16,492,7,7320.96,Footwear,Loafers,Nike
+CUST1586,Deepak,Male,Kolkata,West Bengal,6,730,16,3679.2,Accessories,Cap,Titan
+CUST1587,Anita,Female,Chennai,Tamil Nadu,17,744,14,10877.28,Accessories,Sunglasses,Fossil
+CUST1588,Deepak,Male,Jaipur,Rajasthan,5,923,9,4199.65,Electronics,Smartwatch,Boat
+CUST1589,Sanjay,Male,Pune,Maharashtra,5,707,14,3040.1,Beauty,Perfume,Lakme
+CUST1590,Amit,Male,Hyderabad,Telangana,6,533,14,2750.28,Electronics,Power Bank,OnePlus
+CUST1591,Lakshmi,Female,Delhi,Delhi,3,430,22,1006.2,Electronics,Earbuds,Boat
+CUST1592,Karthik,Male,Delhi,Delhi,5,242,6,1137.4,Beauty,Shampoo,Nivea
+CUST1593,Kavya,Female,Chennai,Tamil Nadu,5,899,12,3955.6,Beauty,Hair Oil,Loreal
+CUST1594,Ravi,Male,Ahmedabad,Gujarat,10,639,16,5367.6,Electronics,Bluetooth Speaker,Realme
+CUST1595,Radhika,Female,Mumbai,Maharashtra,10,377,8,3468.4,Clothing,Shirt,Snitch
+CUST1596,Sanjay,Male,Kolkata,West Bengal,19,332,7,5866.44,Footwear,Loafers,Adidas
+CUST1597,Radhika,Female,Delhi,Delhi,17,628,19,8647.56,Clothing,T-Shirt,H&M
+CUST1598,Vijay,Male,Jaipur,Rajasthan,14,670,25,7035,Electronics,Bluetooth Speaker,Realme
+CUST1599,Anita,Female,Ahmedabad,Gujarat,9,189,26,1258.74,Accessories,Sunglasses,Boat
+CUST1600,Karthik,Male,Chennai,Tamil Nadu,14,591,20,6619.2,Clothing,Jeans,Snitch
+CUST1601,Arun,Male,Ahmedabad,Gujarat,1,298,17,247.34,Accessories,Sunglasses,RayBan
+CUST1602,Kavya,Female,Kolkata,West Bengal,19,461,12,7707.92,Accessories,Cap,RayBan
+CUST1603,Pooja,Female,Pune,Maharashtra,13,540,15,5967,Footwear,Sneakers,Puma
+CUST1604,Arun,Male,Pune,Maharashtra,13,125,8,1495,Electronics,Smartwatch,Realme
+CUST1605,Manoj,Male,Ahmedabad,Gujarat,4,124,11,441.44,Clothing,T-Shirt,Snitch
+CUST1606,Kavya,Female,Chennai,Tamil Nadu,1,493,11,438.77,Beauty,Perfume,Mamaearth
+CUST1607,Lakshmi,Female,Bengaluru,Karnataka,17,606,5,9786.9,Beauty,Hair Oil,Mamaearth
+CUST1608,Radhika,Female,Lucknow,Uttar Pradesh,8,400,18,2624,Electronics,Bluetooth Speaker,OnePlus
+CUST1609,Divya,Female,Ahmedabad,Gujarat,2,438,27,639.48,Electronics,Power Bank,Realme
+CUST1610,Meera,Female,Chennai,Tamil Nadu,8,366,6,2752.32,Electronics,Power Bank,OnePlus
+CUST1611,Naveen,Male,Kolkata,West Bengal,7,560,24,2979.2,Electronics,Bluetooth Speaker,Noise
+CUST1612,Neha,Female,Mumbai,Maharashtra,2,792,2,1552.32,Clothing,Jeans,Levis
+CUST1613,Anita,Female,Kolkata,West Bengal,3,555,15,1415.25,Electronics,Smartwatch,OnePlus
+CUST1614,Rahul,Male,Lucknow,Uttar Pradesh,18,459,17,6857.46,Footwear,Running Shoes,Bata
+CUST1615,Meera,Female,Hyderabad,Telangana,12,167,15,1703.4,Footwear,Running Shoes,Adidas
+CUST1616,Vijay,Male,Mumbai,Maharashtra,1,962,22,750.36,Electronics,Bluetooth Speaker,OnePlus
+CUST1617,Rahul,Male,Jaipur,Rajasthan,12,511,6,5764.08,Clothing,Shirt,Levis
+CUST1618,Deepak,Male,Chennai,Tamil Nadu,5,590,3,2861.5,Footwear,Loafers,Puma
+CUST1619,Sanjay,Male,Mumbai,Maharashtra,17,932,26,11724.56,Footwear,Sandals,Bata
+CUST1620,Anita,Female,Delhi,Delhi,16,148,24,1799.68,Footwear,Sneakers,Puma
+CUST1621,Karthik,Male,Jaipur,Rajasthan,15,786,29,8370.9,Accessories,Sunglasses,Boat
+CUST1622,Karthik,Male,Hyderabad,Telangana,15,663,7,9248.85,Accessories,Belt,Boat
+CUST1623,Manoj,Male,Hyderabad,Telangana,5,201,12,884.4,Electronics,Smartwatch,Realme
+CUST1624,Neha,Female,Lucknow,Uttar Pradesh,14,315,12,3880.8,Beauty,Face Cream,Nivea
+CUST1625,Neha,Female,Pune,Maharashtra,2,537,16,902.16,Electronics,Earbuds,Boat
+CUST1626,Rahul,Male,Chennai,Tamil Nadu,11,799,16,7382.76,Electronics,Power Bank,Noise
+CUST1627,Neha,Female,Lucknow,Uttar Pradesh,19,668,4,12184.32,Footwear,Loafers,Nike
+CUST1628,Arun,Male,Jaipur,Rajasthan,7,658,5,4375.7,Beauty,Shampoo,Mamaearth
+CUST1629,Amit,Male,Bengaluru,Karnataka,6,258,null,null,Clothing,T-Shirt,H&M
+CUST1630,Kavya,Female,Mumbai,Maharashtra,2,588,12,1034.88,Electronics,Earbuds,Boat
+CUST1631,Kavya,Female,Lucknow,Uttar Pradesh,6,785,24,3579.6,Beauty,Shampoo,Lakme
+CUST1632,Naveen,Male,Bengaluru,Karnataka,18,341,27,4480.74,Electronics,Bluetooth Speaker,Boat
+CUST1633,Arun,Male,Jaipur,Rajasthan,2,893,25,1339.5,Footwear,Sandals,Puma
+CUST1634,Meera,Female,Bengaluru,Karnataka,18,852,13,13342.32,Footwear,Sneakers,Puma
+CUST1635,Arun,Male,Hyderabad,Telangana,15,981,21,11624.85,Clothing,T-Shirt,Levis
+CUST1636,Priya,Female,Mumbai,Maharashtra,19,104,3,1916.72,Clothing,Hoodie,Zara
+CUST1637,Ravi,Male,Jaipur,Rajasthan,2,695,27,1014.7,Accessories,Cap,Titan
+CUST1638,Meera,Female,Jaipur,Rajasthan,6,919,6,5183.16,Electronics,Bluetooth Speaker,Realme
+CUST1639,Deepak,Male,Chennai,Tamil Nadu,1,460,7,427.8,Accessories,Cap,Boat
+CUST1640,Arun,Male,Ahmedabad,Gujarat,15,558,24,6361.2,Accessories,Sunglasses,Titan
+CUST1641,Meera,Female,Jaipur,Rajasthan,10,347,12,3053.6,Electronics,Power Bank,Noise
+CUST1642,Divya,Female,Mumbai,Maharashtra,19,665,26,9349.9,Footwear,Sneakers,Nike
+CUST1643,Deepak,Male,Jaipur,Rajasthan,17,772,5,12467.8,Footwear,Loafers,Puma
+CUST1644,Amit,Male,Ahmedabad,Gujarat,5,521,5,2474.75,Clothing,T-Shirt,Zara
+CUST1645,Neha,Female,Lucknow,Uttar Pradesh,4,837,23,2577.96,Beauty,Perfume,Lakme
+CUST1646,Pooja,Female,Delhi,Delhi,10,114,27,832.2,Accessories,Watch,Boat
+CUST1647,Meera,Female,Jaipur,Rajasthan,17,835,20,11356,Accessories,Watch,RayBan
+CUST1648,Sanjay,Male,Delhi,Delhi,10,672,29,4771.2,Clothing,Kurti,H&M
+CUST1649,Naveen,Male,Hyderabad,Telangana,17,221,2,3681.86,Footwear,Loafers,Adidas
+CUST1650,Sanjay,Male,Kolkata,West Bengal,5,376,27,1372.4,Footwear,Loafers,Nike
+CUST1651,Anita,Female,Pune,Maharashtra,2,657,2,1287.72,Accessories,Sunglasses,Titan
+CUST1652,Lakshmi,Female,Jaipur,Rajasthan,6,552,12,2914.56,Clothing,Kurti,Snitch
+CUST1653,Lakshmi,Female,Delhi,Delhi,2,489,21,772.62,Electronics,Power Bank,Noise
+CUST1654,Karthik,Male,Jaipur,Rajasthan,13,393,1,5057.91,Electronics,Power Bank,Noise
+CUST1655,Kavya,Female,Bengaluru,Karnataka,11,673,15,6292.55,Accessories,Watch,Fossil
+CUST1656,Neha,Female,Pune,Maharashtra,11,697,21,6056.93,Electronics,Power Bank,Noise
+CUST1657,Priya,Female,Pune,Maharashtra,16,545,28,6278.4,Footwear,Loafers,Adidas
+CUST1658,Neha,Female,Delhi,Delhi,11,309,5,3229.05,Electronics,Smartwatch,Noise
+CUST1659,Ravi,Male,Kolkata,West Bengal,19,689,7,12174.63,Footwear,Loafers,Adidas
+CUST1660,Manoj,Male,Pune,Maharashtra,15,813,22,9512.1,Footwear,Loafers,Nike
+CUST1661,Ravi,Male,Pune,Maharashtra,16,401,7,5966.88,Beauty,Perfume,Lakme
+CUST1662,Lakshmi,Female,Ahmedabad,Gujarat,11,322,29,2514.82,Clothing,Kurti,H&M
+CUST1663,Deepak,Male,Ahmedabad,Gujarat,16,833,24,10129.28,Beauty,Hair Oil,Nivea
+CUST1664,Neha,Female,Lucknow,Uttar Pradesh,8,102,5,775.2,Electronics,Bluetooth Speaker,OnePlus
+CUST1665,Ravi,Male,Hyderabad,Telangana,4,617,13,2147.16,Clothing,Hoodie,H&M
+CUST1666,Sangeeta,Female,Chennai,Tamil Nadu,8,192,2,1505.28,Electronics,Earbuds,Boat
+CUST1667,Anita,Female,Hyderabad,Telangana,4,619,9,2253.16,Beauty,Hair Oil,Mamaearth
+CUST1668,Karthik,Male,Pune,Maharashtra,3,527,2,1549.38,Clothing,Hoodie,H&M
+CUST1669,Deepak,Male,Jaipur,Rajasthan,3,592,26,1314.24,Beauty,Face Cream,Lakme
+CUST1670,Amit,Male,Delhi,Delhi,18,334,11,5350.68,Clothing,Jeans,H&M
+CUST1671,Pooja,Female,Kolkata,West Bengal,19,719,16,11475.24,Electronics,Bluetooth Speaker,Boat
+CUST1672,Kavya,Female,Delhi,Delhi,19,260,26,3655.6,Electronics,Bluetooth Speaker,OnePlus
+CUST1673,Deepak,Male,Jaipur,Rajasthan,5,820,28,2952,Clothing,Hoodie,H&M
+CUST1674,Anita,Female,Delhi,Delhi,18,851,4,14705.28,Clothing,Shirt,H&M
+CUST1675,Pooja,Female,Lucknow,Uttar Pradesh,10,430,29,3053,Electronics,Bluetooth Speaker,OnePlus
+CUST1676,Naveen,Male,Lucknow,Uttar Pradesh,6,432,19,2099.52,Beauty,Shampoo,Lakme
+CUST1677,Rahul,Male,Mumbai,Maharashtra,1,149,24,113.24,Footwear,Running Shoes,Nike
+CUST1678,Vijay,Male,Kolkata,West Bengal,5,622,8,2861.2,Clothing,Hoodie,Snitch
+CUST1679,Ravi,Male,Jaipur,Rajasthan,9,962,29,6147.18,Accessories,Sunglasses,RayBan
+CUST1680,Amit,Male,Lucknow,Uttar Pradesh,12,767,20,7363.2,Electronics,Smartwatch,Realme
+CUST1681,Meera,Female,Pune,Maharashtra,14,591,25,6205.5,Footwear,Sneakers,Adidas
+CUST1682,Neha,Female,Pune,Maharashtra,2,681,19,1103.22,Clothing,Kurti,Zara
+CUST1683,Karthik,Male,Jaipur,Rajasthan,17,780,null,null,Electronics,Smartwatch,Noise
+CUST1684,Neha,Female,Ahmedabad,Gujarat,14,371,21,4103.26,Footwear,Sneakers,Bata
+CUST1685,Kavya,Female,Ahmedabad,Gujarat,13,679,3,8562.19,Clothing,Kurti,Zara
+CUST1686,Deepak,Male,Mumbai,Maharashtra,9,966,12,7650.72,Clothing,Jeans,Snitch
+CUST1687,Priya,Female,Pune,Maharashtra,15,351,12,4633.2,Clothing,Shirt,H&M
+CUST1688,Meera,Female,Lucknow,Uttar Pradesh,15,659,9,8995.35,Clothing,Hoodie,H&M
+CUST1689,Divya,Female,Jaipur,Rajasthan,11,795,17,7258.35,Accessories,Sunglasses,Titan
+CUST1690,Naveen,Male,Delhi,Delhi,16,931,16,12512.64,Accessories,Cap,Boat
+CUST1691,Sanjay,Male,Hyderabad,Telangana,17,798,19,10988.46,Accessories,Belt,Titan
+CUST1692,Karthik,Male,Kolkata,West Bengal,4,189,19,612.36,Accessories,Sunglasses,Titan
+CUST1693,Priya,Female,Pune,Maharashtra,1,545,12,479.6,Electronics,Earbuds,Realme
+CUST1694,Neha,Female,Delhi,Delhi,8,431,16,2896.32,Clothing,Jeans,Zara
+CUST1695,Arun,Male,Delhi,Delhi,17,238,21,3196.34,Accessories,Belt,RayBan
+CUST1696,Meera,Female,Jaipur,Rajasthan,3,456,3,1326.96,Footwear,Sneakers,Nike
+CUST1697,Lakshmi,Female,Bengaluru,Karnataka,15,700,0,10500,Footwear,Loafers,Nike
+CUST1698,Vijay,Male,Chennai,Tamil Nadu,15,373,0,5595,Accessories,Belt,RayBan
+CUST1699,Anita,Female,Kolkata,West Bengal,14,118,14,1420.72,Footwear,Running Shoes,Adidas
+CUST1700,Kavya,Female,Pune,Maharashtra,14,410,12,5051.2,Clothing,Shirt,Zara
+CUST1701,Deepak,Male,Pune,Maharashtra,2,969,16,1627.92,Beauty,Shampoo,Mamaearth
+CUST1702,Neha,Female,Pune,Maharashtra,13,985,23,9859.85,Clothing,Kurti,H&M
+CUST1703,Anita,Female,Pune,Maharashtra,14,253,25,2656.5,Beauty,Hair Oil,Mamaearth
+CUST1704,Arun,Male,Chennai,Tamil Nadu,19,489,7,8640.63,Beauty,Shampoo,Lakme
+CUST1705,Rahul,Male,Chennai,Tamil Nadu,7,359,17,2085.79,Beauty,Perfume,Loreal
+CUST1706,Vijay,Male,Pune,Maharashtra,3,719,26,1596.18,Clothing,Jeans,Levis
+CUST1707,Pooja,Female,Chennai,Tamil Nadu,15,982,12,12962.4,Clothing,Jeans,Zara
+CUST1708,Manoj,Male,Hyderabad,Telangana,14,896,22,9784.32,Clothing,Kurti,Snitch
+CUST1709,Arun,Male,Pune,Maharashtra,11,670,13,6411.9,Clothing,Hoodie,Levis
+CUST1710,Sangeeta,Female,Mumbai,Maharashtra,15,224,7,3124.8,Clothing,Hoodie,Snitch
+CUST1711,Sanjay,Male,Chennai,Tamil Nadu,13,453,7,5476.77,Clothing,Kurti,Snitch
+CUST1712,Meera,Female,Bengaluru,Karnataka,18,372,26,4955.04,Accessories,Sunglasses,Boat
+CUST1713,Pooja,Female,Mumbai,Maharashtra,6,718,25,3231,Beauty,Perfume,Mamaearth
+CUST1714,Kavya,Female,Ahmedabad,Gujarat,3,910,14,2347.8,Beauty,Perfume,Loreal
+CUST1715,Meera,Female,Jaipur,Rajasthan,19,344,26,4836.64,Accessories,Cap,Fossil
+CUST1716,Anita,Female,Ahmedabad,Gujarat,15,947,12,12500.4,Footwear,Running Shoes,Adidas
+CUST1717,Amit,Male,Kolkata,West Bengal,5,549,6,2580.3,Electronics,Earbuds,Realme
+CUST1718,Radhika,Female,Ahmedabad,Gujarat,10,346,4,3321.6,Beauty,Hair Oil,Loreal
+CUST1719,Lakshmi,Female,Hyderabad,Telangana,7,619,16,3639.72,Footwear,Sandals,Puma
+CUST1720,Karthik,Male,Mumbai,Maharashtra,17,240,27,2978.4,Clothing,Kurti,Zara
+CUST1721,Radhika,Female,Jaipur,Rajasthan,7,461,24,2452.52,Accessories,Belt,Boat
+CUST1722,Sangeeta,Female,Hyderabad,Telangana,12,107,28,924.48,Clothing,T-Shirt,Snitch
+CUST1723,Sanjay,Male,Pune,Maharashtra,null,577,15,null,Accessories,Watch,Titan
+CUST1724,Priya,Female,Mumbai,Maharashtra,13,451,22,4573.14,Electronics,Earbuds,Boat
+CUST1725,Sanjay,Male,Kolkata,West Bengal,4,594,1,2352.24,Electronics,Power Bank,Realme
+CUST1726,Sanjay,Male,Hyderabad,Telangana,10,705,21,5569.5,Footwear,Running Shoes,Puma
+CUST1727,Priya,Female,Lucknow,Uttar Pradesh,3,932,17,2320.68,Accessories,Sunglasses,Titan
+CUST1728,Anita,Female,Pune,Maharashtra,9,526,16,3976.56,Accessories,Watch,Fossil
+CUST1729,Neha,Female,Kolkata,West Bengal,13,138,29,1273.74,Footwear,Sneakers,Nike
+CUST1730,Amit,Male,Hyderabad,Telangana,18,692,6,11708.64,Clothing,Kurti,Zara
+CUST1731,Neha,Female,Mumbai,Maharashtra,15,286,12,3775.2,Beauty,Shampoo,Lakme
+CUST1732,Manoj,Male,Kolkata,West Bengal,4,695,17,2307.4,Footwear,Sneakers,Bata
+CUST1733,Divya,Female,Delhi,Delhi,15,699,28,7549.2,Clothing,T-Shirt,Snitch
+CUST1734,Amit,Male,Delhi,Delhi,2,853,13,1484.22,Electronics,Bluetooth Speaker,OnePlus
+CUST1735,Neha,Female,Lucknow,Uttar Pradesh,15,953,29,10149.45,Footwear,Loafers,Adidas
+CUST1736,Divya,Female,Delhi,Delhi,8,192,17,1274.88,Accessories,Belt,RayBan
+CUST1737,Arun,Male,Lucknow,Uttar Pradesh,8,185,12,1302.4,Beauty,Face Cream,Mamaearth
+CUST1738,Lakshmi,Female,Kolkata,West Bengal,17,143,10,2187.9,Clothing,Kurti,Levis
+CUST1739,Anita,Female,Kolkata,West Bengal,12,236,20,2265.6,Electronics,Smartwatch,Noise
+CUST1740,Karthik,Male,Hyderabad,Telangana,19,520,29,7014.8,Clothing,Hoodie,Snitch
+CUST1741,Lakshmi,Female,Kolkata,West Bengal,10,173,20,1384,Electronics,Smartwatch,Boat
+CUST1742,Sangeeta,Female,Delhi,Delhi,9,647,15,4949.55,Beauty,Face Cream,Lakme
+CUST1743,Pooja,Female,Ahmedabad,Gujarat,5,712,22,2776.8,Clothing,Jeans,Zara
+CUST1744,Radhika,Female,Bengaluru,Karnataka,6,611,16,3079.44,Beauty,Shampoo,Loreal
+CUST1745,Neha,Female,Kolkata,West Bengal,2,255,7,474.3,Electronics,Bluetooth Speaker,Realme
+CUST1746,Divya,Female,Ahmedabad,Gujarat,13,354,18,3773.64,Footwear,Running Shoes,Adidas
+CUST1747,Neha,Female,Bengaluru,Karnataka,6,270,19,1312.2,Accessories,Belt,RayBan
+CUST1748,Meera,Female,Bengaluru,Karnataka,5,827,14,3556.1,Footwear,Running Shoes,Puma
+CUST1749,Sanjay,Male,Chennai,Tamil Nadu,1,269,8,247.48,Footwear,Sandals,Puma
+CUST1750,Naveen,Male,Chennai,Tamil Nadu,6,863,19,4194.18,Accessories,Cap,Fossil
+CUST1751,Karthik,Male,Pune,Maharashtra,6,971,9,5301.66,Accessories,Sunglasses,Titan
+CUST1752,Arun,Male,Lucknow,Uttar Pradesh,16,421,11,5995.04,Footwear,Running Shoes,Adidas
+CUST1753,Pooja,Female,Kolkata,West Bengal,4,666,20,2131.2,Accessories,Sunglasses,RayBan
+CUST1754,Karthik,Male,Hyderabad,Telangana,11,555,22,4761.9,Footwear,Sandals,Bata
+CUST1755,Pooja,Female,Hyderabad,Telangana,9,702,19,5117.58,Accessories,Cap,Fossil
+CUST1756,Rahul,Male,Chennai,Tamil Nadu,3,889,29,1893.57,Accessories,Sunglasses,Fossil
+CUST1757,Sanjay,Male,Mumbai,Maharashtra,19,712,0,13528,Clothing,Jeans,Zara
+CUST1758,Deepak,Male,Mumbai,Maharashtra,8,254,24,1544.32,Clothing,Kurti,Snitch
+CUST1759,Naveen,Male,Mumbai,Maharashtra,5,988,19,4001.4,Beauty,Face Cream,Lakme
+CUST1760,Sanjay,Male,Lucknow,Uttar Pradesh,4,448,8,1648.64,Beauty,Face Cream,Lakme
+CUST1761,Anita,Female,Lucknow,Uttar Pradesh,6,550,21,2607,Electronics,Earbuds,Realme
+CUST1762,Manoj,Male,Jaipur,Rajasthan,2,975,14,1677,Electronics,Earbuds,Boat
+CUST1763,Neha,Female,Lucknow,Uttar Pradesh,11,752,0,8272,Electronics,Smartwatch,Noise
+CUST1764,Manoj,Male,Lucknow,Uttar Pradesh,4,272,11,968.32,Clothing,Shirt,Snitch
+CUST1765,Vijay,Male,Mumbai,Maharashtra,15,109,2,1602.3,Beauty,Hair Oil,Loreal
+CUST1766,Radhika,Female,Lucknow,Uttar Pradesh,6,839,10,4530.6,Electronics,Bluetooth Speaker,Noise
+CUST1767,Manoj,Male,Lucknow,Uttar Pradesh,17,364,1,6126.12,Clothing,Shirt,Snitch
+CUST1768,Kavya,Female,Hyderabad,Telangana,6,537,15,2738.7,Beauty,Face Cream,Lakme
+CUST1769,Sangeeta,Female,Chennai,Tamil Nadu,19,859,8,15015.32,Clothing,Kurti,H&M
+CUST1770,Karthik,Male,Delhi,Delhi,2,346,14,595.12,Electronics,Earbuds,Noise
+CUST1771,Ravi,Male,Jaipur,Rajasthan,15,766,11,10226.1,Footwear,Running Shoes,Adidas
+CUST1772,Deepak,Male,Jaipur,Rajasthan,11,645,0,7095,Beauty,Face Cream,Loreal
+CUST1773,Radhika,Female,Kolkata,West Bengal,8,598,12,4209.92,Electronics,Smartwatch,Noise
+CUST1774,Deepak,Male,Mumbai,Maharashtra,19,228,13,3768.84,Footwear,Sneakers,Adidas
+CUST1775,Ravi,Male,Lucknow,Uttar Pradesh,13,771,24,7617.48,Beauty,Face Cream,Nivea
+CUST1776,Karthik,Male,Chennai,Tamil Nadu,12,700,24,6384,Accessories,Cap,Fossil
+CUST1777,Lakshmi,Female,Pune,Maharashtra,5,704,7,3273.6,Footwear,Loafers,Puma
+CUST1778,Deepak,Male,Mumbai,Maharashtra,6,426,7,2377.08,Clothing,Shirt,Levis
+CUST1779,Pooja,Female,Pune,Maharashtra,4,852,26,2521.92,Accessories,Watch,RayBan
+CUST1780,Naveen,Male,Bengaluru,Karnataka,19,934,29,12599.66,Electronics,Smartwatch,Realme
+CUST1781,Rahul,Male,Lucknow,Uttar Pradesh,1,503,11,447.67,Accessories,Cap,RayBan
+CUST1782,Ravi,Male,Chennai,Tamil Nadu,17,728,0,12376,Clothing,Kurti,Levis
+CUST1783,Divya,Female,Chennai,Tamil Nadu,12,705,10,7614,Electronics,Bluetooth Speaker,Realme
+CUST1784,Neha,Female,Ahmedabad,Gujarat,15,774,7,10797.3,Electronics,Bluetooth Speaker,Noise
+CUST1785,Priya,Female,Kolkata,West Bengal,1,710,9,646.1,Beauty,Hair Oil,Mamaearth
+CUST1786,Karthik,Male,Kolkata,West Bengal,14,724,29,7196.56,Accessories,Sunglasses,Titan
+CUST1787,Rahul,Male,Pune,Maharashtra,6,458,18,2253.36,Beauty,Shampoo,Mamaearth
+CUST1788,Karthik,Male,Bengaluru,Karnataka,5,702,10,3159,Accessories,Cap,Fossil
+CUST1789,Priya,Female,Mumbai,Maharashtra,11,957,6,9895.38,Footwear,Running Shoes,Puma
+CUST1790,Sangeeta,Female,Mumbai,Maharashtra,4,817,10,2941.2,Accessories,Belt,Titan
+CUST1791,Divya,Female,Pune,Maharashtra,13,116,16,1266.72,Clothing,Hoodie,Snitch
+CUST1792,Sanjay,Male,Mumbai,Maharashtra,11,373,0,4103,Electronics,Smartwatch,Boat
+CUST1793,Meera,Female,Lucknow,Uttar Pradesh,3,784,25,1764,Electronics,Smartwatch,Noise
+CUST1794,Priya,Female,Hyderabad,Telangana,1,215,28,154.8,Accessories,Watch,Titan
+CUST1795,Rahul,Male,Ahmedabad,Gujarat,6,960,20,4608,Footwear,Running Shoes,Bata
+CUST1796,Lakshmi,Female,Bengaluru,Karnataka,18,792,20,11404.8,Accessories,Watch,Titan
+CUST1797,Amit,Male,Lucknow,Uttar Pradesh,10,190,7,1767,Clothing,Hoodie,Levis
+CUST1798,Sanjay,Male,Ahmedabad,Gujarat,5,181,22,705.9,Beauty,Shampoo,Mamaearth
+CUST1799,Priya,Female,Kolkata,West Bengal,10,423,23,3257.1,Beauty,Shampoo,Mamaearth
+CUST1800,Rahul,Male,Jaipur,Rajasthan,12,213,5,2428.2,Electronics,Bluetooth Speaker,OnePlus
+CUST1801,Priya,Female,Bengaluru,Karnataka,2,868,21,1371.44,Clothing,Shirt,H&M
+CUST1802,Radhika,Female,Jaipur,Rajasthan,13,157,17,1694.03,Clothing,Hoodie,H&M
+CUST1803,Lakshmi,Female,Hyderabad,Telangana,8,253,5,1922.8,Beauty,Face Cream,Mamaearth
+CUST1804,Naveen,Male,Delhi,Delhi,2,976,4,1873.92,Beauty,Face Cream,Mamaearth
+CUST1805,Ravi,Male,Delhi,Delhi,1,503,12,442.64,Electronics,Power Bank,OnePlus
+CUST1806,Lakshmi,Female,Pune,Maharashtra,5,727,18,2980.7,Accessories,Belt,Fossil
+CUST1807,Divya,Female,Ahmedabad,Gujarat,9,954,21,6782.94,Accessories,Sunglasses,Fossil
+CUST1808,Sanjay,Male,Hyderabad,Telangana,17,365,7,5770.65,Clothing,Shirt,Snitch
+CUST1809,Kavya,Female,Kolkata,West Bengal,9,414,8,3427.92,Beauty,Shampoo,Mamaearth
+CUST1810,Vijay,Male,Chennai,Tamil Nadu,11,814,16,7521.36,Accessories,Watch,Boat
+CUST1811,Vijay,Male,Hyderabad,Telangana,15,140,2,2058,Beauty,Hair Oil,Lakme
+CUST1812,Ravi,Male,Delhi,Delhi,6,204,18,1003.68,Beauty,Perfume,Mamaearth
+CUST1813,Radhika,Female,Bengaluru,Karnataka,3,989,10,2670.3,Accessories,Sunglasses,RayBan
+CUST1814,Radhika,Female,Bengaluru,Karnataka,17,292,23,3822.28,Footwear,Loafers,Puma
+CUST1815,Deepak,Male,Delhi,Delhi,5,500,16,2100,Footwear,Running Shoes,Puma
+CUST1816,Deepak,Male,Chennai,Tamil Nadu,12,377,20,3619.2,Beauty,Perfume,Nivea
+CUST1817,Rahul,Male,Ahmedabad,Gujarat,18,453,18,6686.28,Footwear,Sandals,Bata
+CUST1818,Deepak,Male,Bengaluru,Karnataka,14,848,1,11753.28,Clothing,Kurti,H&M
+CUST1819,Pooja,Female,Delhi,Delhi,11,832,7,8511.36,Footwear,Sneakers,Nike
+CUST1820,Deepak,Male,Hyderabad,Telangana,9,679,18,5011.02,Footwear,Sneakers,Bata
+CUST1821,Ravi,Male,Mumbai,Maharashtra,2,808,6,1519.04,Accessories,Cap,RayBan
+CUST1822,Sangeeta,Female,Chennai,Tamil Nadu,12,355,27,3109.8,Clothing,T-Shirt,Snitch
+CUST1823,Vijay,Male,Chennai,Tamil Nadu,3,750,26,1665,Footwear,Loafers,Adidas
+CUST1824,Manoj,Male,Jaipur,Rajasthan,3,923,16,2325.96,Accessories,Sunglasses,RayBan
+CUST1825,Naveen,Male,Pune,Maharashtra,1,760,5,722,Accessories,Sunglasses,Fossil
+CUST1826,Sangeeta,Female,Pune,Maharashtra,8,198,18,1298.88,Beauty,Perfume,Lakme
+CUST1827,Pooja,Female,Ahmedabad,Gujarat,8,687,23,4231.92,Footwear,Sneakers,Nike
+CUST1828,Naveen,Male,Bengaluru,Karnataka,11,381,5,3981.45,Clothing,T-Shirt,H&M
+CUST1829,Vijay,Male,Chennai,Tamil Nadu,9,982,27,6451.74,Clothing,Jeans,Levis
+CUST1830,Ravi,Male,Hyderabad,Telangana,5,502,1,2484.9,Beauty,Face Cream,Nivea
+CUST1831,Neha,Female,Delhi,Delhi,14,208,5,2766.4,Clothing,Shirt,Snitch
+CUST1832,Pooja,Female,Bengaluru,Karnataka,3,799,22,1869.66,Clothing,Jeans,Snitch
+CUST1833,Neha,Female,Mumbai,Maharashtra,5,298,4,1430.4,Footwear,Sneakers,Puma
+CUST1834,Sangeeta,Female,Kolkata,West Bengal,5,402,18,1648.2,Footwear,Loafers,Bata
+CUST1835,Manoj,Male,Lucknow,Uttar Pradesh,19,426,19,6556.14,Clothing,Kurti,Levis
+CUST1836,Priya,Female,Kolkata,West Bengal,14,253,3,3435.74,Footwear,Running Shoes,Puma
+CUST1837,Neha,Female,Pune,Maharashtra,4,651,21,2057.16,Footwear,Running Shoes,Bata
+CUST1838,Sangeeta,Female,Delhi,Delhi,13,744,25,7254,Beauty,Perfume,Mamaearth
+CUST1839,Sangeeta,Female,Lucknow,Uttar Pradesh,10,504,16,4233.6,Accessories,Belt,RayBan
+CUST1840,Arun,Male,Jaipur,Rajasthan,18,561,10,9088.2,Footwear,Loafers,Puma
+CUST1841,Manoj,Male,Hyderabad,Telangana,8,231,3,1792.56,Beauty,Perfume,Nivea
+CUST1842,Karthik,Male,Chennai,Tamil Nadu,8,890,25,5340,Footwear,Loafers,Bata
+CUST1843,Meera,Female,Mumbai,Maharashtra,7,973,12,5993.68,Electronics,Smartwatch,Boat
+CUST1844,Ravi,Male,Kolkata,West Bengal,8,183,19,1185.84,Clothing,Shirt,Levis
+CUST1845,Vijay,Male,Delhi,Delhi,14,498,25,5229,Accessories,Cap,Fossil
+CUST1846,Ravi,Male,Bengaluru,Karnataka,19,853,16,13613.88,Accessories,Sunglasses,Fossil
+CUST1847,Manoj,Male,Chennai,Tamil Nadu,6,727,8,4013.04,Clothing,Jeans,Snitch
+CUST1848,Neha,Female,Lucknow,Uttar Pradesh,1,208,3,201.76,Footwear,Loafers,Bata
+CUST1849,Vijay,Male,Mumbai,Maharashtra,15,320,22,3744,Beauty,Perfume,Mamaearth
+CUST1850,Sangeeta,Female,Mumbai,Maharashtra,1,652,27,475.96,Footwear,Loafers,Nike
+CUST1851,Lakshmi,Female,Delhi,Delhi,17,467,13,6906.93,Footwear,Running Shoes,Nike
+CUST1852,Deepak,Male,Kolkata,West Bengal,1,246,18,201.72,Accessories,Belt,RayBan
+CUST1853,Deepak,Male,Lucknow,Uttar Pradesh,15,211,25,2373.75,Electronics,Earbuds,Realme
+CUST1854,Anita,Female,Chennai,Tamil Nadu,2,714,27,1042.44,Footwear,Sandals,Adidas
+CUST1855,Sanjay,Male,Kolkata,West Bengal,14,657,2,9014.04,Clothing,Jeans,H&M
+CUST1856,Manoj,Male,Jaipur,Rajasthan,8,593,13,4127.28,Electronics,Earbuds,Realme
+CUST1857,Arun,Male,Delhi,Delhi,8,604,7,4493.76,Accessories,Sunglasses,Boat
+CUST1858,Rahul,Male,Pune,Maharashtra,19,574,23,8397.62,Accessories,Sunglasses,Fossil
+CUST1859,Sanjay,Male,Delhi,Delhi,7,935,26,4843.3,Electronics,Earbuds,OnePlus
+CUST1860,Priya,Female,Chennai,Tamil Nadu,19,989,27,13717.43,Clothing,Shirt,H&M
+CUST1861,Arun,Male,Ahmedabad,Gujarat,6,370,0,2220,Accessories,Sunglasses,Fossil
+CUST1862,Amit,Male,Bengaluru,Karnataka,6,520,9,2839.2,Accessories,Cap,Fossil
+CUST1863,Naveen,Male,Chennai,Tamil Nadu,3,996,17,2480.04,Footwear,Sneakers,Nike
+CUST1864,Naveen,Male,Lucknow,Uttar Pradesh,7,806,15,4795.7,Footwear,Sandals,Nike
+CUST1865,Radhika,Female,Lucknow,Uttar Pradesh,19,466,7,8234.22,Footwear,Sneakers,Bata
+CUST1866,Divya,Female,Chennai,Tamil Nadu,8,379,0,3032,Clothing,T-Shirt,Zara
+CUST1867,Anita,Female,Delhi,Delhi,10,382,11,3399.8,Accessories,Cap,RayBan
+CUST1868,Neha,Female,Mumbai,Maharashtra,15,139,7,1939.05,Electronics,Earbuds,Boat
+CUST1869,Sanjay,Male,Bengaluru,Karnataka,15,288,23,3326.4,Footwear,Running Shoes,Puma
+CUST1870,Amit,Male,Bengaluru,Karnataka,1,263,15,223.55,Clothing,Jeans,Snitch
+CUST1871,Divya,Female,Bengaluru,Karnataka,7,635,17,3689.35,Footwear,Sandals,Nike
+CUST1872,Anita,Female,Delhi,Delhi,4,635,3,2463.8,Electronics,Smartwatch,OnePlus
+CUST1873,Arun,Male,Pune,Maharashtra,6,103,5,587.1,Footwear,Sneakers,Adidas
+CUST1874,Anita,Female,Jaipur,Rajasthan,1,934,11,831.26,Electronics,Power Bank,Boat
+CUST1875,Rahul,Male,Pune,Maharashtra,5,389,26,1439.3,Clothing,Kurti,Snitch
+CUST1876,Karthik,Male,Chennai,Tamil Nadu,1,532,8,489.44,Electronics,Bluetooth Speaker,Noise
+CUST1877,Lakshmi,Female,Kolkata,West Bengal,4,570,14,1960.8,Electronics,Earbuds,Boat
+CUST1878,Naveen,Male,Pune,Maharashtra,2,280,15,476,Footwear,Running Shoes,Nike
+CUST1879,Sanjay,Male,Hyderabad,Telangana,10,347,23,2671.9,Accessories,Belt,Boat
+CUST1880,Kavya,Female,Bengaluru,Karnataka,5,727,11,3235.15,Accessories,Watch,Fossil
+CUST1881,Kavya,Female,Kolkata,West Bengal,10,378,23,2910.6,Electronics,Power Bank,Noise
+CUST1882,Sangeeta,Female,Mumbai,Maharashtra,1,976,22,761.28,Footwear,Loafers,Nike
+CUST1883,Amit,Male,Mumbai,Maharashtra,6,680,13,3549.6,Accessories,Sunglasses,Boat
+CUST1884,Manoj,Male,Delhi,Delhi,13,962,12,11005.28,Beauty,Face Cream,Lakme
+CUST1885,Sangeeta,Female,Hyderabad,Telangana,15,353,24,4024.2,Electronics,Power Bank,Boat
+CUST1886,Radhika,Female,Jaipur,Rajasthan,4,280,1,1108.8,Clothing,Jeans,H&M
+CUST1887,Amit,Male,Mumbai,Maharashtra,13,929,2,11835.46,Footwear,Sandals,Nike
+CUST1888,Divya,Female,Bengaluru,Karnataka,15,780,25,8775,Footwear,Sneakers,Bata
+CUST1889,Naveen,Male,Hyderabad,Telangana,8,924,23,5691.84,Accessories,Watch,Titan
+CUST1890,Radhika,Female,Jaipur,Rajasthan,5,608,29,2158.4,Electronics,Power Bank,Realme
+CUST1891,Meera,Female,Lucknow,Uttar Pradesh,15,860,21,10191,Clothing,Kurti,H&M
+CUST1892,Lakshmi,Female,Mumbai,Maharashtra,4,799,9,2908.36,Electronics,Power Bank,Realme
+CUST1893,Karthik,Male,Ahmedabad,Gujarat,12,665,8,7341.6,Clothing,T-Shirt,H&M
+CUST1894,Ravi,Male,Bengaluru,Karnataka,13,425,25,4143.75,Footwear,Sneakers,Puma
+CUST1895,Kavya,Female,Bengaluru,Karnataka,2,456,19,738.72,Footwear,Running Shoes,Nike
+CUST1896,Divya,Female,Jaipur,Rajasthan,19,924,7,16327.08,Beauty,Face Cream,Loreal
+CUST1897,Manoj,Male,Lucknow,Uttar Pradesh,19,749,9,12950.21,Footwear,Sneakers,Puma
+CUST1898,Anita,Female,Pune,Maharashtra,4,779,18,2555.12,Beauty,Face Cream,Nivea
+CUST1899,Anita,Female,Chennai,Tamil Nadu,4,490,2,1920.8,Accessories,Belt,Fossil
+CUST1900,Sanjay,Male,Jaipur,Rajasthan,11,714,23,6047.58,Clothing,Jeans,H&M
+CUST1901,Radhika,Female,Chennai,Tamil Nadu,5,184,4,883.2,Accessories,Sunglasses,Fossil
+CUST1902,Karthik,Male,Bengaluru,Karnataka,11,416,2,4484.48,Clothing,Kurti,H&M
+CUST1903,Arun,Male,Kolkata,West Bengal,10,311,25,2332.5,Beauty,Shampoo,Lakme
+CUST1904,Deepak,Male,Bengaluru,Karnataka,8,614,26,3634.88,Electronics,Bluetooth Speaker,OnePlus
+CUST1905,Divya,Female,Mumbai,Maharashtra,6,483,15,2463.3,Footwear,Loafers,Bata
+CUST1906,Kavya,Female,Lucknow,Uttar Pradesh,6,790,16,3981.6,Beauty,Shampoo,Loreal
+CUST1907,Kavya,Female,Delhi,Delhi,8,441,14,3034.08,Accessories,Cap,RayBan
+CUST1908,Naveen,Male,Ahmedabad,Gujarat,15,914,2,13435.8,Clothing,Jeans,H&M
+CUST1909,Sanjay,Male,Mumbai,Maharashtra,14,943,11,11749.78,Clothing,Shirt,Snitch
+CUST1910,Manoj,Male,Jaipur,Rajasthan,11,137,8,1386.44,Clothing,Hoodie,Snitch
+CUST1911,Arun,Male,Jaipur,Rajasthan,12,610,20,5856,Clothing,Hoodie,Levis
+CUST1912,Rahul,Male,Pune,Maharashtra,13,519,11,6004.83,Accessories,Belt,RayBan
+CUST1913,Neha,Female,Delhi,Delhi,8,850,25,5100,Footwear,Sandals,Nike
+CUST1914,Rahul,Male,Pune,Maharashtra,18,268,14,4148.64,Beauty,Shampoo,Loreal
+CUST1915,Divya,Female,Pune,Maharashtra,1,442,1,437.58,Electronics,Power Bank,Noise
+CUST1916,Pooja,Female,Ahmedabad,Gujarat,15,925,22,10822.5,Footwear,Sandals,Bata
+CUST1917,Pooja,Female,Chennai,Tamil Nadu,8,405,17,2689.2,Footwear,Sandals,Adidas
+CUST1918,Rahul,Male,Chennai,Tamil Nadu,11,641,19,5711.31,Electronics,Power Bank,OnePlus
+CUST1919,Divya,Female,Hyderabad,Telangana,12,801,11,8554.68,Clothing,Jeans,Levis
+CUST1920,Ravi,Male,Pune,Maharashtra,12,968,22,9060.48,Accessories,Cap,Titan
+CUST1921,Pooja,Female,Lucknow,Uttar Pradesh,4,636,3,2467.68,Beauty,Shampoo,Loreal
+CUST1922,Divya,Female,Delhi,Delhi,16,211,22,2633.28,Footwear,Running Shoes,Bata
+CUST1923,Neha,Female,Bengaluru,Karnataka,4,510,15,1734,Clothing,Kurti,H&M
+CUST1924,Kavya,Female,Delhi,Delhi,5,305,22,1189.5,Electronics,Smartwatch,Noise
+CUST1925,Radhika,Female,Delhi,Delhi,5,284,15,1207,Clothing,Kurti,Zara
+CUST1926,Deepak,Male,Kolkata,West Bengal,8,481,0,3848,Beauty,Perfume,Loreal
+CUST1927,Amit,Male,Bengaluru,Karnataka,10,595,21,4700.5,Footwear,Running Shoes,Puma
+CUST1928,Arun,Male,Jaipur,Rajasthan,17,478,24,6175.76,Beauty,Face Cream,Mamaearth
+CUST1929,Karthik,Male,Ahmedabad,Gujarat,9,146,1,1300.86,Beauty,Perfume,Nivea
+CUST1930,Neha,Female,Hyderabad,Telangana,19,985,29,13287.65,Accessories,Sunglasses,Boat
+CUST1931,Manoj,Male,Hyderabad,Telangana,14,839,2,11511.08,Electronics,Power Bank,Noise
+CUST1932,Divya,Female,Mumbai,Maharashtra,8,650,25,3900,Electronics,Bluetooth Speaker,Boat
+CUST1933,Neha,Female,Ahmedabad,Gujarat,9,627,20,4514.4,Accessories,Cap,Titan
+CUST1934,Karthik,Male,Ahmedabad,Gujarat,11,603,24,5041.08,Footwear,Loafers,Puma
+CUST1935,Pooja,Female,Hyderabad,Telangana,1,121,19,98.01,Electronics,Earbuds,OnePlus
+CUST1936,Pooja,Female,Pune,Maharashtra,14,312,16,3669.12,Accessories,Sunglasses,RayBan
+CUST1937,Meera,Female,Ahmedabad,Gujarat,5,409,19,1656.45,Footwear,Running Shoes,Adidas
+CUST1938,Divya,Female,Chennai,Tamil Nadu,14,760,21,8405.6,Footwear,Sandals,Puma
+CUST1939,Radhika,Female,Hyderabad,Telangana,4,852,20,2726.4,Footwear,Running Shoes,Nike
+CUST1940,Vijay,Male,Kolkata,West Bengal,1,371,29,263.41,Electronics,Smartwatch,Realme
+CUST1941,Pooja,Female,Kolkata,West Bengal,19,670,28,9165.6,Accessories,Watch,RayBan
+CUST1942,Deepak,Male,Lucknow,Uttar Pradesh,8,898,0,7184,Clothing,Jeans,Snitch
+CUST1943,Lakshmi,Female,Lucknow,Uttar Pradesh,15,301,19,3657.15,Electronics,Power Bank,Noise
+CUST1944,Vijay,Male,Jaipur,Rajasthan,15,131,5,1866.75,Accessories,Sunglasses,Fossil
+CUST1945,Meera,Female,Mumbai,Maharashtra,9,542,28,3512.16,Accessories,Belt,Boat
+CUST1946,Sanjay,Male,Chennai,Tamil Nadu,9,261,14,2020.14,Accessories,Cap,Fossil
+CUST1947,Ravi,Male,Pune,Maharashtra,10,866,25,6495,Accessories,Cap,Boat
+CUST1948,Meera,Female,Lucknow,Uttar Pradesh,9,353,25,2382.75,Beauty,Shampoo,Mamaearth
+CUST1949,Deepak,Male,Bengaluru,Karnataka,3,620,13,1618.2,Beauty,Face Cream,Mamaearth
+CUST1950,Sangeeta,Female,Bengaluru,Karnataka,11,750,19,6682.5,Footwear,Running Shoes,Adidas
+CUST1951,Rahul,Male,Jaipur,Rajasthan,6,579,14,2987.64,Electronics,Smartwatch,Boat
+CUST1952,Rahul,Male,Delhi,Delhi,2,109,13,189.66,Footwear,Loafers,Puma
+CUST1953,Sangeeta,Female,Mumbai,Maharashtra,7,825,24,4389,Electronics,Earbuds,Boat
+CUST1954,Meera,Female,Ahmedabad,Gujarat,18,604,20,8697.6,Clothing,Jeans,Snitch
+CUST1955,Naveen,Male,Chennai,Tamil Nadu,2,884,23,1361.36,Electronics,Bluetooth Speaker,Noise
+CUST1956,Naveen,Male,Kolkata,West Bengal,17,935,24,12080.2,Footwear,Sneakers,Nike
+CUST1957,Sanjay,Male,Delhi,Delhi,11,659,25,5436.75,Clothing,Kurti,Levis
+CUST1958,Sanjay,Male,Pune,Maharashtra,12,535,4,6163.2,Electronics,Power Bank,Realme
+CUST1959,Meera,Female,Bengaluru,Karnataka,19,210,5,3790.5,Beauty,Shampoo,Mamaearth
+CUST1960,Amit,Male,Lucknow,Uttar Pradesh,7,252,16,1481.76,Footwear,Sandals,Nike
+CUST1961,Vijay,Male,Jaipur,Rajasthan,6,734,10,3963.6,Accessories,Cap,Fossil
+CUST1962,Sanjay,Male,Mumbai,Maharashtra,1,968,15,822.8,Electronics,Earbuds,OnePlus
+CUST1963,Arun,Male,Delhi,Delhi,17,201,11,3041.13,Clothing,Hoodie,Snitch
+CUST1964,Pooja,Female,Pune,Maharashtra,11,852,14,8059.92,Clothing,T-Shirt,Levis
+CUST1965,Kavya,Female,Lucknow,Uttar Pradesh,18,932,22,13085.28,Electronics,Bluetooth Speaker,OnePlus
+CUST1966,Kavya,Female,Hyderabad,Telangana,17,290,3,4782.1,Footwear,Running Shoes,Bata
+CUST1967,Divya,Female,Pune,Maharashtra,7,828,26,4289.04,Clothing,Shirt,H&M
+CUST1968,Pooja,Female,Kolkata,West Bengal,17,662,17,9340.82,Clothing,Hoodie,Levis
+CUST1969,Manoj,Male,Ahmedabad,Gujarat,9,903,20,6501.6,Accessories,Sunglasses,Titan
+CUST1970,Vijay,Male,Ahmedabad,Gujarat,17,180,27,2233.8,Accessories,Watch,Titan
+CUST1971,Pooja,Female,Jaipur,Rajasthan,8,588,2,4609.92,Electronics,Earbuds,OnePlus
+CUST1972,Karthik,Male,Mumbai,Maharashtra,17,994,21,13349.42,Accessories,Watch,RayBan
+CUST1973,Arun,Male,Kolkata,West Bengal,7,187,7,1217.37,Electronics,Earbuds,OnePlus
+CUST1974,Priya,Female,Mumbai,Maharashtra,1,293,22,228.54,Accessories,Sunglasses,Titan
+CUST1975,Anita,Female,Ahmedabad,Gujarat,13,203,2,2586.22,Beauty,Shampoo,Loreal
+CUST1976,Radhika,Female,Lucknow,Uttar Pradesh,19,882,7,15584.94,Accessories,Watch,Titan
+CUST1977,Arun,Male,Bengaluru,Karnataka,19,195,17,3075.15,Beauty,Shampoo,Mamaearth
+CUST1978,Divya,Female,Mumbai,Maharashtra,17,522,9,8075.34,Electronics,Earbuds,Boat
+CUST1979,Meera,Female,Pune,Maharashtra,13,990,24,9781.2,Electronics,Smartwatch,OnePlus
+CUST1980,Amit,Male,Delhi,Delhi,16,297,19,3849.12,Clothing,Kurti,Levis
+CUST1981,Arun,Male,Chennai,Tamil Nadu,8,100,16,672,Beauty,Shampoo,Lakme
+CUST1982,Divya,Female,Bengaluru,Karnataka,19,506,7,8941.02,Accessories,Sunglasses,Fossil
+CUST1983,Sangeeta,Female,Chennai,Tamil Nadu,18,477,22,6697.08,Accessories,Belt,RayBan
+CUST1984,Arun,Male,Kolkata,West Bengal,1,266,10,239.4,Beauty,Perfume,Nivea
+CUST1985,Radhika,Female,Mumbai,Maharashtra,14,608,28,6128.64,Beauty,Face Cream,Mamaearth
+CUST1986,Radhika,Female,Delhi,Delhi,19,737,4,13442.88,Footwear,Running Shoes,Adidas
+CUST1987,Karthik,Male,Mumbai,Maharashtra,15,412,25,4635,Accessories,Cap,RayBan
+CUST1988,Rahul,Male,Jaipur,Rajasthan,18,692,12,10961.28,Footwear,Sandals,Nike
+CUST1989,Sanjay,Male,Lucknow,Uttar Pradesh,2,517,20,827.2,Footwear,Loafers,Adidas
+CUST1990,Sanjay,Male,Hyderabad,Telangana,17,862,22,11430.12,Clothing,Jeans,Zara
+CUST1991,Pooja,Female,Kolkata,West Bengal,18,780,4,13478.4,Beauty,Shampoo,Lakme
+CUST1992,Divya,Female,Mumbai,Maharashtra,6,576,23,2661.12,Electronics,Bluetooth Speaker,Realme
+CUST1993,Sangeeta,Female,Chennai,Tamil Nadu,19,172,26,2418.32,Electronics,Bluetooth Speaker,Boat
+CUST1994,Pooja,Female,Ahmedabad,Gujarat,4,240,12,844.8,Accessories,Belt,Boat
+CUST1995,Divya,Female,Lucknow,Uttar Pradesh,1,681,5,646.95,Accessories,Sunglasses,Boat
+CUST1996,Divya,Female,Kolkata,West Bengal,8,361,28,2079.36,Accessories,Belt,RayBan
+CUST1997,Radhika,Female,Bengaluru,Karnataka,7,439,4,2950.08,Accessories,Cap,Titan
+CUST1998,Ravi,Male,Delhi,Delhi,3,407,8,1123.32,Clothing,Shirt,Snitch
+CUST1999,Anita,Female,Mumbai,Maharashtra,10,344,26,2545.6,Electronics,Smartwatch,Boat
+CUST2000,Manoj,Male,Bengaluru,Karnataka,10,614,15,5219,Beauty,Shampoo,Lakme
+CUST2001,Amit,Male,Ahmedabad,Gujarat,19,436,1,8201.16,Accessories,Belt,RayBan
+CUST2002,Divya,Female,Bengaluru,Karnataka,14,674,0,9436,Beauty,Face Cream,Nivea
+CUST2003,Radhika,Female,Mumbai,Maharashtra,2,660,7,1227.6,Beauty,Perfume,Nivea
+CUST2004,Sanjay,Male,Hyderabad,Telangana,1,175,27,127.75,Footwear,Running Shoes,Bata
+CUST2005,Kavya,Female,Pune,Maharashtra,18,979,18,14450.04,Footwear,Loafers,Adidas
+CUST2006,Rahul,Male,Bengaluru,Karnataka,7,274,29,1361.78,Electronics,Bluetooth Speaker,OnePlus
+CUST2007,Ravi,Male,Ahmedabad,Gujarat,8,208,10,1497.6,Beauty,Hair Oil,Loreal
+CUST2008,Kavya,Female,Ahmedabad,Gujarat,1,282,27,205.86,Beauty,Face Cream,Lakme
+CUST2009,Manoj,Male,Kolkata,West Bengal,3,291,11,776.97,Footwear,Loafers,Nike
+CUST2010,Manoj,Male,Bengaluru,Karnataka,8,164,11,1167.68,Footwear,Sandals,Adidas
+CUST2011,Radhika,Female,Mumbai,Maharashtra,15,948,6,13366.8,Electronics,Smartwatch,Boat
+CUST2012,Radhika,Female,Chennai,Tamil Nadu,5,573,25,2148.75,Electronics,Smartwatch,Realme
+CUST2013,Ravi,Male,Mumbai,Maharashtra,3,882,12,2328.48,Beauty,Shampoo,Lakme
+CUST2014,Vijay,Male,Jaipur,Rajasthan,19,199,26,2797.94,Footwear,Sneakers,Puma
+CUST2015,Ravi,Male,Mumbai,Maharashtra,1,643,7,597.99,Footwear,Sandals,Nike
+CUST2016,Neha,Female,Lucknow,Uttar Pradesh,15,963,28,10400.4,Electronics,Earbuds,Boat
+CUST2017,Naveen,Male,Lucknow,Uttar Pradesh,8,227,28,1307.52,Clothing,Jeans,Levis
+CUST2018,Divya,Female,Mumbai,Maharashtra,2,551,21,870.58,Electronics,Power Bank,Realme
+CUST2019,Rahul,Male,Bengaluru,Karnataka,3,468,27,1024.92,Clothing,Kurti,Zara
+CUST2020,Neha,Female,Pune,Maharashtra,14,950,25,9975,Clothing,Hoodie,Snitch
+CUST2021,Anita,Female,Bengaluru,Karnataka,14,142,29,1411.48,Footwear,Sandals,Adidas
+CUST2022,Kavya,Female,Ahmedabad,Gujarat,11,983,8,9947.96,Electronics,Earbuds,OnePlus
+CUST2023,Divya,Female,Hyderabad,Telangana,16,518,6,7790.72,Beauty,Face Cream,Lakme
+CUST2024,Lakshmi,Female,Pune,Maharashtra,4,587,25,1761,Clothing,Kurti,Levis
+CUST2025,Ravi,Male,Pune,Maharashtra,5,177,20,708,Beauty,Hair Oil,Loreal
+CUST2026,Sanjay,Male,Lucknow,Uttar Pradesh,14,925,23,9971.5,Clothing,Jeans,Zara
+CUST2027,Pooja,Female,Kolkata,West Bengal,16,900,14,12384,Accessories,Watch,Boat
+CUST2028,Ravi,Male,Chennai,Tamil Nadu,18,369,1,6575.58,Accessories,Belt,RayBan
+CUST2029,Amit,Male,Hyderabad,Telangana,7,773,22,4220.58,Electronics,Earbuds,Realme
+CUST2030,Manoj,Male,Pune,Maharashtra,10,800,19,6480,Electronics,Earbuds,Realme
+CUST2031,Ravi,Male,Lucknow,Uttar Pradesh,7,858,24,4564.56,Footwear,Sandals,Bata
+CUST2032,Sangeeta,Female,Ahmedabad,Gujarat,1,999,11,889.11,Electronics,Earbuds,OnePlus
+CUST2033,Divya,Female,Bengaluru,Karnataka,19,827,0,15713,Accessories,Belt,Titan
+CUST2034,Lakshmi,Female,Pune,Maharashtra,16,414,22,5166.72,Footwear,Sneakers,Bata
+CUST2035,Rahul,Male,Chennai,Tamil Nadu,19,950,21,14259.5,Clothing,Jeans,H&M
+CUST2036,Pooja,Female,Hyderabad,Telangana,4,988,7,3675.36,Clothing,Kurti,Levis
+CUST2037,Lakshmi,Female,Lucknow,Uttar Pradesh,18,267,4,4613.76,Accessories,Cap,Titan
+CUST2038,Deepak,Male,Bengaluru,Karnataka,2,438,14,753.36,Footwear,Running Shoes,Nike
+CUST2039,Sangeeta,Female,Delhi,Delhi,1,292,0,292,Beauty,Hair Oil,Nivea
+CUST2040,Neha,Female,Hyderabad,Telangana,15,552,0,8280,Clothing,T-Shirt,Zara
+CUST2041,Deepak,Male,Mumbai,Maharashtra,5,382,24,1451.6,Accessories,Cap,RayBan
+CUST2042,Sangeeta,Female,Delhi,Delhi,11,435,9,4354.35,Beauty,Perfume,Lakme
+CUST2043,Rahul,Male,Ahmedabad,Gujarat,10,489,21,3863.1,Electronics,Smartwatch,Boat
+CUST2044,Priya,Female,Mumbai,Maharashtra,2,624,9,1135.68,Beauty,Perfume,Lakme
+CUST2045,Lakshmi,Female,Hyderabad,Telangana,3,339,20,813.6,Electronics,Earbuds,Noise
+CUST2046,Manoj,Male,Jaipur,Rajasthan,12,931,14,9607.92,Footwear,Loafers,Adidas
+CUST2047,Sangeeta,Female,Kolkata,West Bengal,5,582,16,2444.4,Accessories,Cap,RayBan
+CUST2048,Amit,Male,Lucknow,Uttar Pradesh,5,758,21,2994.1,Clothing,T-Shirt,Zara
+CUST2049,Sangeeta,Female,Kolkata,West Bengal,6,815,5,4645.5,Clothing,Hoodie,Snitch
+CUST2050,Rahul,Male,Bengaluru,Karnataka,9,691,2,6094.62,Clothing,Hoodie,Zara
+CUST2051,Amit,Male,Bengaluru,Karnataka,2,990,12,1742.4,Accessories,Belt,Boat
+CUST2052,Kavya,Female,Kolkata,West Bengal,12,654,15,6670.8,Beauty,Face Cream,Mamaearth
+CUST2053,Amit,Male,Hyderabad,Telangana,3,557,7,1554.03,Electronics,Power Bank,Noise
+CUST2054,Lakshmi,Female,Delhi,Delhi,12,188,29,1601.76,Clothing,Jeans,Levis
+CUST2055,Divya,Female,Mumbai,Maharashtra,17,759,14,11096.58,Beauty,Hair Oil,Mamaearth
+CUST2056,Rahul,Male,Bengaluru,Karnataka,10,194,16,1629.6,Beauty,Hair Oil,Loreal
+CUST2057,Arun,Male,Pune,Maharashtra,14,551,16,6479.76,Beauty,Face Cream,Nivea
+CUST2058,Ravi,Male,Pune,Maharashtra,17,527,21,7077.61,Beauty,Face Cream,Nivea
+CUST2059,Karthik,Male,Jaipur,Rajasthan,18,250,25,3375,Beauty,Perfume,Nivea
+CUST2060,Kavya,Female,Mumbai,Maharashtra,19,613,12,10249.36,Clothing,Shirt,Levis
+CUST2061,Manoj,Male,Lucknow,Uttar Pradesh,17,475,16,6783,Beauty,Perfume,Loreal
+CUST2062,Kavya,Female,Bengaluru,Karnataka,14,121,5,1609.3,Electronics,Smartwatch,Noise
+CUST2063,Rahul,Male,Delhi,Delhi,9,982,16,7423.92,Accessories,Watch,Fossil
+CUST2064,Vijay,Male,Jaipur,Rajasthan,8,412,15,2801.6,Electronics,Power Bank,OnePlus
+CUST2065,Kavya,Female,Mumbai,Maharashtra,2,939,13,1633.86,Beauty,Hair Oil,Nivea
+CUST2066,Sangeeta,Female,Delhi,Delhi,13,618,12,7069.92,Footwear,Sneakers,Puma
+CUST2067,Priya,Female,Bengaluru,Karnataka,7,305,5,2028.25,Accessories,Cap,RayBan
+CUST2068,Lakshmi,Female,Bengaluru,Karnataka,9,474,2,4180.68,Clothing,Jeans,H&M
+CUST2069,Karthik,Male,Ahmedabad,Gujarat,11,550,13,5263.5,Beauty,Shampoo,Mamaearth
+CUST2070,Deepak,Male,Mumbai,Maharashtra,14,725,13,8830.5,Footwear,Loafers,Puma
+CUST2071,Anita,Female,Lucknow,Uttar Pradesh,4,883,14,3037.52,Electronics,Earbuds,Noise
+CUST2072,Manoj,Male,Chennai,Tamil Nadu,13,694,7,8390.46,Clothing,Hoodie,Snitch
+CUST2073,Pooja,Female,Bengaluru,Karnataka,2,278,28,400.32,Electronics,Smartwatch,Realme
+CUST2074,Kavya,Female,Bengaluru,Karnataka,5,309,14,1328.7,Accessories,Sunglasses,RayBan
+CUST2075,Deepak,Male,Kolkata,West Bengal,11,599,21,5205.31,Footwear,Running Shoes,Nike
+CUST2076,Priya,Female,Delhi,Delhi,6,563,28,2432.16,Accessories,Watch,Titan
+CUST2077,Amit,Male,Delhi,Delhi,18,939,26,12507.48,Electronics,Smartwatch,OnePlus
+CUST2078,Ravi,Male,Pune,Maharashtra,10,223,12,1962.4,Clothing,Jeans,Zara
+CUST2079,Divya,Female,Lucknow,Uttar Pradesh,4,212,16,712.32,Footwear,Loafers,Bata
+CUST2080,Sanjay,Male,Mumbai,Maharashtra,9,111,20,799.2,Accessories,Cap,Fossil
+CUST2081,Manoj,Male,Hyderabad,Telangana,6,225,23,1039.5,Footwear,Sneakers,Puma
+CUST2082,Meera,Female,Hyderabad,Telangana,2,664,2,1301.44,Electronics,Smartwatch,Boat
+CUST2083,Vijay,Male,Bengaluru,Karnataka,17,430,27,5336.3,Electronics,Power Bank,OnePlus
+CUST2084,Anita,Female,Chennai,Tamil Nadu,5,382,5,1814.5,Accessories,Belt,RayBan
+CUST2085,Rahul,Male,Lucknow,Uttar Pradesh,6,239,4,1376.64,Beauty,Shampoo,Loreal
+CUST2086,Divya,Female,Lucknow,Uttar Pradesh,12,500,21,4740,Accessories,Belt,Boat
+CUST2087,Arun,Male,Lucknow,Uttar Pradesh,10,196,25,1470,Accessories,Belt,Boat
+CUST2088,Ravi,Male,Ahmedabad,Gujarat,6,616,16,3104.64,Beauty,Face Cream,Loreal
+CUST2089,Manoj,Male,Chennai,Tamil Nadu,8,668,22,4168.32,Beauty,Shampoo,Lakme
+CUST2090,Ravi,Male,Mumbai,Maharashtra,2,945,24,1436.4,Clothing,Shirt,Levis
+CUST2091,Neha,Female,Ahmedabad,Gujarat,12,168,1,1995.84,Accessories,Sunglasses,RayBan
+CUST2092,Karthik,Male,Mumbai,Maharashtra,13,217,25,2115.75,Electronics,Earbuds,Realme
+CUST2093,Sanjay,Male,Mumbai,Maharashtra,7,987,14,5941.74,Electronics,Smartwatch,Realme
+CUST2094,Sanjay,Male,Jaipur,Rajasthan,10,158,4,1516.8,Accessories,Belt,RayBan
+CUST2095,Sangeeta,Female,Delhi,Delhi,13,132,25,1287,Accessories,Belt,Titan
+CUST2096,Ravi,Male,Delhi,Delhi,17,417,19,5742.09,Clothing,Shirt,H&M
+CUST2097,Divya,Female,Ahmedabad,Gujarat,14,149,5,1981.7,Clothing,Shirt,Snitch
+CUST2098,Ravi,Male,Lucknow,Uttar Pradesh,2,979,5,1860.1,Clothing,Hoodie,Zara
+CUST2099,Ravi,Male,Ahmedabad,Gujarat,11,588,26,4786.32,Accessories,Belt,Boat
+CUST2100,Radhika,Female,Ahmedabad,Gujarat,1,118,17,97.94,Accessories,Cap,Titan
+CUST2101,Ravi,Male,Pune,Maharashtra,19,825,17,13010.25,Footwear,Running Shoes,Nike
+CUST2102,Arun,Male,Hyderabad,Telangana,4,296,3,1148.48,Clothing,Kurti,H&M
+CUST2103,Radhika,Female,Lucknow,Uttar Pradesh,19,990,16,15800.4,Electronics,Earbuds,Boat
+CUST2104,Deepak,Male,Jaipur,Rajasthan,11,549,24,4589.64,Electronics,Smartwatch,OnePlus
+CUST2105,Neha,Female,Lucknow,Uttar Pradesh,8,658,13,4579.68,Footwear,Sneakers,Nike
+CUST2106,Arun,Male,Pune,Maharashtra,11,778,13,7445.46,Beauty,Hair Oil,Loreal
+CUST2107,Karthik,Male,Delhi,Delhi,4,551,12,1939.52,Clothing,Shirt,Snitch
+CUST2108,Lakshmi,Female,Delhi,Delhi,17,388,6,6200.24,Beauty,Perfume,Nivea
+CUST2109,Meera,Female,Hyderabad,Telangana,7,240,11,1495.2,Footwear,Loafers,Nike
+CUST2110,Rahul,Male,Hyderabad,Telangana,8,183,22,1141.92,Beauty,Face Cream,Loreal
+CUST2111,Amit,Male,Pune,Maharashtra,3,793,14,2045.94,Accessories,Watch,Boat
+CUST2112,Pooja,Female,Pune,Maharashtra,2,490,18,803.6,Electronics,Power Bank,Boat
+CUST2113,Kavya,Female,Hyderabad,Telangana,15,690,10,9315,Beauty,Face Cream,Mamaearth
+CUST2114,Divya,Female,Hyderabad,Telangana,5,314,14,1350.2,Accessories,Watch,RayBan
+CUST2115,Meera,Female,Delhi,Delhi,1,625,11,556.25,Accessories,Watch,Boat
+CUST2116,Rahul,Male,Lucknow,Uttar Pradesh,4,314,2,1230.88,Beauty,Perfume,Nivea
+CUST2117,Radhika,Female,Pune,Maharashtra,15,502,16,6325.2,Beauty,Shampoo,Loreal
+CUST2118,Divya,Female,Bengaluru,Karnataka,19,227,2,4226.74,Clothing,Shirt,Snitch
+CUST2119,Ravi,Male,Chennai,Tamil Nadu,3,921,18,2265.66,Electronics,Bluetooth Speaker,Boat
+CUST2120,Arun,Male,Ahmedabad,Gujarat,11,576,19,5132.16,Accessories,Watch,Titan
+CUST2121,Rahul,Male,Kolkata,West Bengal,17,859,3,14164.91,Beauty,Hair Oil,Nivea
+CUST2122,Radhika,Female,Hyderabad,Telangana,13,503,2,6408.22,Electronics,Smartwatch,Noise
+CUST2123,Anita,Female,Lucknow,Uttar Pradesh,11,128,25,1056,Footwear,Running Shoes,Nike
+CUST2124,Sanjay,Male,Hyderabad,Telangana,2,891,15,1514.7,Beauty,Perfume,Mamaearth
+CUST2125,Amit,Male,Lucknow,Uttar Pradesh,9,437,11,3500.37,Accessories,Belt,RayBan
+CUST2126,Priya,Female,Kolkata,West Bengal,2,930,7,1729.8,Clothing,Kurti,H&M
+CUST2127,Anita,Female,Bengaluru,Karnataka,9,813,23,5634.09,Electronics,Power Bank,OnePlus
+CUST2128,Vijay,Male,Mumbai,Maharashtra,9,460,28,2980.8,Accessories,Cap,Titan
+CUST2129,Arun,Male,Ahmedabad,Gujarat,8,668,28,3847.68,Accessories,Cap,RayBan
+CUST2130,Karthik,Male,Mumbai,Maharashtra,17,491,16,7011.48,Electronics,Power Bank,Boat
+CUST2131,Priya,Female,Jaipur,Rajasthan,1,317,6,297.98,Electronics,Earbuds,Realme
+CUST2132,Vijay,Male,Kolkata,West Bengal,11,673,10,6662.7,Accessories,Belt,RayBan
+CUST2133,Rahul,Male,Jaipur,Rajasthan,8,768,17,5099.52,Beauty,Hair Oil,Nivea
+CUST2134,Pooja,Female,Bengaluru,Karnataka,10,301,0,3010,Footwear,Sneakers,Adidas
+CUST2135,Amit,Male,Delhi,Delhi,7,116,2,795.76,Accessories,Cap,Titan
+CUST2136,Priya,Female,Kolkata,West Bengal,3,421,3,1225.11,Beauty,Perfume,Mamaearth
+CUST2137,Lakshmi,Female,Delhi,Delhi,3,617,12,1628.88,Beauty,Perfume,Lakme
+CUST2138,Kavya,Female,Delhi,Delhi,18,669,5,11439.9,Beauty,Hair Oil,Mamaearth
+CUST2139,Meera,Female,Bengaluru,Karnataka,5,424,25,1590,Clothing,Jeans,H&M
+CUST2140,Anita,Female,Bengaluru,Karnataka,12,511,13,5334.84,Electronics,Power Bank,OnePlus
+CUST2141,Arun,Male,Delhi,Delhi,12,417,4,4803.84,Electronics,Bluetooth Speaker,OnePlus
+CUST2142,Ravi,Male,Delhi,Delhi,19,780,15,12597,Beauty,Perfume,Lakme
+CUST2143,Deepak,Male,Jaipur,Rajasthan,6,181,14,933.96,Electronics,Smartwatch,Realme
+CUST2144,Neha,Female,Pune,Maharashtra,2,573,14,985.56,Beauty,Face Cream,Nivea
+CUST2145,Kavya,Female,Delhi,Delhi,12,567,29,4830.84,Electronics,Smartwatch,OnePlus
+CUST2146,Priya,Female,Delhi,Delhi,19,524,3,9657.32,Clothing,Hoodie,Levis
+CUST2147,Anita,Female,Jaipur,Rajasthan,5,830,7,3859.5,Electronics,Smartwatch,Realme
+CUST2148,Sanjay,Male,Jaipur,Rajasthan,12,788,26,6997.44,Clothing,Hoodie,Zara
+CUST2149,Meera,Female,Kolkata,West Bengal,17,303,15,4378.35,Electronics,Smartwatch,Noise
+CUST2150,Sangeeta,Female,Chennai,Tamil Nadu,17,682,27,8463.62,Footwear,Running Shoes,Puma
+CUST2151,Manoj,Male,Pune,Maharashtra,10,486,15,4131,Electronics,Earbuds,Boat
+CUST2152,Vijay,Male,Hyderabad,Telangana,17,877,29,10585.39,Electronics,Smartwatch,Boat
+CUST2153,Sanjay,Male,Lucknow,Uttar Pradesh,15,197,3,2866.35,Beauty,Face Cream,Loreal
+CUST2154,Ravi,Male,Bengaluru,Karnataka,12,444,12,4688.64,Clothing,Jeans,H&M
+CUST2155,Amit,Male,Bengaluru,Karnataka,16,902,25,10824,Electronics,Bluetooth Speaker,Realme
+CUST2156,Amit,Male,Jaipur,Rajasthan,19,307,27,4258.09,Accessories,Belt,Fossil
+CUST2157,Neha,Female,Hyderabad,Telangana,8,613,12,4315.52,Clothing,Jeans,Zara
+CUST2158,Naveen,Male,Bengaluru,Karnataka,17,735,1,12370.05,Clothing,Shirt,Zara
+CUST2159,Vijay,Male,Pune,Maharashtra,5,891,2,4365.9,Accessories,Belt,Titan
+CUST2160,Naveen,Male,Delhi,Delhi,16,685,21,8658.4,Accessories,Watch,Boat
+CUST2161,Sangeeta,Female,Hyderabad,Telangana,6,265,7,1478.7,Electronics,Bluetooth Speaker,Noise
+CUST2162,Lakshmi,Female,Kolkata,West Bengal,8,121,23,745.36,Footwear,Sneakers,Adidas
+CUST2163,Rahul,Male,Kolkata,West Bengal,18,253,14,3916.44,Accessories,Belt,Boat
+CUST2164,Sanjay,Male,Bengaluru,Karnataka,12,538,10,5810.4,Electronics,Earbuds,Realme
+CUST2165,Lakshmi,Female,Mumbai,Maharashtra,15,394,8,5437.2,Clothing,Hoodie,Levis
+CUST2166,Neha,Female,Hyderabad,Telangana,9,318,6,2690.28,Footwear,Running Shoes,Nike
+CUST2167,Naveen,Male,Ahmedabad,Gujarat,13,768,12,8785.92,Electronics,Bluetooth Speaker,Realme
+CUST2168,Sanjay,Male,Delhi,Delhi,15,594,1,8820.9,Clothing,Hoodie,Snitch
+CUST2169,Karthik,Male,Lucknow,Uttar Pradesh,10,329,7,3059.7,Footwear,Sneakers,Puma
+CUST2170,Arun,Male,Kolkata,West Bengal,16,119,6,1789.76,Beauty,Hair Oil,Loreal
+CUST2171,Anita,Female,Kolkata,West Bengal,7,652,23,3514.28,Electronics,Power Bank,Realme
+CUST2172,Karthik,Male,Jaipur,Rajasthan,17,247,11,3737.11,Footwear,Sandals,Adidas
+CUST2173,Manoj,Male,Lucknow,Uttar Pradesh,7,207,18,1188.18,Beauty,Shampoo,Mamaearth
+CUST2174,Divya,Female,Hyderabad,Telangana,14,502,6,6606.32,Footwear,Sneakers,Adidas
+CUST2175,Vijay,Male,Mumbai,Maharashtra,15,695,9,9486.75,Accessories,Belt,Boat
+CUST2176,Kavya,Female,Jaipur,Rajasthan,7,582,28,2933.28,Clothing,T-Shirt,Zara
+CUST2177,Deepak,Male,Pune,Maharashtra,9,466,24,3187.44,Clothing,Shirt,Snitch
+CUST2178,Radhika,Female,Bengaluru,Karnataka,19,933,15,15067.95,Accessories,Watch,RayBan
+CUST2179,Amit,Male,Jaipur,Rajasthan,16,513,2,8043.84,Electronics,Bluetooth Speaker,Boat
+CUST2180,Manoj,Male,Kolkata,West Bengal,8,408,29,2317.44,Beauty,Perfume,Nivea
+CUST2181,Neha,Female,Pune,Maharashtra,18,901,9,14758.38,Accessories,Belt,Fossil
+CUST2182,Amit,Male,Lucknow,Uttar Pradesh,18,934,5,15971.4,Accessories,Cap,Titan
+CUST2183,Ravi,Male,Hyderabad,Telangana,7,233,17,1353.73,Beauty,Face Cream,Lakme
+CUST2184,Kavya,Female,Jaipur,Rajasthan,3,818,17,2036.82,Electronics,Power Bank,Noise
+CUST2185,Deepak,Male,Kolkata,West Bengal,18,382,4,6600.96,Electronics,Power Bank,Noise
+CUST2186,Ravi,Male,Ahmedabad,Gujarat,10,877,20,7016,Electronics,Smartwatch,OnePlus
+CUST2187,Neha,Female,Jaipur,Rajasthan,7,172,28,866.88,Footwear,Running Shoes,Bata
+CUST2188,Arun,Male,Delhi,Delhi,17,580,6,9268.4,Clothing,Kurti,Levis
+CUST2189,Vijay,Male,Mumbai,Maharashtra,14,451,27,4609.22,Electronics,Bluetooth Speaker,Noise
+CUST2190,Arun,Male,Hyderabad,Telangana,3,659,1,1957.23,Beauty,Shampoo,Loreal
+CUST2191,Sanjay,Male,Hyderabad,Telangana,12,425,10,4590,Clothing,Hoodie,H&M
+CUST2192,Vijay,Male,Lucknow,Uttar Pradesh,13,844,29,7790.12,Electronics,Smartwatch,OnePlus
+CUST2193,Radhika,Female,Kolkata,West Bengal,2,542,12,953.92,Beauty,Perfume,Nivea
+CUST2194,Sangeeta,Female,Chennai,Tamil Nadu,3,199,22,465.66,Footwear,Loafers,Nike
+CUST2195,Naveen,Male,Delhi,Delhi,5,158,4,758.4,Clothing,Jeans,Levis
+CUST2196,Manoj,Male,Delhi,Delhi,11,607,29,4740.67,Footwear,Running Shoes,Adidas
+CUST2197,Arun,Male,Mumbai,Maharashtra,8,357,5,2713.2,Footwear,Sandals,Bata
+CUST2198,Arun,Male,Hyderabad,Telangana,12,512,23,4730.88,Clothing,Kurti,H&M
+CUST2199,Anita,Female,Bengaluru,Karnataka,7,551,25,2892.75,Clothing,Shirt,H&M
+CUST2200,Neha,Female,Pune,Maharashtra,15,164,28,1771.2,Beauty,Face Cream,Mamaearth
+CUST2201,Deepak,Male,Lucknow,Uttar Pradesh,17,694,13,10264.26,Footwear,Sandals,Nike
+CUST2202,Kavya,Female,Delhi,Delhi,4,253,11,900.68,Beauty,Face Cream,Loreal
+CUST2203,Lakshmi,Female,Pune,Maharashtra,13,365,3,4602.65,Beauty,Hair Oil,Nivea
+CUST2204,Manoj,Male,Bengaluru,Karnataka,18,920,28,11923.2,Footwear,Sneakers,Adidas
+CUST2205,Priya,Female,Mumbai,Maharashtra,1,178,22,138.84,Footwear,Sandals,Bata
+CUST2206,Amit,Male,Chennai,Tamil Nadu,16,414,5,6292.8,Beauty,Face Cream,Nivea
+CUST2207,Pooja,Female,Jaipur,Rajasthan,13,761,9,9002.63,Clothing,Kurti,Snitch
+CUST2208,Kavya,Female,Delhi,Delhi,10,659,17,5469.7,Clothing,Shirt,H&M
+CUST2209,Lakshmi,Female,Delhi,Delhi,12,990,14,10216.8,Accessories,Watch,Titan
+CUST2210,Pooja,Female,Kolkata,West Bengal,2,347,7,645.42,Footwear,Loafers,Adidas
+CUST2211,Divya,Female,Delhi,Delhi,null,889,25,null,Beauty,Shampoo,Lakme
+CUST2212,Ravi,Male,Bengaluru,Karnataka,10,967,8,8896.4,Accessories,Watch,Titan
+CUST2213,Anita,Female,Bengaluru,Karnataka,2,709,4,1361.28,Clothing,Kurti,H&M
+CUST2214,Neha,Female,Mumbai,Maharashtra,13,513,9,6068.79,Clothing,T-Shirt,H&M
+CUST2215,Deepak,Male,Bengaluru,Karnataka,13,124,19,1305.72,Clothing,T-Shirt,Snitch
+CUST2216,Neha,Female,Bengaluru,Karnataka,18,383,5,6549.3,Clothing,Hoodie,Snitch
+CUST2217,Naveen,Male,Delhi,Delhi,3,548,15,1397.4,Accessories,Watch,Fossil
+CUST2218,Pooja,Female,Pune,Maharashtra,7,980,23,5282.2,Footwear,Running Shoes,Puma
+CUST2219,Divya,Female,Lucknow,Uttar Pradesh,14,400,26,4144,Accessories,Cap,Fossil
+CUST2220,Neha,Female,Bengaluru,Karnataka,17,167,2,2782.22,Clothing,Jeans,Snitch
+CUST2221,Pooja,Female,Mumbai,Maharashtra,12,106,9,1157.52,Beauty,Perfume,Loreal
+CUST2222,Divya,Female,Ahmedabad,Gujarat,16,916,10,13190.4,Electronics,Bluetooth Speaker,Boat
+CUST2223,Arun,Male,Lucknow,Uttar Pradesh,12,236,10,2548.8,Footwear,Loafers,Nike
+CUST2224,Sangeeta,Female,Lucknow,Uttar Pradesh,15,263,16,3313.8,Beauty,Perfume,Nivea
+CUST2225,Anita,Female,Delhi,Delhi,10,182,3,1765.4,Beauty,Hair Oil,Lakme
+CUST2226,Divya,Female,Jaipur,Rajasthan,7,996,3,6762.84,Footwear,Sneakers,Nike
+CUST2227,Karthik,Male,Bengaluru,Karnataka,5,749,16,3145.8,Clothing,T-Shirt,Levis
+CUST2228,Ravi,Male,Kolkata,West Bengal,1,519,8,477.48,Accessories,Watch,Boat
+CUST2229,Anita,Female,Ahmedabad,Gujarat,17,172,18,2397.68,Footwear,Loafers,Nike
+CUST2230,Lakshmi,Female,Hyderabad,Telangana,3,336,4,967.68,Electronics,Earbuds,Boat
+CUST2231,Sanjay,Male,Jaipur,Rajasthan,13,145,21,1489.15,Clothing,T-Shirt,H&M
+CUST2232,Radhika,Female,Mumbai,Maharashtra,14,717,23,7729.26,Beauty,Hair Oil,Lakme
+CUST2233,Deepak,Male,Ahmedabad,Gujarat,18,899,5,15372.9,Accessories,Sunglasses,Titan
+CUST2234,Karthik,Male,Kolkata,West Bengal,4,361,2,1415.12,Clothing,Hoodie,Zara
+CUST2235,Vijay,Male,Pune,Maharashtra,18,275,21,3910.5,Footwear,Running Shoes,Adidas
+CUST2236,Neha,Female,Kolkata,West Bengal,5,265,0,1325,Clothing,T-Shirt,Snitch
+CUST2237,Radhika,Female,Chennai,Tamil Nadu,16,756,19,9797.76,Accessories,Cap,Titan
+CUST2238,Anita,Female,Hyderabad,Telangana,1,941,21,743.39,Beauty,Perfume,Mamaearth
+CUST2239,Vijay,Male,Kolkata,West Bengal,14,469,15,5581.1,Beauty,Shampoo,Mamaearth
+CUST2240,Arun,Male,Chennai,Tamil Nadu,15,894,22,10459.8,Clothing,T-Shirt,H&M
+CUST2241,Meera,Female,Mumbai,Maharashtra,9,153,10,1239.3,Beauty,Face Cream,Loreal
+CUST2242,Divya,Female,Bengaluru,Karnataka,15,789,12,10414.8,Clothing,Shirt,H&M
+CUST2243,Ravi,Male,Bengaluru,Karnataka,17,518,26,6516.44,Electronics,Power Bank,OnePlus
+CUST2244,Radhika,Female,Delhi,Delhi,4,855,9,3112.2,Accessories,Belt,RayBan
+CUST2245,Vijay,Male,Mumbai,Maharashtra,12,606,2,7126.56,Clothing,Jeans,Levis
+CUST2246,Priya,Female,Delhi,Delhi,5,440,8,2024,Clothing,Shirt,Zara
+CUST2247,Priya,Female,Pune,Maharashtra,5,226,27,824.9,Clothing,Shirt,Levis
+CUST2248,Meera,Female,Bengaluru,Karnataka,11,508,11,4973.32,Accessories,Watch,Fossil
+CUST2249,Rahul,Male,Lucknow,Uttar Pradesh,6,466,22,2180.88,Electronics,Earbuds,Noise
+CUST2250,Anita,Female,Chennai,Tamil Nadu,7,370,13,2253.3,Clothing,Shirt,Zara
+CUST2251,Lakshmi,Female,Hyderabad,Telangana,14,743,0,10402,Accessories,Watch,Fossil
+CUST2252,Priya,Female,Jaipur,Rajasthan,11,704,17,6427.52,Footwear,Sandals,Bata
+CUST2253,Rahul,Male,Jaipur,Rajasthan,13,478,16,5219.76,Accessories,Belt,Fossil
+CUST2254,Lakshmi,Female,Lucknow,Uttar Pradesh,2,172,26,254.56,Clothing,Hoodie,Snitch
+CUST2255,Kavya,Female,Ahmedabad,Gujarat,7,347,8,2234.68,Footwear,Sneakers,Adidas
+CUST2256,Manoj,Male,Jaipur,Rajasthan,4,959,8,3529.12,Clothing,Shirt,Zara
+CUST2257,Karthik,Male,Bengaluru,Karnataka,8,884,22,5516.16,Beauty,Face Cream,Mamaearth
+CUST2258,Amit,Male,Bengaluru,Karnataka,19,142,9,2455.18,Beauty,Hair Oil,Loreal
+CUST2259,Lakshmi,Female,Ahmedabad,Gujarat,13,476,18,5074.16,Clothing,T-Shirt,Levis
+CUST2260,Manoj,Male,Pune,Maharashtra,14,140,28,1411.2,Accessories,Watch,RayBan
+CUST2261,Deepak,Male,Chennai,Tamil Nadu,10,269,14,2313.4,Accessories,Cap,Fossil
+CUST2262,Naveen,Male,Bengaluru,Karnataka,11,311,4,3284.16,Accessories,Watch,RayBan
+CUST2263,Naveen,Male,Bengaluru,Karnataka,2,592,14,1018.24,Beauty,Perfume,Loreal
+CUST2264,Pooja,Female,Kolkata,West Bengal,9,779,19,5678.91,Accessories,Cap,Boat
+CUST2265,Anita,Female,Bengaluru,Karnataka,17,138,22,1829.88,Electronics,Power Bank,Noise
+CUST2266,Sanjay,Male,Chennai,Tamil Nadu,3,468,29,996.84,Footwear,Running Shoes,Bata
+CUST2267,Sangeeta,Female,Pune,Maharashtra,6,856,24,3903.36,Clothing,Jeans,Levis
+CUST2268,Lakshmi,Female,Ahmedabad,Gujarat,5,250,27,912.5,Electronics,Smartwatch,OnePlus
+CUST2269,Kavya,Female,Chennai,Tamil Nadu,5,210,1,1039.5,Accessories,Sunglasses,Fossil
+CUST2270,Sanjay,Male,Pune,Maharashtra,15,579,12,7642.8,Clothing,Hoodie,Zara
+CUST2271,Pooja,Female,Delhi,Delhi,17,535,23,7003.15,Clothing,Hoodie,H&M
+CUST2272,Priya,Female,Pune,Maharashtra,9,146,15,1116.9,Beauty,Shampoo,Nivea
+CUST2273,Karthik,Male,Jaipur,Rajasthan,3,674,14,1738.92,Clothing,Jeans,Snitch
+CUST2274,Vijay,Male,Pune,Maharashtra,17,836,24,10801.12,Accessories,Sunglasses,Boat
+CUST2275,Naveen,Male,Jaipur,Rajasthan,10,465,9,4231.5,Beauty,Perfume,Nivea
+CUST2276,Lakshmi,Female,Lucknow,Uttar Pradesh,3,168,13,438.48,Clothing,Kurti,Levis
+CUST2277,Naveen,Male,Kolkata,West Bengal,18,398,9,6519.24,Beauty,Face Cream,Mamaearth
+CUST2278,Radhika,Female,Bengaluru,Karnataka,18,901,24,12325.68,Accessories,Sunglasses,Boat
+CUST2279,Kavya,Female,Pune,Maharashtra,17,395,13,5842.05,Clothing,T-Shirt,Zara
+CUST2280,Ravi,Male,Kolkata,West Bengal,3,302,25,679.5,Beauty,Hair Oil,Loreal
+CUST2281,Meera,Female,Kolkata,West Bengal,3,160,29,340.8,Accessories,Belt,RayBan
+CUST2282,Arun,Male,Lucknow,Uttar Pradesh,6,929,22,4347.72,Footwear,Running Shoes,Bata
+CUST2283,Ravi,Male,Pune,Maharashtra,13,413,8,4939.48,Accessories,Belt,RayBan
+CUST2284,Kavya,Female,Mumbai,Maharashtra,15,260,24,2964,Footwear,Loafers,Nike
+CUST2285,Anita,Female,Hyderabad,Telangana,9,430,13,3366.9,Electronics,Earbuds,Realme
+CUST2286,Rahul,Male,Pune,Maharashtra,4,627,2,2457.84,Accessories,Cap,RayBan
+CUST2287,Priya,Female,Delhi,Delhi,14,437,19,4955.58,Accessories,Belt,RayBan
+CUST2288,Meera,Female,Jaipur,Rajasthan,5,705,15,2996.25,Beauty,Face Cream,Loreal
+CUST2289,Sanjay,Male,Hyderabad,Telangana,2,403,1,797.94,Clothing,Jeans,H&M
+CUST2290,Naveen,Male,Delhi,Delhi,11,602,9,6026.02,Footwear,Sandals,Bata
+CUST2291,Lakshmi,Female,Bengaluru,Karnataka,9,749,2,6606.18,Accessories,Cap,RayBan
+CUST2292,Priya,Female,Mumbai,Maharashtra,3,437,10,1179.9,Footwear,Sandals,Puma
+CUST2293,Vijay,Male,Kolkata,West Bengal,9,649,10,5256.9,Footwear,Loafers,Bata
+CUST2294,Arun,Male,Lucknow,Uttar Pradesh,3,738,20,1771.2,Electronics,Bluetooth Speaker,Boat
+CUST2295,Ravi,Male,Ahmedabad,Gujarat,2,374,20,598.4,Beauty,Shampoo,Loreal
+CUST2296,Karthik,Male,Chennai,Tamil Nadu,12,263,21,2493.24,Footwear,Loafers,Adidas
+CUST2297,Ravi,Male,Ahmedabad,Gujarat,10,542,12,4769.6,Footwear,Running Shoes,Nike
+CUST2298,Manoj,Male,Delhi,Delhi,9,418,6,3536.28,Clothing,Shirt,Snitch
+CUST2299,Lakshmi,Female,Chennai,Tamil Nadu,15,688,22,8049.6,Beauty,Perfume,Nivea
+CUST2300,Radhika,Female,Jaipur,Rajasthan,8,603,16,4052.16,Clothing,Kurti,Snitch
+CUST2301,Karthik,Male,Chennai,Tamil Nadu,5,785,29,2786.75,Beauty,Shampoo,Lakme
+CUST2302,Ravi,Male,Delhi,Delhi,11,486,1,5292.54,Beauty,Face Cream,Lakme
+CUST2303,Rahul,Male,Mumbai,Maharashtra,2,969,11,1724.82,Beauty,Face Cream,Mamaearth
+CUST2304,Amit,Male,Delhi,Delhi,15,932,24,10624.8,Beauty,Face Cream,Mamaearth
+CUST2305,Vijay,Male,Bengaluru,Karnataka,6,987,9,5389.02,Beauty,Hair Oil,Lakme
+CUST2306,Rahul,Male,Lucknow,Uttar Pradesh,8,702,17,4661.28,Electronics,Earbuds,Noise
+CUST2307,Amit,Male,Mumbai,Maharashtra,5,849,21,3353.55,Clothing,Jeans,Levis
+CUST2308,Kavya,Female,Hyderabad,Telangana,16,875,26,10360,Footwear,Sneakers,Bata
+CUST2309,Manoj,Male,Chennai,Tamil Nadu,18,790,10,12798,Footwear,Running Shoes,Adidas
+CUST2310,Neha,Female,Chennai,Tamil Nadu,6,593,15,3024.3,Accessories,Belt,Titan
+CUST2311,Arun,Male,Pune,Maharashtra,5,589,16,2473.8,Footwear,Loafers,Bata
+CUST2312,Deepak,Male,Pune,Maharashtra,16,820,18,10758.4,Electronics,Power Bank,OnePlus
+CUST2313,Meera,Female,Hyderabad,Telangana,13,172,17,1855.88,Clothing,T-Shirt,Levis
+CUST2314,Anita,Female,Hyderabad,Telangana,5,608,2,2979.2,Accessories,Watch,Fossil
+CUST2315,Vijay,Male,Lucknow,Uttar Pradesh,13,489,20,5085.6,Clothing,Shirt,Levis
+CUST2316,Manoj,Male,Chennai,Tamil Nadu,17,718,26,9032.44,Footwear,Running Shoes,Nike
+CUST2317,Arun,Male,Bengaluru,Karnataka,18,956,25,12906,Beauty,Perfume,Loreal
+CUST2318,Sangeeta,Female,Ahmedabad,Gujarat,8,394,15,2679.2,Footwear,Sandals,Adidas
+CUST2319,Lakshmi,Female,Ahmedabad,Gujarat,13,468,5,5779.8,Accessories,Belt,Fossil
+CUST2320,Deepak,Male,Chennai,Tamil Nadu,19,895,24,12923.8,Clothing,Kurti,Zara
+CUST2321,Ravi,Male,Pune,Maharashtra,3,964,11,2573.88,Accessories,Cap,Fossil
+CUST2322,Vijay,Male,Mumbai,Maharashtra,8,793,10,5709.6,Electronics,Power Bank,Noise
+CUST2323,Lakshmi,Female,Jaipur,Rajasthan,2,648,14,1114.56,Clothing,Jeans,Zara
+CUST2324,Amit,Male,Mumbai,Maharashtra,8,748,14,5146.24,Electronics,Bluetooth Speaker,Boat
+CUST2325,Vijay,Male,Kolkata,West Bengal,13,949,15,10486.45,Electronics,Bluetooth Speaker,Noise
+CUST2326,Manoj,Male,Chennai,Tamil Nadu,13,667,9,7890.61,Accessories,Cap,Titan
+CUST2327,Naveen,Male,Lucknow,Uttar Pradesh,1,286,11,254.54,Clothing,T-Shirt,Snitch
+CUST2328,Anita,Female,Lucknow,Uttar Pradesh,6,952,27,4169.76,Footwear,Loafers,Nike
+CUST2329,Neha,Female,Jaipur,Rajasthan,19,869,12,14529.68,Clothing,T-Shirt,H&M
+CUST2330,Ravi,Male,Mumbai,Maharashtra,16,544,3,8442.88,Electronics,Power Bank,Realme
+CUST2331,Priya,Female,Bengaluru,Karnataka,8,669,6,5030.88,Accessories,Cap,Fossil
+CUST2332,Sangeeta,Female,Mumbai,Maharashtra,1,462,21,364.98,Beauty,Face Cream,Nivea
+CUST2333,Naveen,Male,Chennai,Tamil Nadu,16,222,1,3516.48,Beauty,Hair Oil,Mamaearth
+CUST2334,Manoj,Male,Lucknow,Uttar Pradesh,9,287,25,1937.25,Electronics,Smartwatch,OnePlus
+CUST2335,Priya,Female,Jaipur,Rajasthan,13,841,26,8090.42,Footwear,Running Shoes,Adidas
+CUST2336,Neha,Female,Bengaluru,Karnataka,11,779,26,6341.06,Accessories,Sunglasses,Boat
+CUST2337,Kavya,Female,Jaipur,Rajasthan,13,519,26,4992.78,Electronics,Bluetooth Speaker,Realme
+CUST2338,Amit,Male,Ahmedabad,Gujarat,10,725,14,6235,Electronics,Smartwatch,Realme
+CUST2339,Divya,Female,Jaipur,Rajasthan,4,351,7,1305.72,Electronics,Bluetooth Speaker,OnePlus
+CUST2340,Sanjay,Male,Delhi,Delhi,6,718,6,4049.52,Clothing,Kurti,H&M
+CUST2341,Neha,Female,Bengaluru,Karnataka,7,648,14,3900.96,Accessories,Watch,RayBan
+CUST2342,Radhika,Female,Kolkata,West Bengal,5,434,22,1692.6,Beauty,Shampoo,Lakme
+CUST2343,Sanjay,Male,Chennai,Tamil Nadu,11,191,13,1827.87,Clothing,Kurti,H&M
+CUST2344,Vijay,Male,Hyderabad,Telangana,13,629,7,7604.61,Footwear,Loafers,Bata
+CUST2345,Kavya,Female,Chennai,Tamil Nadu,19,965,27,13384.55,Electronics,Power Bank,Noise
+CUST2346,Radhika,Female,Delhi,Delhi,10,162,11,1441.8,Electronics,Bluetooth Speaker,Realme
+CUST2347,Sanjay,Male,Bengaluru,Karnataka,10,761,12,6696.8,Accessories,Cap,RayBan
+CUST2348,Pooja,Female,Lucknow,Uttar Pradesh,11,611,29,4771.91,Electronics,Earbuds,Noise
+CUST2349,Radhika,Female,Bengaluru,Karnataka,7,238,10,1499.4,Clothing,Shirt,Levis
+CUST2350,Priya,Female,Lucknow,Uttar Pradesh,18,797,16,12050.64,Clothing,Hoodie,H&M
+CUST2351,Ravi,Male,Kolkata,West Bengal,4,284,28,817.92,Clothing,Kurti,Zara
+CUST2352,Arun,Male,Bengaluru,Karnataka,2,304,16,510.72,Electronics,Power Bank,Noise
+CUST2353,Anita,Female,Delhi,Delhi,14,871,23,9389.38,Footwear,Running Shoes,Bata
+CUST2354,Vijay,Male,Lucknow,Uttar Pradesh,13,313,3,3946.93,Footwear,Sandals,Bata
+CUST2355,Lakshmi,Female,Ahmedabad,Gujarat,12,355,20,3408,Accessories,Sunglasses,Fossil
+CUST2356,Lakshmi,Female,Hyderabad,Telangana,7,234,7,1523.34,Footwear,Sneakers,Bata
+CUST2357,Deepak,Male,Jaipur,Rajasthan,2,672,4,1290.24,Accessories,Sunglasses,Fossil
+CUST2358,Rahul,Male,Pune,Maharashtra,13,974,25,9496.5,Accessories,Cap,Boat
+CUST2359,Kavya,Female,Mumbai,Maharashtra,14,921,15,10959.9,Electronics,Power Bank,OnePlus
+CUST2360,Kavya,Female,Ahmedabad,Gujarat,17,187,3,3083.63,Clothing,Kurti,H&M
+CUST2361,Sangeeta,Female,Ahmedabad,Gujarat,9,935,27,6142.95,Beauty,Shampoo,Nivea
+CUST2362,Lakshmi,Female,Delhi,Delhi,17,306,21,4109.58,Electronics,Earbuds,Boat
+CUST2363,Anita,Female,Mumbai,Maharashtra,8,228,28,1313.28,Footwear,Loafers,Adidas
+CUST2364,Sangeeta,Female,Mumbai,Maharashtra,2,922,14,1585.84,Clothing,Kurti,Levis
+CUST2365,Divya,Female,Mumbai,Maharashtra,13,102,11,1180.14,Electronics,Bluetooth Speaker,OnePlus
+CUST2366,Ravi,Male,Pune,Maharashtra,3,853,4,2456.64,Footwear,Loafers,Adidas
+CUST2367,Radhika,Female,Jaipur,Rajasthan,16,220,29,2499.2,Beauty,Face Cream,Nivea
+CUST2368,Anita,Female,Lucknow,Uttar Pradesh,6,484,22,2265.12,Beauty,Perfume,Loreal
+CUST2369,Vijay,Male,Pune,Maharashtra,19,713,15,11514.95,Beauty,Perfume,Nivea
+CUST2370,Sangeeta,Female,Delhi,Delhi,7,137,13,834.33,Footwear,Running Shoes,Adidas
+CUST2371,Karthik,Male,Bengaluru,Karnataka,10,440,9,4004,Footwear,Sneakers,Bata
+CUST2372,Naveen,Male,Hyderabad,Telangana,9,744,6,6294.24,Electronics,Earbuds,Noise
+CUST2373,Meera,Female,Lucknow,Uttar Pradesh,2,813,12,1430.88,Footwear,Sneakers,Nike
+CUST2374,Radhika,Female,Bengaluru,Karnataka,15,959,19,11651.85,Accessories,Watch,Boat
+CUST2375,Ravi,Male,Bengaluru,Karnataka,5,120,27,438,Beauty,Perfume,Lakme
+CUST2376,Pooja,Female,Lucknow,Uttar Pradesh,4,341,28,982.08,Footwear,Running Shoes,Adidas
+CUST2377,Vijay,Male,Hyderabad,Telangana,4,554,4,2127.36,Accessories,Cap,Titan
+CUST2378,Meera,Female,Kolkata,West Bengal,18,720,28,9331.2,Electronics,Smartwatch,Realme
+CUST2379,Amit,Male,Delhi,Delhi,4,402,2,1575.84,Electronics,Bluetooth Speaker,Boat
+CUST2380,Deepak,Male,Lucknow,Uttar Pradesh,17,695,14,10160.9,Clothing,Kurti,Snitch
+CUST2381,Pooja,Female,Mumbai,Maharashtra,12,694,3,8078.16,Beauty,Shampoo,Loreal
+CUST2382,Vijay,Male,Jaipur,Rajasthan,17,902,14,13187.24,Electronics,Power Bank,Noise
+CUST2383,Sangeeta,Female,Hyderabad,Telangana,10,168,13,1461.6,Clothing,Hoodie,Snitch
+CUST2384,Priya,Female,Chennai,Tamil Nadu,1,228,19,184.68,Clothing,Shirt,Snitch
+CUST2385,Priya,Female,Lucknow,Uttar Pradesh,18,295,18,4354.2,Footwear,Sneakers,Adidas
+CUST2386,Lakshmi,Female,Chennai,Tamil Nadu,18,239,12,3785.76,Electronics,Earbuds,Boat
+CUST2387,Neha,Female,Kolkata,West Bengal,14,543,9,6917.82,Beauty,Hair Oil,Mamaearth
+CUST2388,Ravi,Male,Chennai,Tamil Nadu,15,382,20,4584,Clothing,Kurti,Levis
+CUST2389,Karthik,Male,Mumbai,Maharashtra,12,411,4,4734.72,Accessories,Watch,RayBan
+CUST2390,Pooja,Female,Chennai,Tamil Nadu,4,845,26,2501.2,Electronics,Smartwatch,Boat
+CUST2391,Pooja,Female,Pune,Maharashtra,3,634,22,1483.56,Electronics,Power Bank,Boat
+CUST2392,Anita,Female,Bengaluru,Karnataka,12,764,19,7426.08,Beauty,Face Cream,Nivea
+CUST2393,Radhika,Female,Chennai,Tamil Nadu,7,376,28,1895.04,Accessories,Cap,Boat
+CUST2394,Naveen,Male,Mumbai,Maharashtra,11,160,19,1425.6,Footwear,Sandals,Puma
+CUST2395,Naveen,Male,Pune,Maharashtra,1,418,24,317.68,Electronics,Earbuds,Realme
+CUST2396,Sangeeta,Female,Delhi,Delhi,6,989,5,5637.3,Accessories,Sunglasses,Boat
+CUST2397,Rahul,Male,Bengaluru,Karnataka,15,151,3,2197.05,Accessories,Sunglasses,Titan
+CUST2398,Amit,Male,Pune,Maharashtra,15,955,1,14181.75,Footwear,Sandals,Puma
+CUST2399,Anita,Female,Jaipur,Rajasthan,19,252,21,3782.52,Beauty,Hair Oil,Nivea
+CUST2400,Manoj,Male,Pune,Maharashtra,11,848,15,7928.8,Accessories,Cap,RayBan
+CUST2401,Meera,Female,Lucknow,Uttar Pradesh,2,410,17,680.6,Accessories,Watch,Titan
+CUST2402,Neha,Female,Mumbai,Maharashtra,14,913,4,12270.72,Clothing,Shirt,H&M
+CUST2403,Radhika,Female,Jaipur,Rajasthan,2,643,21,1015.94,Accessories,Sunglasses,Boat
+CUST2404,Sangeeta,Female,Chennai,Tamil Nadu,4,666,3,2584.08,Beauty,Perfume,Mamaearth
+CUST2405,Deepak,Male,Jaipur,Rajasthan,17,963,29,11623.41,Accessories,Sunglasses,Boat
+CUST2406,Kavya,Female,Mumbai,Maharashtra,3,488,12,1288.32,Clothing,Shirt,Snitch
+CUST2407,Vijay,Male,Delhi,Delhi,13,647,18,6897.02,Accessories,Cap,Fossil
+CUST2408,Ravi,Male,Chennai,Tamil Nadu,9,721,22,5061.42,Beauty,Face Cream,Loreal
+CUST2409,Rahul,Male,Lucknow,Uttar Pradesh,7,276,1,1912.68,Clothing,Hoodie,Snitch
+CUST2410,Ravi,Male,Mumbai,Maharashtra,15,461,12,6085.2,Clothing,Kurti,Levis
+CUST2411,Deepak,Male,Mumbai,Maharashtra,11,413,10,4088.7,Accessories,Watch,Titan
+CUST2412,Priya,Female,Jaipur,Rajasthan,2,906,29,1286.52,Electronics,Earbuds,Noise
+CUST2413,Karthik,Male,Pune,Maharashtra,15,947,21,11221.95,Accessories,Sunglasses,Fossil
+CUST2414,Amit,Male,Bengaluru,Karnataka,14,196,28,1975.68,Footwear,Loafers,Nike
+CUST2415,Sangeeta,Female,Bengaluru,Karnataka,11,980,3,10456.6,Clothing,Hoodie,Snitch
+CUST2416,Neha,Female,Lucknow,Uttar Pradesh,3,312,21,739.44,Clothing,Kurti,Snitch
+CUST2417,Naveen,Male,Lucknow,Uttar Pradesh,17,928,19,12778.56,Electronics,Earbuds,Realme
+CUST2418,Lakshmi,Female,Delhi,Delhi,12,236,19,2293.92,Clothing,T-Shirt,H&M
+CUST2419,Lakshmi,Female,Ahmedabad,Gujarat,15,105,14,1354.5,Electronics,Earbuds,Realme
+CUST2420,Radhika,Female,Jaipur,Rajasthan,16,208,3,3228.16,Electronics,Power Bank,Noise
+CUST2421,Amit,Male,Hyderabad,Telangana,5,646,8,2971.6,Beauty,Shampoo,Mamaearth
+CUST2422,Deepak,Male,Mumbai,Maharashtra,6,138,6,778.32,Footwear,Running Shoes,Puma
+CUST2423,Rahul,Male,Chennai,Tamil Nadu,19,761,18,11856.38,Electronics,Power Bank,Boat
+CUST2424,Lakshmi,Female,Hyderabad,Telangana,5,524,18,2148.4,Footwear,Running Shoes,Puma
+CUST2425,Deepak,Male,Jaipur,Rajasthan,3,729,5,2077.65,Clothing,Jeans,Levis
+CUST2426,Karthik,Male,Hyderabad,Telangana,1,360,5,342,Beauty,Hair Oil,Nivea
+CUST2427,Divya,Female,Pune,Maharashtra,6,525,19,2551.5,Footwear,Sneakers,Puma
+CUST2428,Sangeeta,Female,Bengaluru,Karnataka,15,186,14,2399.4,Clothing,Jeans,H&M
+CUST2429,Anita,Female,Jaipur,Rajasthan,2,564,14,970.08,Footwear,Sneakers,Bata
+CUST2430,Manoj,Male,Pune,Maharashtra,3,175,24,399,Accessories,Belt,RayBan
+CUST2431,Divya,Female,Chennai,Tamil Nadu,17,570,19,7848.9,Clothing,Shirt,H&M
+CUST2432,Deepak,Male,Mumbai,Maharashtra,12,513,8,5663.52,Beauty,Perfume,Mamaearth
+CUST2433,Sangeeta,Female,Chennai,Tamil Nadu,18,924,3,16133.04,Clothing,Hoodie,Zara
+CUST2434,Kavya,Female,Mumbai,Maharashtra,15,994,17,12375.3,Clothing,Kurti,H&M
+CUST2435,Meera,Female,Hyderabad,Telangana,12,825,17,8217,Electronics,Power Bank,Realme
+CUST2436,Karthik,Male,Lucknow,Uttar Pradesh,16,556,4,8540.16,Accessories,Watch,Boat
+CUST2437,Radhika,Female,Jaipur,Rajasthan,8,384,19,2488.32,Accessories,Belt,Boat
+CUST2438,Ravi,Male,Delhi,Delhi,14,338,22,3690.96,Clothing,Jeans,Levis
+CUST2439,Amit,Male,Pune,Maharashtra,17,776,29,9366.32,Accessories,Sunglasses,Titan
+CUST2440,Vijay,Male,Kolkata,West Bengal,8,698,10,5025.6,Electronics,Power Bank,Noise
+CUST2441,Radhika,Female,Hyderabad,Telangana,15,752,4,10828.8,Beauty,Perfume,Mamaearth
+CUST2442,Priya,Female,Pune,Maharashtra,14,771,21,8527.26,Clothing,T-Shirt,Zara
+CUST2443,Vijay,Male,Ahmedabad,Gujarat,18,657,25,8869.5,Beauty,Hair Oil,Nivea
+CUST2444,Deepak,Male,Bengaluru,Karnataka,7,471,3,3198.09,Clothing,Kurti,Snitch
+CUST2445,Radhika,Female,Hyderabad,Telangana,3,594,28,1283.04,Footwear,Running Shoes,Bata
+CUST2446,Sanjay,Male,Kolkata,West Bengal,12,723,11,7721.64,Accessories,Cap,Fossil
+CUST2447,Neha,Female,Jaipur,Rajasthan,3,144,1,427.68,Accessories,Sunglasses,RayBan
+CUST2448,Priya,Female,Chennai,Tamil Nadu,14,500,12,6160,Accessories,Watch,Titan
+CUST2449,Lakshmi,Female,Ahmedabad,Gujarat,15,346,9,4722.9,Footwear,Running Shoes,Nike
+CUST2450,Manoj,Male,Hyderabad,Telangana,14,715,8,9209.2,Electronics,Earbuds,OnePlus
+CUST2451,Divya,Female,Ahmedabad,Gujarat,7,696,9,4433.52,Beauty,Shampoo,Loreal
+CUST2452,Manoj,Male,Bengaluru,Karnataka,17,549,6,8773.02,Beauty,Face Cream,Mamaearth
+CUST2453,Lakshmi,Female,Bengaluru,Karnataka,12,584,3,6797.76,Accessories,Watch,Fossil
+CUST2454,Manoj,Male,Mumbai,Maharashtra,4,745,18,2443.6,Clothing,T-Shirt,Levis
+CUST2455,Sangeeta,Female,Pune,Maharashtra,9,719,9,5888.61,Accessories,Cap,Titan
+CUST2456,Vijay,Male,Kolkata,West Bengal,6,117,29,498.42,Beauty,Face Cream,Nivea
+CUST2457,Sangeeta,Female,Delhi,Delhi,16,705,2,11054.4,Footwear,Sandals,Adidas
+CUST2458,Manoj,Male,Ahmedabad,Gujarat,2,761,24,1156.72,Beauty,Perfume,Loreal
+CUST2459,Lakshmi,Female,Ahmedabad,Gujarat,8,857,20,5484.8,Clothing,Hoodie,Zara
+CUST2460,Neha,Female,Mumbai,Maharashtra,11,388,28,3072.96,Accessories,Cap,Titan
+CUST2461,Ravi,Male,Lucknow,Uttar Pradesh,13,513,18,5468.58,Beauty,Face Cream,Nivea
+CUST2462,Neha,Female,Lucknow,Uttar Pradesh,17,820,20,11152,Clothing,Hoodie,Snitch
+CUST2463,Pooja,Female,Mumbai,Maharashtra,8,737,1,5837.04,Footwear,Sandals,Bata
+CUST2464,Manoj,Male,Kolkata,West Bengal,18,334,26,4448.88,Footwear,Sandals,Bata
+CUST2465,Karthik,Male,Pune,Maharashtra,18,515,19,7508.7,Clothing,Hoodie,Levis
+CUST2466,Sangeeta,Female,Bengaluru,Karnataka,14,598,9,7618.52,Electronics,Smartwatch,Noise
+CUST2467,Neha,Female,Bengaluru,Karnataka,15,733,1,10885.05,Electronics,Smartwatch,Boat
+CUST2468,Lakshmi,Female,Mumbai,Maharashtra,6,749,1,4449.06,Clothing,Kurti,H&M
+CUST2469,Arun,Male,Lucknow,Uttar Pradesh,11,214,27,1718.42,Accessories,Sunglasses,Boat
+CUST2470,Priya,Female,Ahmedabad,Gujarat,13,773,23,7737.73,Clothing,Shirt,Zara
+CUST2471,Meera,Female,Hyderabad,Telangana,1,812,16,682.08,Footwear,Sneakers,Adidas
+CUST2472,Karthik,Male,Bengaluru,Karnataka,6,333,15,1698.3,Clothing,Jeans,Levis
+CUST2473,Karthik,Male,Lucknow,Uttar Pradesh,9,639,15,4888.35,Electronics,Earbuds,OnePlus
+CUST2474,Radhika,Female,Bengaluru,Karnataka,8,110,13,765.6,Footwear,Loafers,Adidas
+CUST2475,Radhika,Female,Chennai,Tamil Nadu,11,305,6,3153.7,Electronics,Smartwatch,Realme
+CUST2476,Sangeeta,Female,Hyderabad,Telangana,19,778,20,11825.6,Footwear,Sandals,Nike
+CUST2477,Anita,Female,Kolkata,West Bengal,9,346,10,2802.6,Electronics,Earbuds,OnePlus
+CUST2478,Pooja,Female,Delhi,Delhi,17,658,23,8613.22,Beauty,Perfume,Mamaearth
+CUST2479,Meera,Female,Delhi,Delhi,12,857,0,10284,Accessories,Belt,Fossil
+CUST2480,Neha,Female,Delhi,Delhi,14,226,10,2847.6,Electronics,Smartwatch,OnePlus
+CUST2481,Meera,Female,Mumbai,Maharashtra,15,246,22,2878.2,Accessories,Belt,Fossil
+CUST2482,Divya,Female,Jaipur,Rajasthan,16,217,20,2777.6,Footwear,Sandals,Puma
+CUST2483,Pooja,Female,Pune,Maharashtra,1,481,3,466.57,Accessories,Cap,Boat
+CUST2484,Divya,Female,Bengaluru,Karnataka,10,511,6,4803.4,Electronics,Earbuds,Noise
+CUST2485,Deepak,Male,Pune,Maharashtra,8,763,25,4578,Accessories,Watch,Titan
+CUST2486,Radhika,Female,Bengaluru,Karnataka,18,683,14,10572.84,Accessories,Watch,Boat
+CUST2487,Divya,Female,Hyderabad,Telangana,1,462,17,383.46,Beauty,Shampoo,Mamaearth
+CUST2488,Kavya,Female,Ahmedabad,Gujarat,2,608,11,1082.24,Footwear,Running Shoes,Nike
+CUST2489,Kavya,Female,Mumbai,Maharashtra,1,236,16,198.24,Footwear,Sandals,Puma
+CUST2490,Divya,Female,Chennai,Tamil Nadu,1,274,0,274,Footwear,Loafers,Adidas
+CUST2491,Meera,Female,Ahmedabad,Gujarat,9,388,10,3142.8,Beauty,Perfume,Mamaearth
+CUST2492,Vijay,Male,Lucknow,Uttar Pradesh,13,580,27,5504.2,Electronics,Earbuds,Boat
+CUST2493,Radhika,Female,Hyderabad,Telangana,1,118,0,118,Electronics,Smartwatch,Realme
+CUST2494,Deepak,Male,Bengaluru,Karnataka,13,294,14,3286.92,Footwear,Sneakers,Bata
+CUST2495,Manoj,Male,Delhi,Delhi,7,429,27,2192.19,Beauty,Hair Oil,Loreal
+CUST2496,Neha,Female,Jaipur,Rajasthan,2,274,20,438.4,Footwear,Sandals,Nike
+CUST2497,Neha,Female,Hyderabad,Telangana,6,548,9,2992.08,Footwear,Sneakers,Puma
+CUST2498,Anita,Female,Lucknow,Uttar Pradesh,7,453,6,2980.74,Beauty,Shampoo,Lakme
+CUST2499,Priya,Female,Delhi,Delhi,14,598,1,8288.28,Beauty,Perfume,Lakme
+CUST2116,Rahul,Male,Lucknow,Uttar Pradesh,4,314,2,1230.88,Beauty,Shampoo,Mamaearth
+CUST2368,Anita,Female,Lucknow,Uttar Pradesh,6,484,22,2265.12,Beauty,Shampoo,Loreal
+CUST1422,Naveen,Male,Mumbai,Maharashtra,4,751,2,2943.92,Beauty,Shampoo,Lakme
+CUST1413,Divya,Female,Bengaluru,Karnataka,2,884,26,1308.32,Beauty,Perfume,Mamaearth
+CUST1451,Manoj,Male,Kolkata,West Bengal,9,265,19,1931.85,Footwear,Running Shoes,Adidas
+CUST1861,Arun,Male,Ahmedabad,Gujarat,6,370,0,2220,Clothing,Jeans,Levis
+CUST2063,Rahul,Male,Delhi,Delhi,9,982,16,7423.92,Beauty,Shampoo,Mamaearth
+CUST1741,Lakshmi,Female,Kolkata,West Bengal,10,173,20,1384,Accessories,Belt,RayBan
+CUST2272,Priya,Female,Pune,Maharashtra,9,146,15,1116.9,Footwear,Sneakers,Nike
+CUST1259,Lakshmi,Female,Kolkata,West Bengal,1,513,23,395.01,Footwear,Sandals,Puma
+CUST1888,Divya,Female,Bengaluru,Karnataka,15,780,25,8775,Clothing,Kurti,H&M
+CUST2432,Deepak,Male,Mumbai,Maharashtra,12,513,8,5663.52,Clothing,Jeans,H&M
+CUST1712,Meera,Female,Bengaluru,Karnataka,18,372,26,4955.04,Footwear,Running Shoes,Puma
+CUST2382,Vijay,Male,Jaipur,Rajasthan,17,902,14,13187.24,Footwear,Loafers,Adidas
+CUST1070,Anita,Female,Kolkata,West Bengal,15,264,2,3880.8,Beauty,Face Cream,Lakme
+CUST2268,Lakshmi,Female,Ahmedabad,Gujarat,5,250,27,912.5,Footwear,Running Shoes,Bata
+CUST2491,Meera,Female,Ahmedabad,Gujarat,9,388,10,3142.8,Footwear,Loafers,Bata
+CUST1607,Lakshmi,Female,Bengaluru,Karnataka,17,606,5,9786.9,Beauty,Hair Oil,Lakme
+CUST1433,Sangeeta,Female,Delhi,Delhi,7,595,1,4123.35,Clothing,Jeans,H&M
+CUST1051,Ravi,Male,Bengaluru,Karnataka,10,968,28,6969.6,Footwear,Running Shoes,Adidas
+CUST2199,Anita,Female,Bengaluru,Karnataka,7,551,25,2892.75,Footwear,Sandals,Nike
+CUST2128,Vijay,Male,Mumbai,Maharashtra,9,460,28,2980.8,Footwear,Running Shoes,Puma
+CUST2190,Arun,Male,Hyderabad,Telangana,3,659,1,1957.23,Footwear,Running Shoes,Puma
+CUST2249,Rahul,Male,Lucknow,Uttar Pradesh,6,466,22,2180.88,Footwear,Running Shoes,Puma
+CUST2419,Lakshmi,Female,Ahmedabad,Gujarat,15,105,14,1354.5,Accessories,Belt,Boat
+CUST1432,Pooja,Female,Delhi,Delhi,17,402,5,6492.3,Accessories,Belt,Titan
+CUST2452,Manoj,Male,Bengaluru,Karnataka,17,549,6,8773.02,Footwear,Sandals,Adidas
+CUST2470,Priya,Female,Ahmedabad,Gujarat,13,773,23,7737.73,Beauty,Face Cream,Mamaearth
+CUST2234,Karthik,Male,Kolkata,West Bengal,4,361,2,1415.12,Electronics,Earbuds,Realme
+CUST2281,Meera,Female,Kolkata,West Bengal,3,160,29,340.8,Clothing,T-Shirt,Snitch
+CUST2085,Rahul,Male,Lucknow,Uttar Pradesh,6,239,4,1376.64,Electronics,Bluetooth Speaker,OnePlus
+CUST1610,Meera,Female,Chennai,Tamil Nadu,8,366,6,2752.32,Footwear,Sandals,Adidas
+CUST2284,Kavya,Female,Mumbai,Maharashtra,15,260,24,2964,Beauty,Perfume,Mamaearth
+CUST2041,Deepak,Male,Mumbai,Maharashtra,5,382,24,1451.6,Accessories,Watch,Fossil
+CUST1220,Naveen,Male,Pune,Maharashtra,3,385,29,820.05,Beauty,Perfume,Mamaearth
+CUST1339,Karthik,Male,Mumbai,Maharashtra,17,802,1,13497.66,Beauty,Shampoo,Loreal
+CUST1423,Pooja,Female,Bengaluru,Karnataka,10,392,27,2861.6,Beauty,Face Cream,Mamaearth
+CUST1428,Arun,Male,Bengaluru,Karnataka,3,970,12,2560.8,Beauty,Perfume,Mamaearth
+CUST2105,Neha,Female,Lucknow,Uttar Pradesh,8,658,13,4579.68,Clothing,T-Shirt,Zara
+CUST1076,Pooja,Female,Delhi,Delhi,12,920,7,10267.2,Clothing,Kurti,Zara
+CUST2391,Pooja,Female,Pune,Maharashtra,3,634,22,1483.56,Footwear,Loafers,Bata
+CUST1439,Ravi,Male,Ahmedabad,Gujarat,9,991,11,7937.91,Electronics,Bluetooth Speaker,OnePlus
+CUST2336,Neha,Female,Bengaluru,Karnataka,11,779,26,6341.06,Accessories,Sunglasses,Boat
+CUST1864,Naveen,Male,Lucknow,Uttar Pradesh,7,806,15,4795.7,Electronics,Bluetooth Speaker,Boat
+CUST2080,Sanjay,Male,Mumbai,Maharashtra,9,111,20,799.2,Beauty,Hair Oil,Nivea
+CUST1354,Rahul,Male,Lucknow,Uttar Pradesh,5,972,4,4665.6,Electronics,Power Bank,Boat
+CUST1365,Arun,Male,Delhi,Delhi,5,393,19,1591.65,Beauty,Perfume,Nivea
+CUST1309,Pooja,Female,Bengaluru,Karnataka,14,502,29,4989.88,Beauty,Perfume,Nivea
+CUST1736,Divya,Female,Delhi,Delhi,8,192,17,1274.88,Accessories,Watch,RayBan
+CUST1998,Ravi,Male,Delhi,Delhi,3,407,8,1123.32,Footwear,Running Shoes,Adidas
+CUST1621,Karthik,Male,Jaipur,Rajasthan,15,786,29,8370.9,Footwear,Running Shoes,Bata
+CUST1543,Ravi,Male,Lucknow,Uttar Pradesh,16,154,17,2045.12,Accessories,Cap,Titan
+CUST2140,Anita,Female,Bengaluru,Karnataka,12,511,13,5334.84,Electronics,Smartwatch,Boat
+CUST2296,Karthik,Male,Chennai,Tamil Nadu,12,263,21,2493.24,Footwear,Sneakers,Bata
+CUST1554,Lakshmi,Female,Chennai,Tamil Nadu,17,746,29,9004.22,Electronics,Smartwatch,OnePlus
+CUST1679,Ravi,Male,Jaipur,Rajasthan,9,962,29,6147.18,Clothing,Kurti,Levis
+CUST1049,Priya,Female,Lucknow,Uttar Pradesh,2,269,23,414.26,Footwear,Loafers,Nike
+CUST1490,Sanjay,Male,Ahmedabad,Gujarat,19,657,16,10485.72,Beauty,Perfume,Mamaearth
+CUST1316,Sanjay,Male,Lucknow,Uttar Pradesh,17,436,13,6448.44,Footwear,Loafers,Nike
+CUST1904,Deepak,Male,Bengaluru,Karnataka,8,614,26,3634.88,Electronics,Earbuds,Realme
+CUST1636,Priya,Female,Mumbai,Maharashtra,19,104,3,1916.72,Footwear,Running Shoes,Adidas
+CUST1560,Amit,Male,Chennai,Tamil Nadu,14,430,23,4635.4,Clothing,Kurti,Levis
+CUST1486,Manoj,Male,Pune,Maharashtra,2,143,20,228.8,Electronics,Smartwatch,Realme
+CUST1067,Sangeeta,Female,Kolkata,West Bengal,15,377,8,5202.6,Electronics,Smartwatch,Realme
+CUST1811,Vijay,Male,Hyderabad,Telangana,15,140,2,2058,Footwear,Loafers,Nike
+CUST1493,Amit,Male,Pune,Maharashtra,13,201,28,1881.36,Accessories,Belt,RayBan
+CUST1310,Karthik,Male,Bengaluru,Karnataka,12,152,27,1331.52,Beauty,Shampoo,Lakme
+CUST2096,Ravi,Male,Delhi,Delhi,17,417,19,5742.09,Clothing,Kurti,H&M
+CUST2247,Priya,Female,Pune,Maharashtra,5,226,27,824.9,Electronics,Smartwatch,Boat
+CUST1184,Rahul,Male,Bengaluru,Karnataka,9,215,7,1799.55,Beauty,Hair Oil,Lakme
+CUST1306,Arun,Male,Chennai,Tamil Nadu,8,536,18,3516.16,Clothing,Shirt,Levis
